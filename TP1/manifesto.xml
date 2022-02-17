@@ -1,2 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?>
-<titulo>Tpc 1 - Criação de uma página Web</titulo>
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+    <Titulo>
+        Criação página web sobre Japão
+    </Titulo>
+    <Data>
+        17 de Fevereiro de 2022
+    </Data>
+    <Autor>
+        Joel Salgueiro Martins PG47347
+    </Autor>
+    <UC>
+        Representação e Processamento de Conhecimento na Web (RPCW)
+    </UC>
+    <Resumo>
+        Criação de uma página web sobre Japão. Foi desenvolvivda uma pequena descrição do país, bem como a apresentação da bandeira nacional.
+    </Resumo>
+    <ListaDeResultados>
+
+    </ListaDeResultados>
+</xml>
