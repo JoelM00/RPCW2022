@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Japão</title>
+    <link rel="icon" href="./img/fav.png">
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/fontawesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" crossorigin="anonymous"/>
+
+    
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+    <!-- NAVEGAÇÂO -->
+    <div class="w3-top">
+        <div class="w3-bar w3-black">
+            <span class="w3-bar-item w3-mobile titulo-pagina">
+                Japão
+                <img class="bandeira" src="./img/bandeira2.jpg">
+            </span>
+            <span class="w3-right w3-mobile">
+                <nav class="menu">
+                    <a href="#home" class="w3-bar-item w3-button w3-mobile w3-hover-red">Home</a>
+                    <a href="#cultura" class="w3-bar-item w3-button w3-mobile w3-hover-red">Cultura</a>
+                    <a href="#lugares" class="w3-bar-item w3-button w3-mobile w3-hover-red">Lugares</a>
+                    <a href="#comida" class="w3-bar-item w3-button w3-mobile w3-hover-red">Comida</a>
+                    <a href="#servicos" class="w3-bar-item w3-button w3-mobile w3-hover-red">Serviços</a>
+                    <a href="#contactos" class="w3-bar-item w3-button w3-mobile w3-hover-red">Contactos</a>
+                </nav>
+            </span>
+        </div>
+    </div>
+
+    <!-- HOME -->
+    <section id="home" class="home">
+        <div class="w3-container w3-center">
+            <h1 class="w3-text-shadow w3-animate-top">Começe a explorar o Japão</h1>
+            <hr>
+            <p class="para w3-animate-bottom">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum sint beatae nisi voluptatum quod dicta tempore <br> reiciendis! Dolorem fugit nostrum, aperiam repellendus nobis, laudantium repellat ea eius sed et nemo.</p>
+            <button onclick="document.getElementById('start-modal').style.display='block'" class="w3-button w3-round w3-red w3-large w3-hover-white">Começar</button>
+        </div>
+    </section>
+
+    <!-- SECÇÃO 1 -->
+    <section class="section w3-hover-opacity">
+        <div class="w3-container w3-center">
+            <i class="fas fa-home"></i>
+            <h2>Bem vindo ao Japão</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velrporie reiciendis blanditiis nostrum voluptas aliquid vero? Id praesentium rerum culpa asperiores dolore?</p>
+        </div>
+    </section>
+
+     <!-- SECÇÃO 2 -->
+     <section id="cultura" class="section w3-red w3-hover-opacity">
+        <div class="w3-container w3-center">
+            <i class="fas fa-language"></i>
+            <h2>Cultura do Japão</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velrporie reiciendis blanditiis nostrum voluptas aliquid vero? Id praesentium rerum culpa asperiores dolore?</p>
+        </div>
+    </section>
+
+    <!-- CULTURA -->
+    <section class="section">
+        <div class="w3-container">
+            <div class="w3-row-padding">
+                <div class="w3-col m5">
+                    <img src="./img/dragao.png">
+                    
+                </div>
+                <div class="w3-col m7">
+                    <button onclick="accordionFunction('como')" class="w3-button w3-black w3-block w3-left-align">
+                        Como é?
+                    </button>
+                    <div id="como" class="w3-container w3-show">
+                        <h3>Sua constituição</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adiipsum dolor sit amet consectetur adiipsum dolor sit amet consectetur adi</p>
+                    </div>
+
+                    <button onclick="accordionFunction('historia')" class="w3-button w3-black w3-block w3-left-align">
+                        Clique se lhe interessar: Qual a sua história?
+                    </button>
+                    <div id="historia" class="w3-container w3-hide">
+                        <h3>Desde o ano 1600</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adiipsum dolor sit amet consectetur adiipsum dolor sit amet consectetur adi</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- SECÇÃO 3 -->
+    <section id="lugares" class="section w3-red w3-hover-opacity">
+        <div class="w3-container w3-center">
+            <i class="fas fa-map-marker"></i>
+            <h2>Lugares do Japão</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velrporie reiciendis blanditiis nostrum voluptas aliquid vero? Id praesentium rerum culpa asperiores dolore?</p>
+        </div>
+    </section>
+
+    <!-- LUGARES -->
+    <section class="section">
+        <div class="w3-container">
+            <div class="w3-bar w3-black">
+                <button class="w3-bar-item w3-button tablink w3-red" onclick="abreOtab(event,'Tokyo')">Tokyo</button>
+                <button class="w3-bar-item w3-button tablink" onclick="abreOtab(event,'Kyoto')">Kyoto</button>
+                <button class="w3-bar-item w3-button tablink" onclick="abreOtab(event,'Okinawa')">Okinawa</button>
+                <button class="w3-bar-item w3-button tablink" onclick="abreOtab(event,'Kanazawa')">Kanazawa</button>
+                <button class="w3-bar-item w3-button tablink" onclick="abreOtab(event,'Takayama')">Takayama</button>
+            </div>
+                
+            <div id="Tokyo" class="w3-container w3-border city">
+                <div class="w3-col m7">
+                    <h2>Tokyo</h2>
+                    <p>Capital do país</p>
+                </div>
+                <div class="w3-col m5">
+                    <img src="./img/lugares.jpg" class="w3-round">
+                </div>
+            </div>
+            
+            <div id="Kyoto" class="w3-container w3-border city" style="display:none">
+                <div class="w3-col m7">
+                    <h2>Kyoto</h2>
+                    <p>Capital da cultura</p>
+                </div>
+                <div class="w3-col m5">
+                    <img src="./img/cultura3.jpg" class="w3-round">
+                </div>
+            </div>
+            
+            <div id="Okinawa" class="w3-container w3-border city" style="display:none">
+                <div class="w3-col m7">
+                    <h2>Okinawa</h2>
+                    <p>Paraíso tropical do Japão.</p>
+                </div>
+                <div class="w3-col m5">
+                    <img src="./img/praia.jpg" class="w3-round">
+                </div>
+            </div>
+                
+            <div id="Kanazawa" class="w3-container w3-border city" style="display:none">
+                <div class="w3-col m7">
+                    <h2>Kanazawa</h2>
+                    <p>Tem os maiores jardins.</p>
+                </div>
+                <div class="w3-col m5">
+                    <img src="./img/jardim.jpg" class="w3-round">
+                </div>
+            </div>
+                
+            <div id="Takayama" class="w3-container w3-border city" style="display:none">
+                <div class="w3-col m7">
+                    <h2>Takayama</h2>
+                    <p>O lugar dos templos</p>
+                </div>
+                <div class="w3-col m5">
+                    <img src="./img/templo.jpg" class="w3-round">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- COMIDA -->
+    <section id="comida" class="section w3-red w3-hover-opacity">
+        <div class="w3-container w3-center">
+            <i class="fas fa-hamburger"></i>
+            <h1 class="w3-text-shadow">Comida</h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velrporie reiciendis blanditiis nostrum voluptas aliquid vero? Id praesentium rerum culpa asperiores dolore?</p>
+        </div>
+    </section>
+
+    <!-- COMIDA ESPECIFICA -->
+    <section class="section">
+        <div class="w3-container">
+            <div class="w3-left">
+                <div class="w3-content w3-display-container" style="max-width:800px">
+                    <img class="mySlides" src="./img/comida.jpg" style="width:100%">
+                    <img class="mySlides" src="./img/comida2.jpg" style="width:100%">
+                    <img class="mySlides" src="./img/comida3.jpg" style="width:100%">
+                    <div class="w3-center w3-container w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
+                        <div class="w3-left w3-hover-text-khaki" onclick="plusDivs(-1)">&#10094;</div>
+                        <div class="w3-right w3-hover-text-khaki" onclick="plusDivs(1)">&#10095;</div>
+                        <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(1)"></span>
+                        <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(2)"></span>
+                        <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(3)"></span>
+                    </div>
+                  </div>
+            </div>
+            <div>
+                
+            </div>   
+        </div>
+    </section>
+
+    <!-- SERVIÇOS -->
+    <section id="servicos" class="section w3-red w3-hover-opacity">
+        <div class="w3-container w3-center">
+            <i class="fas fa-cog"></i>
+            <h1 class="w3-text-shadow">Serviços</h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velrporie reiciendis blanditiis nostrum voluptas aliquid vero? Id praesentium rerum culpa asperiores dolore?</p>
+        </div>
+    </section>
+    
+    <!-- SERVIÇOS ESPECIFICOS -->
+    <section class="section">
+        <div class="w3-container w3-center">   
+            <div class="w3-col m4">
+                <i class="fas fa-hospital w3-red w3-padding w3-round-xlarge"></i>
+                <h3>Saúde</h3>
+                <p>Lorem ipsum dolor sit si dignissimos voluptates cumque optio porro autem tem</p>
+            </div>
+            <div class="w3-col m4">
+                <i class="fas fa-yen-sign w3-red w3-padding w3-round-xlarge"></i>
+                <h3>Finanças</h3>
+                <p>Lorem ipsum dolor sit si dignissimos voluptates cumque optio porro autem tem</p>
+            </div>
+            <div class="w3-col m4">
+                <i class="fas fa-comment w3-red w3-padding w3-round-xlarge"></i>
+                <h3>Ajudas</h3>
+                <p>Lorem ipsum dolor sit si dignissimos voluptates cumque optio porro autem tem</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- CONTACTOS -->
+    <section id="contactos" class="section">
+        <div class="w3-container">
+            <div class="w3-col m7">
+                <div class="w3-center w3-black w3-hover-opacity">
+                    <h1 class="w3-text-shadow">Mantenha-se a par das novidades</h1>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velrporie reiciendis blanditiis nostrum voluptas aliquid vero? Id praesentium rerum culpa asperiores dolore?</p>
+                </div>
+
+                <div class="w3-center w3-panel w3-border w3-hover-border-red">
+                    <h3>Beneficios de se registar</h3>
+                    <ul class="w3-ul">
+                        <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias aperiam tenetur</li>
+                        <li>Lorem ipsum r adipisicing elit. Alias aperiam tenetur</li>
+                        <li>Lorem ipsum dolor sit amet cing elit. Alias aperiam tenetur</li>
+                    </ul>
+                </div>
+            
+                <div class="w3-card-4 w3-margin-top">
+                    <div class="w3-container w3-red">
+                        <h2>Registe-se</h2>
+                    </div>
+                    
+                    <form class="w3-container w3-padding-xlarge  w3-leftbar w3-border-white w3-hover-border-black">
+                        <label>Nome</label>
+                        <input class="w3-input" type="text">
+                        
+                        <label>Email</label>
+                        <input class="w3-input" type="email">
+
+                        <label>Password</label>
+                        <input class="w3-input" type="password">
+
+                        <label>Nif</label>
+                        <input class="w3-input" type="number">
+
+
+                        <button type="submit" class="w3-button w3-round w3-red w3-large w3-hover-black">Submeter</button>
+                        <br><br>
+                    </form>
+                </div>
+            </div>
+            <div class="w3-col m4">
+                <img src="./img/dragao2.jpg" class="w3-round imagem-final">
+            </div>
+        </div>
+        
+    </section>
+
+    <!-- CONTACTOS formulario -->
+    <section class="section">
+        <div class="w3-container">
+            
+           
+        </div>
+    </section>
+
+    <!-- FOOTER -->
+    <footer class="w3-black w3-padding w3-center w3-padding-xlarge">
+        <p>Japão &copy; 2022</p>
+    </footer>
+
+    <!-- MODAL -->
+    <div id="start-modal" class="w3-modal">
+        <div class="w3-modal-content">
+            <header class="w3-container w3-red">
+                <span class="w3-closebtn" onclick="document.getElementById('start-modal').style.display='none'">&times;</span>
+                <h2>Bem-Vindo</h2>
+            </header>
+            <div class="w3-container">
+                <form>
+                    <div class="w3-section">
+                        <label>Nome</label>
+                        <input class="w3-input w3-border w3-margin-bottom" type="text" placeholder="Coloque o nome">
+                        <label>Email</label>
+                        <input class="w3-input w3-border w3-margin-bottom" type="email" placeholder="Coloque o email">
+                        <label>Password</label>
+                        <input class="w3-input w3-border w3-margin-bottom" type="password" placeholder="Coloque a password">
+                        <button class="w3-black w3-btn-block w3-section w3-padding">Submeter</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+            integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+            crossorigin="anonymous">
+    </script>
+    <script src="./js/scripts.js"></script>
+
+</body>
+</html>

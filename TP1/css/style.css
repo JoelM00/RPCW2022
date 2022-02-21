@@ -1,0 +1,77 @@
+.titulo-pagina {
+    font-size: 17px;
+}
+
+.bandeira {
+    width: 30px;
+    height: 17px;
+    margin-left: 5px;
+}
+
+.home {
+    background: url('../img/japao1.jpg') no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+    padding: 140px 100px;
+    color: #fff;
+}
+
+.home h1 {
+    font-size: 45px;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-shadow: 2px 2px black;
+}
+
+.home .para {
+    padding-top: 20px;
+    font-size: 20px;
+    font-weight: 400;
+    text-shadow: 2px 2px black;
+}
+
+.home hr {
+    width: 400px;
+    margin: auto;
+    border-width: 3px;
+    border-color: red;
+}
+
+.home p {
+    font-size: 16px;
+    padding-bottom: 30px;
+}
+
+.section {
+    padding: 15px 0;
+}
+
+.section h2 {
+    padding: 0;
+    margin: 0;
+}
+
+.section .fas {
+    font-size: 30px;
+}
+
+.section img {
+    width: 100%;
+}
+
+.imagem-final {
+    margin-left: 70px;
+}
+
+
+@media only screen and (max-width: 600px) {
+    body {
+        margin-top: 190px;
+    }
+
+    .home {
+        height: 400px;
+        padding: 60px 0;
+    }
+}
