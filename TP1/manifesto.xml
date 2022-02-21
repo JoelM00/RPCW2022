@@ -7,20 +7,33 @@
         17 de Fevereiro de 2022
     </Data>
     <Autor>
-        Joel Salgueiro Martins PG47347
+        Joel Salgueiro Martins - PG47347
     </Autor>
     <UC>
         Representação e Processamento de Conhecimento na Web (RPCW)
     </UC>
     <Resumo>
-        Foi criada uma página com o objetivo de dar a conhecer o Japão
+        Foi criada uma página com o objetivo de dar a conhecer o Japão.
     </Resumo>
     <ficheiros>
 		<pasta nome="css">
-			
+            <ficheiro>style.css</ficheiro>
 		</pasta>
         <pasta nome="img">
-			
+			<ficheiro>bandeira2.jpg</ficheiro>
+            <ficheiro>comida.jpg</ficheiro>
+            <ficheiro>comida2.jpg</ficheiro>
+            <ficheiro>comida3.jpg</ficheiro>
+            <ficheiro>cultura.jpg</ficheiro>
+            <ficheiro>cultura3.jpg</ficheiro>
+            <ficheiro>dragao.jpg</ficheiro>
+            <ficheiro>dragao2.jpg</ficheiro>
+            <ficheiro>fav.jpg</ficheiro>
+            <ficheiro>japao1.jpg</ficheiro>
+            <ficheiro>jardim.jpg</ficheiro>
+            <ficheiro>lugares.jpg</ficheiro>
+            <ficheiro>praia.jpg</ficheiro>
+            <ficheiro>templo.jpg</ficheiro>
 		</pasta>
         <pasta nome="js">
             <ficheiro>scripts.js</ficheiro>
