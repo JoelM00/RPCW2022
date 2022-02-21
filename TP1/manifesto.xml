@@ -13,9 +13,18 @@
         Representação e Processamento de Conhecimento na Web (RPCW)
     </UC>
     <Resumo>
-
+        Foi criada uma página com o objetivo de dar a conhecer o Japão
     </Resumo>
-    <ListaDeResultados>
-
-    </ListaDeResultados>
+    <ficheiros>
+		<pasta nome="css">
+			
+		</pasta>
+        <pasta nome="img">
+			
+		</pasta>
+        <pasta nome="js">
+            <ficheiro>scripts.js</ficheiro>
+		</pasta>
+		<ficheiro>index.html</ficheiro>
+	</ficheiros>
 </xml>
