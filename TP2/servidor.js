@@ -45,7 +45,7 @@ myservidor = http.createServer(function(req,res) {
         pagina = "./site/indexAtores.html"
     } else if (parsedPath[2] == 'scripts.js') {
         pagina = "./site/js/scripts.js"
-    } else if (parsedPath[2] == 'favicon.png') {
+    } else if (parsedPath[2] == 'favicon.png' || parsedPath[3] == 'favicon.png') {
         pagina = "./site/img/favicon.png"
     } else if (parsedPath[2] == 'filme.png') {
         pagina = "./site/img/filme.png"

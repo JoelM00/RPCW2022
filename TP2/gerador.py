@@ -1,7 +1,8 @@
+import enum
 import json
 
 
-def geraFilme(ficheiro,filme):
+def geraFilme(ficheiro,filme,atoresPag):
     ficheiro.write(f'''<!DOCTYPE html>
 <html>
     <head>
@@ -15,12 +16,12 @@ def geraFilme(ficheiro,filme):
             <h1 class="w3-blue w3-center">{filme["title"]}</h1>
         </header>    
     ''')
-    ficheiro.write(f'\t<ul class="w3-ul w3-center w3-hoverable">\n')
+    ficheiro.write(f'\t<ul class="w3-ul w3-center">\n')
     ficheiro.write(f'\t\t\t<li><h3>Ano</h3><b>{filme["year"]}</b></li>\n')
     ficheiro.write(f'\t\t\t<li><h3>Atores</h3>\n')
-    ficheiro.write(f'\t\t\t\t<ul class="w3-ul w3-center">\n')
+    ficheiro.write(f'\t\t\t\t<ul class="w3-ul w3-center w3-hoverable">\n')
     for a in filme["cast"]:
-        ficheiro.write(f'\t\t\t\t\t<li>{a}</li>\n')
+        ficheiro.write(f'\t\t\t\t\t<li><a href="/atores/{atoresPag[a]}">{a}</a></li>\n')
     ficheiro.write(f'\t\t\t\t</ul>\n\t\t\t</li>\n')
 
     ficheiro.write(f'\t\t\t<li><h3>Generos</h3>\n')
@@ -28,7 +29,7 @@ def geraFilme(ficheiro,filme):
     for g in filme["genres"]:
         ficheiro.write(f'\t\t\t\t\t<li>{g}</li>\n')
     ficheiro.write(f'\t\t\t\t</ul>\n\t\t\t</li>\n\t\t</ul>\n')
-    ficheiro.write(f'''\t\t<footer class="w3-black w3-padding w3-center w3-padding-xlarge">
+    ficheiro.write(f'''\t\t<footer class="w3-black w3-padding w3-center w3-padding-xlarge w3-bottom">
             <p>{filme["title"]} &copy; 2022</p>
         </footer>
     ''')
@@ -77,9 +78,9 @@ def geraAtor(ficheiro,ator,filmes,filmPag):
             <h1 class="w3-blue w3-center">{ator}</h1>
         </header>    
     ''')
-    ficheiro.write(f'\t<ul class="w3-ul w3-center w3-hoverable">\n')
+    ficheiro.write(f'\t<ul class="w3-ul w3-center">\n')
     ficheiro.write(f'\t\t\t<li><h3>Filmes</h3>\n')
-    ficheiro.write(f'\t\t\t\t<ul class="w3-ul w3-center">\n')
+    ficheiro.write(f'\t\t\t\t<ul class="w3-ul w3-center w3-hoverable">\n')
     for f in filmes:
         ficheiro.write(f'\t\t\t\t\t<li><a href="/filmes/{filmPag[f]}">{f}</a></li>\n')
     ficheiro.write(f'\t\t\t\t</ul>\n\t\t\t</li>\n')
@@ -191,18 +192,24 @@ indexFilmes = open(f'./site/indexFilmes.html','w')
 geraIndex(index)
 
 associacaoFilPag = {}
+associacaoAtorPag = {}
 
 for i,filme in enumerate(dadosOrdenados):
-    ficheiro = open(f'./paginas/filmes/f{i}.html', 'w')
     associacaoFilPag[filme["title"]] = f'f{i}'
-    geraFilme(ficheiro,filme)
 
 geraIndexFilmes(indexFilmes,dadosOrdenados)
 
 i = 0
 for a,f in atores.items():
     ficheiro = open(f'./paginas/atores/a{i}.html', 'w')
+    associacaoAtorPag[a] = f'a{i}'
     geraAtor(ficheiro,a,f,associacaoFilPag)
     i += 1
+
+
+for i,filme in enumerate(dadosOrdenados):
+    ficheiro = open(f'./paginas/filmes/f{i}.html', 'w')
+    geraFilme(ficheiro,filme,associacaoAtorPag)
+
 
 geraIndexAtores(indexAtores,atores.keys())
