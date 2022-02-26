@@ -1,0 +1,15 @@
+1 -> Ler o json (com python jsonload)| gerar 1 pagina html para cada filme 
+
+2 -> Criar um servidor para servir as páginas da forma: 
+    localhost:http://qualquerCoisa/filmes/f1
+    localhost:qualquerCoisa/filmes/f2
+    localhost:qualquerCoisa/filmes/f3
+
+3 -> Fazer com a rota:
+    localhost:qualquercoisa/filmes
+
+    Fornece uma pagina html (index.html) com os filmes por ordem alfabetica. Cada filme é um link que redireciona para a pagina html correspondente
+
+4 -> Responder à rota: 
+    localhost: .../atores  (pagina com os atores)
+                  /atores/a1 (pagina do ator com todos os filmes em que participou)
