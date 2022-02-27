@@ -1,21 +1,64 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xml>
-    <Titulo>
-        Criação página web sobre Japão
-    </Titulo>
-    <Data>
-        17 de Fevereiro de 2022
-    </Data>
-    <Autor>
-        Joel Salgueiro Martins PG47347
-    </Autor>
-    <UC>
-        Representação e Processamento de Conhecimento na Web (RPCW)
-    </UC>
-    <Resumo>
-
-    </Resumo>
-    <ListaDeResultados>
-
-    </ListaDeResultados>
-</xml>
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+    <meta>
+        <titulo>TPC2: Um servidor de páginas Web</titulo>
+        <data>2022-02-22</data>
+        <autor>
+            <id>PG47347</id>
+            <nome>Joel Salgueiro Martins</nome>
+        </autor>
+        <uc>
+            <sigla>RPCW2022</sigla>
+            <nome>Representação e Processamento de Conhecimento na Web</nome>
+        </uc>
+    </meta>
+    <resumo>
+        <p>Um servidor de páginas Web com conteúdo relativo a filmes e a atores</p>
+        <p>As páginas web foram todas geradas com o gerador.py</p>
+        <p>O servidor fornece uma index.html que referência duas subpáginas, uma para ver os filmes, outra para ver os atores</p>
+        <p>Cada página de um filme referência a página dos seus respetivos atores</p>
+        <p>Cada página de um ator referência a página dos seus respetivos filmes</p>
+    </resumo>
+    <resultados>
+        <resultado>
+            <url>gerador.py</url>
+            <texto>Gerador de paginas html</texto>
+        </resultado>
+        <resultado>
+            <url>servidor.js</url>
+            <texto>Servidor de paginas html</texto>
+        </resultado>
+        <resultado>
+            <url>cinemaATP.json</url>
+            <texto>Dataset bruto para construção das páginas html</texto>
+        </resultado>
+        <resultado>
+            <url>site/</url>
+            <texto>Pasta que contém ficheiros relativos ao index principal, index de atores e index de filmes</texto>
+        </resultado>
+        <resultado>
+            <url>paginas/</url>
+            <texto>Pasta que contém as páginas html geradas</texto>
+        </resultado>
+        <resultado>
+            <url>index.html/</url>
+            <texto>Página principal da aplicação Web</texto>
+        </resultado>
+        <resultado>
+            <url>indexAtores.html/</url>
+            <texto>Subpágina principal da aplicação Web para atores</texto>
+        </resultado>
+        <resultado>
+            <url>indexFilmes.html/</url>
+            <texto>Subpágina principal da aplicação Web para filmes</texto>
+        </resultado>
+        <resultado>
+            <url>enunciado/</url>
+            <texto>Enunciado do tpc</texto>
+        </resultado>
+         <resultado>
+            <url>404.html/</url>
+            <texto>Página fornecida em casos de mau redirecionamento</texto>
+        </resultado>
+    <resultados>
+</doc>
