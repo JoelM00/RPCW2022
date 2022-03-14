@@ -41,3 +41,36 @@
 		<ficheiro>index.html</ficheiro>
 	</ficheiros>
 </xml>
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+    <meta>
+        <titulo>TPC1: uma página web</titulo>
+        <data>2022-02-15</data>
+        <autor>
+            <id>PG47347</id>
+            <nome>Joel Salgueiro Martins</nome>
+        </autor>
+        <uc>
+            <sigla>RPCW2022</sigla>
+            <nome>Representação e Processamento de Conhecimento na Web</nome>
+        </uc>
+    </meta>
+    <resumo>
+        <p>Criei uma página com o objetivo de dar a conhecer o Japão.</p>
+        <p>Tentei explorar ao máximo a framework w3 de css</p>
+    </resumo>
+    <resultados>
+        <resultado>
+            <url>index.html</url>
+            <texto>Página web principal</texto>
+        </resultado>
+        <resultado>
+            <url>./css/style.css</url>
+            <texto>Stylesheet da pagina</texto>
+        </resultado>
+       <resultado>
+            <url>./js/scripts.css</url>
+            <texto>Javascript da pagina</texto>
+        </resultado>
+    </resultados>
+</doc>
