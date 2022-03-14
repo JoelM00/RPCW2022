@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+@import url('https://www.w3schools.com/w3css/4/w3.css');
+
+body {
+    background: #eee;
+    font-family: 'Roboto';
+    color: #444;
+    max-width: 960px;
+    margin: 100px auto;
+    padding: 10px;
+}
+
+nav a {
+    display: flex;
+    color: black;
+    font-weight: 500;
+    text-decoration: none;
+    background: lightgray;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+    background-color: crimson;
+    color: white;
+}
+
+form input {
+    padding: 10px;
+    border-radius: 10px;
+}
+
+form input:hover {
+    border: 2px crimson solid;
+}
+
+h1 {
+    text-align: center;
+    color: crimson;
+    font-size: 35px;
+    font-weight: 600;
+}
+
+
+form {
+    max-width: 500px;
+    margin-bottom: 20px;
+}
+
+
+/*Post list*/
+.li-item {
+    padding: 16px;
+    background: white;
+    border-radius: 10px;
+    margin: 20px 0;
+}
+
+.li-item h2 {
+    margin: 0;
+    font-weight: 500;
+}
+
+.li-item p {
+    margin-top: 0;
+}
+
+.li-item a {
+    color: crimson;
+}
+
+.li-item a:hover {
+    text-decoration: none;
+}
+
+.caixa {
+    padding: 10px;
+    margin: 20px;
+    display: block;
+}
+
+.caixa:hover {
+    border: 2px crimson solid;
+}
