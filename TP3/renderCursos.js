@@ -58,7 +58,6 @@ module.exports = function renderCursos(res,query) {
 
             pagina += `
                 </div>
-                <script src="/scriptSearCurso"></script>
             </body></html>
             `
             res.end(pagina)

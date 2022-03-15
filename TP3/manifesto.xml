@@ -1,21 +1,87 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xml>
-    <Titulo>
-        Criação página web sobre Japão
-    </Titulo>
-    <Data>
-        17 de Fevereiro de 2022
-    </Data>
-    <Autor>
-        Joel Salgueiro Martins PG47347
-    </Autor>
-    <UC>
-        Representação e Processamento de Conhecimento na Web (RPCW)
-    </UC>
-    <Resumo>
-
-    </Resumo>
-    <ListaDeResultados>
-
-    </ListaDeResultados>
-</xml>
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+    <meta>
+        <titulo>TPC3: Um servidor de páginas Web construidas com informacao servida por um servidor externo</titulo>
+        <data>15-03-2022</data>
+        <autor>
+            <id>PG47347</id>
+            <nome>Joel Salgueiro Martins</nome>
+        </autor>
+        <uc>
+            <sigla>RPCW2022</sigla>
+            <nome>Representação e Processamento de Conhecimento na Web</nome>
+        </uc>
+    </meta>
+    <resumo>
+        <p>Um servidor de páginas Web com conteúdo relativo a uma escola de musica</p>
+        <p>As páginas web construidas em tempo de execucao pelo server</p>
+        <p>O cliente tem a possibilidade de criar um novo curso assim como o apagar. Tambem pode pesquisar um curso particular</p>
+        <p>A pagina com todas as funcionalidades que previ implementar é a dos cursos, a dos alunos e instrumentos ainda está por acabar</p>
+    </resumo>
+    <resultados>
+        <resultado>
+            <url>createCursos.js</url>
+            <texto>Modulo com o JS para geracao da pagina de criacao do curso</texto>
+        </resultado>
+        <resultado>
+            <url>renderAlunoDetalhe.js</url>
+            <texto>Modulo com o JS para geracao da pagina de detalhes do aluno</texto>
+        </resultado>
+        <resultado>
+            <url>renderCursoDetalhe.js</url>
+            <texto>Modulo com o JS para geracao da pagina de detalhes do curso</texto>
+        </resultado>
+        <resultado>
+            <url>renderInstrumentoDetalhe.js</url>
+            <texto>Modulo com o JS para geracao da pagina de detalhes do instrumento</texto>
+        </resultado>
+        <resultado>
+            <url>renderAlunos.js</url>
+            <texto>Modulo com o JS para geracao da pagina principal para os alunos</texto>
+        </resultado>
+        <resultado>
+            <url>renderCursos.js</url>
+            <texto>Modulo com o JS para geracao da pagina principal para os cursos</texto>
+        </resultado>
+        <resultado>
+            <url>renderInstrumentos.js</url>
+            <texto>Modulo com o JS para geracao da pagina principal para os instrumentos</texto>
+        </resultado>
+        <resultado>
+            <url>renderIndex.js</url>
+            <texto>Modulo com o JS para geracao da pagina principal</texto>
+        </resultado>
+        <resultado>
+            <url>server.js</url>
+            <texto>Servidor capaz de receber os pedidos do cliente e processa-los</texto>
+        </resultado>
+        <resultado>
+            <url>data/db.json</url>
+            <texto>Dataset para gerecao do servidor json</texto>
+        </resultado>
+        <resultado>
+            <url>data/backup.json</url>
+            <texto>Backup do dataset para gerecao do servidor json</texto>
+        </resultado>
+        <resultado>
+            <url>views/css/style.css</url>
+            <texto>Alguns efeitos de css para as paginas</texto>
+        </resultado>
+        <resultado>
+            <url>views/img/servidor.png</url>
+            <texto>Favicon para o browser</texto>
+        </resultado>
+        <resultado>
+            <url>views/js/scriptCreCurso.js</url>
+            <texto>Codigo JS para a pagina de criacao de curso</texto>
+        </resultado>
+        <resultado>
+            <url>views/js/scriptDelCurso.js</url>
+            <texto>Codigo JS para o botao de delete do curso (usado na pagina de detalhes do curso)</texto>
+        </resultado>
+        <resultado>
+            <url>views/404.html</url>
+            <texto>Pagina enviada quando algo corre mal</texto>
+        </resultado>
+    <resultados>
+</doc>
