@@ -31,20 +31,8 @@
             <texto>Modulo com o JS usado pelo server para extrair o conteudo de um post</texto>
         </resultado>
         <resultado>
-            <url>renderEdicao.js</url>
-            <texto>Modulo com o JS para geracao da pagina de edicao de uma tarefa</texto>
-        </resultado>
-        <resultado>
-            <url>renderFormulario.js</url>
-            <texto>Modulo com o JS para geracao da pagina com o formulario para criacao da tarefa (achei melhor solução face a ter tudo na mesma página...)</texto>
-        </resultado>
-        <resultado>
             <url>renderIndex.js</url>
             <texto>Modulo com o JS para geracao da pagina principal da aplicação</texto>
-        </resultado>
-        <resultado>
-            <url>renderInserido.js</url>
-            <texto>Modulo com o JS para geracao da pagina para tarefas inseridas (não usado)</texto>
         </resultado>
         <resultado>
             <url>server.js</url>

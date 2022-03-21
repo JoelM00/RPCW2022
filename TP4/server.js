@@ -8,18 +8,13 @@ var extraiPost = require('./extraiPost.js')
 var concluirTarefa = require('./concluirTarefa.js')
 var apagarTarefa = require('./apagarTarefa.js')
 
-
 var renderIndex = require('./renderIndex.js')
-const renderFormulario = require('./renderFormulario.js')
-const renderInserido = require('./renderInserido.js')
-const renderEdicao = require('./renderEdicao.js')
-
 
 myserver = http.createServer(function(req,res) {
 
-    console.log(req.method)
-
     var data = new Date().toISOString().substring(0, 16)
+
+    console.log("$ -> ",data," - ",req.method)
 
     var pathName = url.parse(req.url,true).pathname
     console.log("Pathname: ",pathName)
@@ -28,13 +23,10 @@ myserver = http.createServer(function(req,res) {
         if (pathName == "/") { 
             renderIndex(res,"")
 
-        } else if (pathName == "/criar") {
-            renderFormulario(res)
-
         } else if(/\/editar\/./.test(pathName)) {
             var idTarefa = req.url.split("/")[2]
 
-            renderEdicao(res,idTarefa)
+            renderIndex(res,"editar",idTarefa)
 
         } else if(/\/apagar\/./.test(pathName)) {
             var idTarefa = req.url.split("/")[3]
