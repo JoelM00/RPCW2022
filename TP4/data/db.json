@@ -1,0 +1,32 @@
+{
+  "tarefasF": [
+    {
+      "executor": "joel",
+      "limite": "2022-03-22",
+      "tarefa": "fazer o tpc 4",
+      "tipo": "urgente",
+      "criacao": "2022-03-21T12:56",
+      "editada": "2022-03-21T12:57",
+      "id": "123",
+      "conclusao": "2022-03-21T12:57"
+    }
+  ],
+  "tarefasNF": [
+    {
+      "executor": "Gertrudes",
+      "limite": "2022-04-06",
+      "tarefa": "fazer alguma coisa",
+      "tipo": "importante",
+      "id": "321",
+      "criacao": "2022-03-21T12:56"
+    },
+    {
+      "executor": "Anastácia",
+      "limite": "2022-04-08",
+      "tarefa": "limpar a cozinha e o quarto",
+      "tipo": "pouco importante",
+      "id": "12312341234",
+      "criacao": "2022-03-21T12:57"
+    }
+  ]
+}
