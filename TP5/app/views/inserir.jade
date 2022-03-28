@@ -1,0 +1,29 @@
+extends layout
+
+block content
+    h1 Insira uma nova musica
+    h2 Gerado a: #{adicionais.data}
+    hr
+    address 
+        a(class="botao" href="/") Volta à pagina inicial
+    hr
+    
+    form(action="/musicas" method="post")
+        label(for="titulo")
+        input(name="titulo" class="w3-input w3-border w3-light-grey" type="text" placeholder="Insira o titulo..." required)
+        label(for="musico")
+        input(name="musico" class="w3-input w3-border w3-light-grey" type="text" placeholder="Insira o musico..." required)
+        label(for="prov")
+        input(name="prov" class="w3-input w3-border w3-light-grey" type="text" placeholder="Insira a provincia..." required)
+        label(for="local")
+        input(name="local" class="w3-input w3-border w3-light-grey" type="text" placeholder="Insira a local...")
+        label(for="obs")
+        input(name="obs" class="w3-input w3-border w3-light-grey" type="text" placeholder="Insira a obs...")
+        label(for="fileType")
+        input(name="fileType" class="w3-input w3-border w3-light-grey" type="text" placeholder="Insira o fileType...")
+        
+        input(type="submit" class="botao" value="Enviar")
+        input(type="reset" class="botao" value="Limpar")
+
+        
+

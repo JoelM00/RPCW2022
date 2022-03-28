@@ -1,0 +1,4802 @@
+{
+    "musicas": [
+        {
+            "tit": "Disse a laranja ao limï¿½o",
+            "local": "Santa Vitï¿½ria, Beja",
+            "fileType": "MP3",
+            "duracao": "1:02",
+            "musico": "Jorge Montes Caranova (viola campaniï¿½a)",
+            "file": "d1/evo001.mp3",
+            "prov": "Alentejo",
+            "id": 0
+        },
+        {
+            "obsFiles": [
+                {
+                    "file": "audiocurswa/0403evo0.swa",
+                    "fileType": "SWA"
+                },
+                {
+                    "file": "audiocurmp3/0403evo0.mp3",
+                    "fileType": "MP3"
+                }
+            ],
+            "tit": "Murianos ï¿½ bom povo",
+            "local": "Santa Vitï¿½ria, Beja",
+            "file": "d1/evo002.mp3",
+            "fileType": "MP3",
+            "duracao": "1:10",
+            "musico": "Jorge Montes Caranova (viola campaniï¿½a)",
+            "obs": "Partitura,   versï¿½o curta ",
+            "prov": "Alentejo",
+            "id": 1
+        },
+        {
+            "duracao": "1:16",
+            "local": "Santa Vitï¿½ria, Beja",
+            "fileType": "MP3",
+            "file": "d1/evo003.mp3",
+            "musico": "Jorge Montes Caranova (viola campaniï¿½a)",
+            "tit": "Cantiga de despique",
+            "prov": "Alentejo",
+            "id": 2
+        },
+        {
+            "obsFiles": [
+                {
+                    "file": "audiocurswa/0401evo0.swa",
+                    "fileType": "SWA"
+                },
+                {
+                    "file": "audiocurmp3/0401evo0.mp3",
+                    "fileType": "MP3"
+                }
+            ],
+            "duracao": "0:20",
+            "local": "Santa Vitï¿½ria, Beja",
+            "fileType": "MP3",
+            "file": "d1/evo004.mp3",
+            "musico": "Jorge Montes Caranova (viola campaniï¿½a)",
+            "obs": "Partitura,   versï¿½o curta ",
+            "prov": "Alentejo",
+            "tit": "Afinaï¿½ï¿½o da viola campaniï¿½a",
+            "id": 3
+        },
+        {
+            "obsFiles": [
+                {
+                    "file": "audiocurswa/0203evo0.swa",
+                    "fileType": "SWA"
+                },
+                {
+                    "file": "audiocurmp3/0203evo0.mp3",
+                    "fileType": "MP3"
+                }
+            ],
+            "musico": "Catarina Chitas; Manuel Moreira (viola beiroa)",
+            "duracao": "1:46",
+            "fileType": "MP3",
+            "local": "Penha Garcia",
+            "file": "d1/evo005.mp3",
+            "tit": "Parabï¿½ns e serenata aos noivos",
+            "obs": "Partitura,   versï¿½o curta ",
+            "prov": "Beira Baixa",
+            "id": 4
+        },
+        {
+            "obsFiles": [
+                {
+                    "file": "audiocurswa/0202evo0.swa",
+                    "fileType": "SWA"
+                },
+                {
+                    "file": "audiocurmp3/0202evo0.mp3",
+                    "fileType": "MP3"
+                }
+            ],
+            "musico": "Manuel Moreira (viola beiroa)",
+            "tit": "Senhora da Pï¿½voa",
+            "fileType": "MP3",
+            "local": "Penha Garcia",
+            "duracao": "0:43",
+            "file": "d1/evo006.mp3",
+            "obs": "Partitura,   versï¿½o curta ",
+            "prov": "Beira Baixa",
+            "id": 5
+        },
+        {
+            "tit": "O pai da Laurinda",
+            "musico": "Catarina Chitas; Manuel Moreira (viola beiroa)",
+            "fileType": "MP3",
+            "local": "Penha Garcia",
+            "duracao": "1:39",
+            "file": "d1/evo007.mp3",
+            "prov": "Beira Baixa",
+            "id": 6
+        },
+        {
+            "obsFiles": [
+                {
+                    "file": "audiocurswa/0201evo0.swa",
+                    "fileType": "SWA"
+                },
+                {
+                    "file": "audiocurmp3/0201evo0.mp3",
+                    "fileType": "MP3"
+                }
+            ],
+            "duracao": "0:25",
+            "tit": "Afinaï¿½ï¿½o da viola beiroa",
+            "musico": "Catarina Chitas; Manuel Moreira (viola beiroa)",
+            "file": "d1/evo008.mp3",
+            "fileType": "MP3",
+            "local": "Penha Garcia",
+            "obs": "Partitura,   versï¿½o curta ",
+            "prov": "Beira Baixa",
+            "id": 7
+        },
+        {
+            "local": "Santa Vitï¿½ria, Beja",
+            "file": "d1/evo009.mp3",
+            "fileType": "MP3",
+            "duracao": "1:39",
+            "musico": "Jorge Montes Caranova (viola campaniï¿½a)",
+            "tit": "Cantiga de despique",
+            "prov": "Alentejo",
+            "obs": "interrupï¿½ï¿½o no meio, no original",
+            "id": 8
+        },
+        {
+            "file": "d1/evo010.mp3",
+            "local": "Santa Vitï¿½ria, Beja",
+            "tit": "Esse teu vestido de chita",
+            "fileType": "MP3",
+            "musico": "Jorge Montes Caranova (viola campaniï¿½a)",
+            "obs": "original com falhas",
+            "prov": "Alentejo",
+            "duracao": "1:42",
+            "id": 9
+        },
+        {
+            "duracao": "1:25",
+            "local": "Santa Vitï¿½ria, Beja",
+            "fileType": "MP3",
+            "tit": "Prima Josefa",
+            "musico": "Jorge Montes Caranova (viola campaniï¿½a)",
+            "obs": "idï¿½ntica a Murianos ï¿½ bom povo",
+            "prov": "Alentejo",
+            "file": "d1/evo011.mp3",
+            "id": 10
+        },
+        {
+            "obsFiles": [
+                {
+                    "file": "audiocurswa/0402evo0.swa",
+                    "fileType": "SWA"
+                },
+                {
+                    "file": "audiocurmp3/0402evo0.mp3",
+                    "fileType": "MP3"
+                }
+            ],
+            "duracao": "1:04",
+            "local": "Santa Vitï¿½ria, Beja",
+            "fileType": "MP3",
+            "musico": "Jorge Montes Caranova (viola campaniï¿½a)",
+            "file": "d1/evo012.mp3",
+            "obs": "Partitura,   versï¿½o curta ",
+            "tit": "Moda para viola",
+            "prov": "Alentejo",
+            "id": 11
+        },
+        {
+            "duracao": "1:07",
+            "obs": "pequena interrupï¿½ï¿½o e final com falhas",
+            "tit": "Disse a laranja ao limï¿½o",
+            "file": "d1/evo013.mp3",
+            "local": "Santa Vitï¿½ria, Beja",
+            "fileType": "MP3",
+            "musico": "Jorge Montes Caranova (viola campaniï¿½a)",
+            "prov": "Alentejo",
+            "id": 12
+        },
+        {
+            "file": "d1/evo014.mp3",
+            "duracao": "1:55",
+            "local": "Vila Verde de Ficalho",
+            "fileType": "MP3",
+            "tit": "Marcha da Procissï¿½o de Nï¿½ Sï¿½ das Pazes",
+            "musico": "Romï¿½o Estradas (Tamboril e pï¿½faro)",
+            "prov": "Alentejo",
+            "id": 13
+        },
+        {
+            "local": "Vila Verde de Ficalho",
+            "fileType": "MP3",
+            "tit": "Alvorada",
+            "file": "d1/evo015.mp3",
+            "duracao": "1:06",
+            "musico": "Romï¿½o Estradas (Tamboril e pï¿½faro)",
+            "prov": "Alentejo",
+            "id": 14
+        },
+        {
+            "tit": "Corridinho",
+            "local": "Vila Verde de Ficalho",
+            "fileType": "MP3",
+            "file": "d1/evo016.mp3",
+            "duracao": "0:42",
+            "musico": "Romï¿½o Estradas (Tamboril e pï¿½faro)",
+            "prov": "Alentejo",
+            "id": 15
+        },
+        {
+            "obsFiles": [
+                {
+                    "file": "audiocurswa/1103evo0.swa",
+                    "fileType": "SWA"
+                },
+                {
+                    "file": "audiocurmp3/1103evo0.mp3",
+                    "fileType": "MP3"
+                }
+            ],
+            "duracao": "1:43",
+            "file": "d1/evo017.mp3",
+            "fileType": "MP3",
+            "local": "Barrancos",
+            "musico": "Antï¿½nio Torrado Rodrigues (Tamboril e Pï¿½faro)",
+            "obs": "Partitura,   versï¿½o curta ",
+            "tit": "Vivo da festa de Santa Maria; Alvorada",
+            "prov": "Alentejo",
+            "id": 16
+        },
+        {
+            "tit": "Toque da Procissï¿½o",
+            "file": "d1/evo018.mp3",
+            "fileType": "MP3",
+            "local": "Barrancos",
+            "musico": "Antï¿½nio Torrado Rodrigues (Tamboril e Pï¿½faro)",
+            "duracao": "1:15",
+            "prov": "Alentejo",
+            "id": 17
+        },
+        {
+            "obs": "interrupï¿½ï¿½o curta com pequenas falhas",
+            "musico": "Joï¿½o da Cruz Samarra (flauta transversal)",
+            "local": "Castelo de Vide",
+            "fileType": "MP3",
+            "file": "d1/evo019.mp3",
+            "duracao": "1:06",
+            "tit": "Moda antiga",
+            "prov": "Alentejo",
+            "id": 18
+        },
+        {
+            "file": "d1/evo020.mp3",
+            "musico": "Joï¿½o da Cruz Samarra (flauta transversal)",
+            "duracao": "0:39",
+            "local": "Castelo de Vide",
+            "fileType": "MP3",
+            "tit": "Saias",
+            "prov": "Alentejo",
+            "id": 19
+        },
+        {
+            "tit": "Moda vulgar",
+            "musico": "Joï¿½o da Cruz Samarra (flauta transversal)",
+            "local": "Castelo de Vide",
+            "fileType": "MP3",
+            "file": "d1/evo021.mp3",
+            "duracao": "0:54",
+            "prov": "Alentejo",
+            "id": 20
+        },
+        {
+            "fileType": "MP3",
+            "tit": "Alvï¿½ssaras ï¿½ Senhora da Conceiï¿½ï¿½o",
+            "inst": "adufe; garrafa com garfom; canto",
+            "local": "Atalaia do Campo",
+            "prov": "Beira Baixa",
+            "duracao": "1:15",
+            "obs": "baixa de nï¿½vel no princï¿½pio com falhas a meio",
+            "file": "d1/evo022.mp3",
+            "id": 21
+        },
+        {
+            "fileType": "MP3",
+            "tit": "Alvï¿½ssaras ï¿½ Senhora da Conceiï¿½ï¿½o",
+            "file": "d1/evo023.mp3",
+            "inst": "adufe; garrafa com garfom; canto",
+            "local": "Atalaia do Campo",
+            "prov": "Beira Baixa",
+            "duracao": "0:38",
+            "id": 22
+        },
+        {
+            "file": "d1/evo024.mp3",
+            "fileType": "MP3",
+            "duracao": "0:56",
+            "tit": "Versos ao Divino Espï¿½rito Santo",
+            "local": "Atalaia do Campo",
+            "prov": "Beira Baixa",
+            "id": 23
+        },
+        {
+            "tit": "Versos ao Menino Jesus",
+            "fileType": "MP3",
+            "file": "d1/evo025.mp3",
+            "duracao": "0:31",
+            "local": "Atalaia do Campo",
+            "prov": "Beira Baixa",
+            "inst": "mulher",
+            "id": 24
+        },
+        {
+            "tit": "Versos ao Menino Jesus e Glï¿½ria",
+            "fileType": "MP3",
+            "duracao": "1:59",
+            "local": "Atalaia do Campo",
+            "prov": "Beira Baixa",
+            "inst": "mulher",
+            "file": "d1/evo026.mp3",
+            "id": 25
+        },
+        {
+            "tit": "sem tï¿½tulo; Zï¿½s Pereiras",
+            "fileType": "MP3",
+            "inst": "Gaita de Foles (2); Bombos;Caixas",
+            "prov": "Minho",
+            "local": "Bravï¿½es, Ponte da Barca",
+            "file": "d1/evo027.mp3",
+            "duracao": "1:27",
+            "id": 26
+        },
+        {
+            "duracao": "1:56",
+            "file": "d1/evo028.mp3",
+            "fileType": "MP3",
+            "inst": "Gaita de Foles (2); Bombos;Caixas",
+            "tit": "Alvorada; Zï¿½s Pereiras",
+            "prov": "Minho",
+            "local": "Bravï¿½es, Ponte da Barca",
+            "id": 27
+        },
+        {
+            "obsFiles": [
+                {
+                    "file": "audiocurswa/1006evo0.swa",
+                    "fileType": "SWA"
+                },
+                {
+                    "file": "audiocurmp3/1006evo0.mp3",
+                    "fileType": "MP3"
+                }
+            ],
+            "fileType": "MP3",
+            "inst": "Gaita de Foles (2); Bombos;Caixas",
+            "prov": "Minho",
+            "local": "Bravï¿½es, Ponte da Barca",
+            "file": "d1/evo029.mp3",
+            "duracao": "1:41",
+            "obs": "Partitura,   versï¿½o curta ",
+            "tit": "Carolina anda ï¿½ varanda; Zï¿½s Pereiras",
+            "id": 28
+        },
+        {
+            "inst": "flautim; Clarinete; Gaita de Foles (2); Bombos;Caixas",
+            "duracao": "1:33",
+            "fileType": "MP3",
+            "prov": "Minho",
+            "local": "Bravï¿½es, Ponte da Barca",
+            "tit": "Ramo da Oliveira; Zï¿½s Pereiras",
+            "file": "d1/evo030.mp3",
+            "id": 29
+        },
+        {
+            "tit": "Laurindinha; Zï¿½s Pereiras",
+            "file": "d1/evo031.mp3",
+            "fileType": "MP3",
+            "inst": "Gaita de Foles (2); Bombos;Caixas",
+            "prov": "Minho",
+            "duracao": "2:15",
+            "local": "Bravï¿½es, Ponte da Barca",
+            "id": 30
+        },
+        {
+            "tit": "Xaranga Galega; Zï¿½s Pereiras",
+            "inst": "Clarinete; Gaita de Foles (2); Bombos;Caixas",
+            "fileType": "MP3",
+            "duracao": "2:00",
+            "prov": "Minho",
+            "local": "Bravï¿½es, Ponte da Barca",
+            "file": "d1/evo032.mp3",
+            "id": 31
+        },
+        {
+            "duracao": "2:04",
+            "tit": "Ria Cheia; Riancheira (galego)",
+            "file": "d1/evo033.mp3",
+            "inst": "Clarinete; Gaita de Foles (2); Bombos;Caixas",
+            "fileType": "MP3",
+            "prov": "Minho",
+            "local": "Bravï¿½es, Ponte da Barca",
+            "id": 32
+        },
+        {
+            "duracao": "1:53",
+            "local": "Covas, Vila Verde",
+            "fileType": "MP3",
+            "file": "d1/evo034.mp3",
+            "prov": "Minho",
+            "tit": "Cantiga; Zï¿½s Pereiras",
+            "inst": "Clarinete; Gaita de Foles ; Bombos;Caixas",
+            "id": 33
+        },
+        {
+            "duracao": "1:47",
+            "file": "d1/evo035.mp3",
+            "fileType": "MP3",
+            "inst": "Gaita de Foles (2); Bombos;Caixas",
+            "tit": "Alvorada; Zï¿½s Pereiras",
+            "prov": "Minho",
+            "local": "Bravï¿½es, Ponte da Barca",
+            "id": 34
+        },
+        {
+            "musico": "Josï¿½ Dias (ocarina)",
+            "local": "Vilar do Monte, Barcelos",
+            "tit": "Malhï¿½o",
+            "duracao": "1:23",
+            "file": "d1/evo036.mp3",
+            "fileType": "MP3",
+            "prov": "Minho",
+            "id": 35
+        },
+        {
+            "obsFiles": [
+                {
+                    "file": "audiocurswa/1107evo0.swa",
+                    "fileType": "SWA"
+                },
+                {
+                    "file": "audiocurmp3/1107evo0.mp3",
+                    "fileType": "MP3"
+                }
+            ],
+            "musico": "Josï¿½ Dias (ocarina)",
+            "local": "Vilar do Monte, Barcelos",
+            "tit": "Chula",
+            "duracao": "1:08",
+            "file": "d1/evo037.mp3",
+            "fileType": "MP3",
+            "prov": "Minho",
+            "obs": "Partitura,   versï¿½o curta ",
+            "id": 36
+        },
+        {
+            "musico": "Josï¿½ Dias (ocarina)",
+            "local": "Vilar do Monte, Barcelos",
+            "tit": "Chula vareira",
+            "fileType": "MP3",
+            "prov": "Minho",
+            "file": "d1/evo038.mp3",
+            "duracao": "0:53",
+            "id": 37
+        },
+        {
+            "duracao": "2:01",
+            "file": "d1/evo039.mp3",
+            "fileType": "MP3",
+            "tit": "Alvorada",
+            "prov": "Estremadura",
+            "local": "Fonte Grada, Torres Vedras",
+            "musico": "Francisco dos Santos (gaita de foles)",
+            "id": 38
+        },
+        {
+            "tit": "Marcha do cï¿½rio em roda da Igreja",
+            "duracao": "0:45",
+            "fileType": "MP3",
+            "file": "d1/evo040.mp3",
+            "prov": "Estremadura",
+            "local": "Fonte Grada, Torres Vedras",
+            "musico": "Francisco dos Santos (gaita de foles)",
+            "id": 39
+        },
+        {
+            "duracao": "0:48",
+            "fileType": "MP3",
+            "prov": "Estremadura",
+            "file": "d1/evo041.mp3",
+            "tit": "Canto ao menino Jesus",
+            "local": "Fonte Grada, Torres Vedras",
+            "musico": "Francisco dos Santos (gaita de foles)",
+            "id": 40
+        },
+        {
+            "duracao": "2:03",
+            "fileType": "MP3",
+            "prov": "Estremadura",
+            "file": "d1/evo042.mp3",
+            "tit": "O Bendito",
+            "local": "Fonte Grada, Torres Vedras",
+            "musico": "Francisco dos Santos (gaita de foles)",
+            "id": 41
+        },
+        {
+            "duracao": "1:07",
+            "file": "d1/evo043.mp3",
+            "fileType": "MP3",
+            "prov": "Estremadura",
+            "tit": "Levantar a Deus",
+            "local": "Fonte Grada, Torres Vedras",
+            "musico": "Francisco dos Santos (gaita de foles)",
+            "id": 42
+        },
+        {
+            "tit": "Fandango",
+            "file": "d1/evo044.mp3",
+            "fileType": "MP3",
+            "prov": "Estremadura",
+            "duracao": "0:56",
+            "local": "Fonte Grada, Torres Vedras",
+            "musico": "Francisco dos Santos (gaita de foles)",
+            "id": 43
+        },
+        {
+            "file": "d1/evo045.mp3",
+            "tit": "Valsa",
+            "fileType": "MP3",
+            "prov": "Estremadura",
+            "duracao": "2:40",
+            "local": "Fonte Grada, Torres Vedras",
+            "musico": "Francisco dos Santos (gaita de foles)",
+            "id": 44
+        },
+        {
+            "file": "d1/evo046.mp3",
+            "duracao": "2:12",
+            "tit": "Ai Santarï¿½m, Senhora do Tejo",
+            "fileType": "MP3",
+            "prov": "Estremadura",
+            "local": "Fonte Grada, Torres Vedras",
+            "musico": "Francisco dos Santos (gaita de foles)",
+            "id": 45
+        },
+        {
+            "musico": "Sr.Francisco e Sr. Antï¿½nio conversam com Benjamim e Ernesto",
+            "fileType": "MP3",
+            "prov": "Estremadura",
+            "duracao": "3:38",
+            "tit": "Informaï¿½ï¿½o sobre a Romaria da Senhora dos Remï¿½dios",
+            "file": "d1/evo047.mp3",
+            "local": "Fonte Grada, Torres Vedras",
+            "id": 46
+        },
+        {
+            "tit": "Arrebita",
+            "file": "d1/evo048.mp3",
+            "duracao": "2:25",
+            "fileType": "MP3",
+            "prov": "Estremadura",
+            "local": "Fonte Grada, Torres Vedras",
+            "musico": "Francisco dos Santos (gaita de foles)",
+            "id": 47
+        },
+        {
+            "duracao": "1:57",
+            "tit": "Corridinho",
+            "fileType": "MP3",
+            "file": "d1/evo049.mp3",
+            "prov": "Estremadura",
+            "local": "Fonte Grada, Torres Vedras",
+            "musico": "Francisco dos Santos (gaita de foles)",
+            "id": 48
+        },
+        {
+            "file": "d1/evo050.mp3",
+            "duracao": "1:46",
+            "tit": "sem tï¿½tulo",
+            "fileType": "MP3",
+            "prov": "Estremadura",
+            "local": "Fonte Grada, Torres Vedras",
+            "musico": "Francisco dos Santos (gaita de foles)",
+            "id": 49
+        },
+        {
+            "file": "d1/evo051.mp3",
+            "tit": "Fado",
+            "fileType": "MP3",
+            "prov": "Estremadura",
+            "duracao": "1:36",
+            "local": "Fonte Grada, Torres Vedras",
+            "musico": "Francisco dos Santos (gaita de foles)",
+            "id": 50
+        },
+        {
+            "duracao": "2:35",
+            "file": "d1/evo052.mp3",
+            "tit": "Marcha",
+            "fileType": "MP3",
+            "prov": "Estremadura",
+            "local": "Fonte Grada, Torres Vedras",
+            "musico": "Francisco dos Santos (gaita de foles)",
+            "id": 51
+        },
+        {
+            "musico": "Josï¿½ Melo (Gaita de foles); Antï¿½nio Craveiro (bombo); Manuel Melo (caixa)",
+            "prov": "Beira Litoral",
+            "duracao": "1:50",
+            "local": "Barreira, Condeixa a Nova",
+            "fileType": "MP3",
+            "tit": "Alvorada",
+            "file": "d1/evo053.mp3",
+            "id": 52
+        },
+        {
+            "musico": "Josï¿½ Melo (Gaita de foles); Antï¿½nio Craveiro (bombo); Manuel Melo (caixa)",
+            "duracao": "1:43",
+            "prov": "Beira Litoral",
+            "file": "d1/evo054.mp3",
+            "local": "Barreira, Condeixa a Nova",
+            "fileType": "MP3",
+            "tit": "Alvorada",
+            "id": 53
+        },
+        {
+            "musico": "Josï¿½ Melo (Gaita de foles); Antï¿½nio Craveiro (bombo); Manuel Melo (caixa)",
+            "tit": "Arruada",
+            "prov": "Beira Litoral",
+            "duracao": "1:50",
+            "local": "Barreira, Condeixa a Nova",
+            "fileType": "MP3",
+            "file": "d1/evo055.mp3",
+            "id": 54
+        },
+        {
+            "tit": "Fado do Hilï¿½rio",
+            "musico": "Josï¿½ Melo (Gaita de foles); Antï¿½nio Craveiro (bombo); Manuel Melo (caixa)",
+            "prov": "Beira Litoral",
+            "local": "Barreira, Condeixa a Nova",
+            "fileType": "MP3",
+            "duracao": "1:39",
+            "obs": "variaï¿½ï¿½o de som na matriz",
+            "file": "d1/evo056.mp3",
+            "id": 55
+        },
+        {
+            "duracao": "1:25",
+            "musico": "Josï¿½ Melo (Gaita de foles); Antï¿½nio Craveiro (bombo); Manuel Melo (caixa)",
+            "prov": "Beira Litoral",
+            "tit": "Valsa",
+            "local": "Barreira, Condeixa a Nova",
+            "fileType": "MP3",
+            "obs": "variaï¿½ï¿½o de som na matriz",
+            "file": "d1/evo057.mp3",
+            "id": 56
+        },
+        {
+            "musico": "Josï¿½ Melo (Gaita de foles); Antï¿½nio Craveiro (bombo); Manuel Melo (caixa)",
+            "prov": "Beira Litoral",
+            "local": "Barreira, Condeixa a Nova",
+            "fileType": "MP3",
+            "duracao": "0:56",
+            "tit": "Salvï¿½ Raï¿½nha",
+            "file": "d1/evo058.mp3",
+            "id": 57
+        },
+        {
+            "musico": "Josï¿½ Melo (Gaita de foles); Antï¿½nio Craveiro (bombo); Manuel Melo (caixa)",
+            "file": "d1/evo059.mp3",
+            "prov": "Beira Litoral",
+            "obs": "nï¿½vel baixo no inï¿½cio",
+            "local": "Barreira, Condeixa a Nova",
+            "fileType": "MP3",
+            "tit": "O nabo do grelo",
+            "duracao": "1:06",
+            "id": 58
+        },
+        {
+            "tit": "Cantar ï¿½ pedra",
+            "duracao": "1:21",
+            "fileType": "MP3",
+            "local": "Matosinhos",
+            "file": "d1/evo060.mp3",
+            "obs": "saturaï¿½ï¿½o no inï¿½cio e no meio",
+            "prov": "Douro Litoral",
+            "id": 59
+        },
+        {
+            "tit": "Cantar ï¿½ pedra",
+            "file": "d1/evo061.mp3",
+            "fileType": "MP3",
+            "duracao": "4:54",
+            "local": "Matosinhos",
+            "prov": "Douro Litoral",
+            "id": 60
+        },
+        {
+            "file": "d1/evo062.mp3",
+            "tit": "Cantar ao puxar o cabo",
+            "fileType": "MP3",
+            "local": "Matosinhos",
+            "duracao": "0:51",
+            "prov": "Douro Litoral",
+            "id": 61
+        },
+        {
+            "file": "d1/evo063.mp3",
+            "obs": "distorï¿½ï¿½o",
+            "tit": "Cantar ao puxar o cabo",
+            "fileType": "MP3",
+            "duracao": "1:00",
+            "local": "Matosinhos",
+            "prov": "Douro Litoral",
+            "id": 62
+        },
+        {
+            "inst": "Rabeca; violï¿½o; viola amarantina; ferrinhos; bombo",
+            "duracao": "2:26",
+            "fileType": "MP3",
+            "local": "Amarante",
+            "file": "d1/evo064.mp3",
+            "tit": "Chula Amarantina",
+            "prov": "Douro Litoral",
+            "id": 63
+        },
+        {
+            "inst": "Rabeca; violï¿½o; viola amarantina; ferrinhos; bombo",
+            "fileType": "MP3",
+            "local": "Amarante",
+            "duracao": "5:32",
+            "tit": "Chula Amarantina",
+            "file": "d1/evo065.mp3",
+            "prov": "Douro Litoral",
+            "id": 64
+        },
+        {
+            "duracao": "0:48",
+            "inst": "Rabeca; violï¿½o; viola amarantina; ferrinhos; bombo",
+            "fileType": "MP3",
+            "local": "Amarante",
+            "file": "d1/evo066.mp3",
+            "obs": "cortada no inï¿½cio",
+            "tit": "Chula Amarantina",
+            "prov": "Douro Litoral",
+            "id": 65
+        },
+        {
+            "inst": "Rabeca; violï¿½o; viola amarantina; ferrinhos; bombo",
+            "duracao": "5:26",
+            "fileType": "MP3",
+            "obs": "final cortado no original",
+            "local": "Amarante",
+            "file": "d1/evo067.mp3",
+            "tit": "Chula Amarantina",
+            "prov": "Douro Litoral",
+            "id": 66
+        },
+        {
+            "file": "d1/evo068.mp3",
+            "inst": "Rabeca; violï¿½o; viola amarantina; ferrinhos; bombo",
+            "fileType": "MP3",
+            "obs": "final cortado no original",
+            "local": "Amarante",
+            "duracao": "5:23",
+            "tit": "Chula Amarantina",
+            "prov": "Douro Litoral",
+            "id": 67
+        },
+        {
+            "tit": "Vira de Paredes",
+            "file": "d1/evo069.mp3",
+            "fileType": "MP3",
+            "duracao": "5:16",
+            "local": "Paredes",
+            "musico": "por quem?",
+            "prov": "Douro Litoral",
+            "id": 68
+        },
+        {
+            "local": "Santa Eulï¿½lia",
+            "file": "d1/evo070.mp3",
+            "prov": "Alto Alentejo",
+            "obs": "saturaï¿½ï¿½o",
+            "duracao": "1:55",
+            "fileType": "MP3",
+            "inst": "pandeiro",
+            "tit": "Saias",
+            "id": 69
+        },
+        {
+            "local": "Santa Eulï¿½lia",
+            "prov": "Alto Alentejo",
+            "duracao": "1:28",
+            "obs": "saturaï¿½ï¿½o",
+            "fileType": "MP3",
+            "inst": "pandeiro",
+            "tit": "Saias",
+            "file": "d1/evo071.mp3",
+            "id": 70
+        },
+        {
+            "local": "Santa Eulï¿½lia",
+            "prov": "Alto Alentejo",
+            "obs": "saturaï¿½ï¿½o",
+            "fileType": "MP3",
+            "inst": "pandeiro",
+            "tit": "Saias",
+            "duracao": "1:15",
+            "file": "d1/evo072.mp3",
+            "id": 71
+        },
+        {
+            "local": "Santa Eulï¿½lia",
+            "prov": "Alto Alentejo",
+            "musico": "Cristina de Jesus Pires (canto e pandeireta)",
+            "file": "d1/evo073.mp3",
+            "fileType": "MP3",
+            "duracao": "0:33",
+            "tit": "Canï¿½oneta da pandeireta",
+            "id": 72
+        },
+        {
+            "local": "Santa Eulï¿½lia",
+            "prov": "Alto Alentejo",
+            "fileType": "MP3",
+            "inst": "pandeiro",
+            "file": "d1/evo074.mp3",
+            "duracao": "0:14",
+            "tit": "Saias",
+            "id": 73
+        },
+        {
+            "local": "Santa Eulï¿½lia",
+            "prov": "Alto Alentejo",
+            "obs": "sï¿½ inï¿½cio, seguido de corte",
+            "file": "d1/evo075.mp3",
+            "fileType": "MP3",
+            "inst": "pandeiro",
+            "duracao": "1:51",
+            "tit": "Saias",
+            "id": 74
+        },
+        {
+            "local": "Santa Eulï¿½lia",
+            "prov": "Alto Alentejo",
+            "obs": "saturaï¿½ï¿½o",
+            "file": "d1/evo076.mp3",
+            "fileType": "MP3",
+            "inst": "pandeiro",
+            "tit": "Saias",
+            "duracao": "0:59",
+            "id": 75
+        },
+        {
+            "local": "Santa Eulï¿½lia",
+            "duracao": "0:25",
+            "prov": "Alto Alentejo",
+            "obs": "saturaï¿½ï¿½o",
+            "file": "d1/evo077.mp3",
+            "fileType": "MP3",
+            "inst": "pandeiro",
+            "tit": "Saias",
+            "id": 76
+        },
+        {
+            "local": "Santa Eulï¿½lia",
+            "prov": "Alto Alentejo",
+            "musico": "Cristina de Jesus Pires (pandeireta)",
+            "fileType": "MP3",
+            "file": "d1/evo078.mp3",
+            "duracao": "0:56",
+            "tit": "Toque de pandeireta",
+            "id": 77
+        },
+        {
+            "local": "Santa Eulï¿½lia",
+            "prov": "Alto Alentejo",
+            "inst": "(ver anexo) almofariz;castanholas; pandeiro",
+            "duracao": "0:47",
+            "obs": "distorï¿½ï¿½o",
+            "fileType": "MP3",
+            "file": "d1/evo079.mp3",
+            "tit": "Saias",
+            "id": 78
+        },
+        {
+            "local": "Santa Eulï¿½lia",
+            "prov": "Alto Alentejo",
+            "duracao": "1:08",
+            "fileType": "MP3",
+            "inst": "almofariz; castanholas; pandeiro",
+            "tit": "Saias",
+            "file": "d1/evo080.mp3",
+            "obs": "sï¿½ inï¿½cio e corta",
+            "id": 79
+        },
+        {
+            "local": "Santa Eulï¿½lia",
+            "prov": "Alto Alentejo",
+            "file": "d1/evo081.mp3",
+            "duracao": "0:20",
+            "fileType": "MP3",
+            "inst": "almofariz; castanholas; pandeiro",
+            "tit": "Saias",
+            "id": 80
+        },
+        {
+            "local": "Santa Eulï¿½lia",
+            "prov": "Alto Alentejo",
+            "file": "d1/evo082e0.mp3",
+            "obs": "distorï¿½ï¿½o",
+            "fileType": "MP3",
+            "inst": "almofariz; castanholas; pandeiro",
+            "tit": "Saias",
+            "duracao": "1:36",
+            "id": 81
+        },
+        {
+            "local": "Santa Eulï¿½lia",
+            "prov": "Alto Alentejo",
+            "fileType": "MP3",
+            "duracao": "0:50",
+            "file": "d1/evo084.mp3",
+            "tit": "Informaï¿½ï¿½es e saias",
+            "id": 82
+        },
+        {
+            "inst": "zamburra; almofariz; pandeiro; garrafa com garfo",
+            "file": "d1/evo085.mp3",
+            "tit": "O velha, ï¿½ boa velha",
+            "fileType": "MP3",
+            "local": "Malpica do Tejo",
+            "duracao": "2:17",
+            "prov": "Beira Baixa",
+            "id": 83
+        },
+        {
+            "inst": "zamburra; almofariz; pandeiro; garrafa com garfo",
+            "duracao": "1:50",
+            "tit": "O velha, ï¿½ boa velha",
+            "fileType": "MP3",
+            "local": "Malpica do Tejo",
+            "file": "d1/evo086.mp3",
+            "prov": "Beira Baixa",
+            "id": 84
+        },
+        {
+            "duracao": "2:04",
+            "fileType": "MP3",
+            "local": "Malpica do Tejo",
+            "inst": "pandeiro",
+            "file": "d1/evo087.mp3",
+            "tit": "Alvï¿½ssaras ï¿½ Senhora das Neves",
+            "prov": "Beira Baixa",
+            "id": 85
+        },
+        {
+            "inst": "pandeiro; almofariz",
+            "fileType": "MP3",
+            "local": "Malpica do Tejo",
+            "duracao": "2:48",
+            "file": "d1/evo088.mp3",
+            "tit": "Cantiga do entrudo",
+            "prov": "Beira Baixa",
+            "id": 86
+        },
+        {
+            "fileType": "MP3",
+            "local": "Malpica do Tejo",
+            "file": "d1/evo089.mp3",
+            "duracao": "0:53",
+            "tit": "Cantiga de Natal",
+            "prov": "Beira Baixa",
+            "id": 87
+        },
+        {
+            "duracao": "1:16",
+            "fileType": "MP3",
+            "local": "Malpica do Tejo",
+            "file": "d1/evo090.mp3",
+            "tit": "Cantiga de Natal",
+            "prov": "Beira Baixa",
+            "id": 88
+        },
+        {
+            "inst": "zamburra; almofariz; pandeiro; garrafa com garfo",
+            "fileType": "MP3",
+            "local": "Malpica do Tejo",
+            "file": "d1/evo091.mp3",
+            "duracao": "1:06",
+            "prov": "Beira Baixa",
+            "tit": "Moda para zamburra",
+            "id": 89
+        },
+        {
+            "inst": "zamburra; almofariz; pandeiro; garrafa com garfo",
+            "file": "d1/evo092.mp3",
+            "duracao": "1:00",
+            "fileType": "MP3",
+            "local": "Malpica do Tejo",
+            "tit": "Quadra alusiva ï¿½ zamburra",
+            "prov": "Beira Baixa",
+            "id": 90
+        },
+        {
+            "file": "d1/evo093.mp3",
+            "duracao": "1:23",
+            "inst": "zamburra; almofariz; pandeiro; garrafa com garfo",
+            "tit": "Moda da chula nova",
+            "fileType": "MP3",
+            "local": "Malpica do Tejo",
+            "prov": "Beira Baixa",
+            "id": 91
+        },
+        {
+            "inst": "(palmas)",
+            "tit": "Moda do loureiro ramalhete",
+            "file": "d1/evo094.mp3",
+            "duracao": "1:11",
+            "fileType": "MP3",
+            "local": "Malpica do Tejo",
+            "prov": "Beira Baixa",
+            "id": 92
+        },
+        {
+            "file": "d1/evo095.mp3",
+            "duracao": "0:45",
+            "tit": "Jeremias da Senhora da Neves",
+            "fileType": "MP3",
+            "local": "Malpica do Tejo",
+            "prov": "Beira Baixa",
+            "id": 93
+        },
+        {
+            "tit": "Moda do loureiro ramalhete",
+            "musico": "Lucrï¿½cia Marques",
+            "fileType": "MP3",
+            "local": "Malpica do Tejo",
+            "file": "d1/evo096.mp3",
+            "prov": "Beira Baixa",
+            "duracao": "0:59",
+            "id": 94
+        },
+        {
+            "inst": "zamburra; almofariz; pandeiro; garrafa com garfo",
+            "file": "d1/evo097.mp3",
+            "fileType": "MP3",
+            "local": "Malpica do Tejo",
+            "duracao": "1:39",
+            "tit": "Moda da ceifa",
+            "prov": "Beira Baixa",
+            "id": 95
+        },
+        {
+            "inst": "zamburra; almofariz; pandeiro; garrafa com garfo",
+            "duracao": "1:52",
+            "fileType": "MP3",
+            "local": "Malpica do Tejo",
+            "file": "d1/evo098.mp3",
+            "tit": "Moda da azeitona",
+            "prov": "Beira Baixa",
+            "id": 96
+        },
+        {
+            "file": "d1/evo099.mp3",
+            "duracao": "1:09",
+            "fileType": "MP3",
+            "local": "Malpica do Tejo",
+            "tit": "Cantiga de embalar os meninos",
+            "prov": "Beira Baixa",
+            "musico": "Maria Josï¿½ Cassaca",
+            "id": 97
+        },
+        {
+            "tit": "Cantiga do Natal",
+            "fileType": "MP3",
+            "local": "Malpica do Tejo",
+            "file": "d1/evo100.mp3",
+            "duracao": "0:43",
+            "prov": "Beira Baixa",
+            "id": 98
+        },
+        {
+            "tit": "Canï¿½ï¿½o do Antï¿½nio Picharreiro",
+            "fileType": "MP3",
+            "local": "Malpica do Tejo",
+            "file": "d1/evo101.mp3",
+            "duracao": "0:51",
+            "prov": "Beira Baixa",
+            "musico": "Joï¿½o dos Reispastor (flauta)",
+            "id": 99
+        },
+        {
+            "duracao": "1:14",
+            "fileType": "MP3",
+            "local": "Malpica do Tejo",
+            "tit": "Vitï¿½ria",
+            "prov": "Beira Baixa",
+            "file": "d1/evo102.mp3",
+            "musico": "Joï¿½o dos Reispastor (flauta)",
+            "id": 100
+        },
+        {
+            "obsFiles": [
+                {
+                    "file": "audiocurswa/1104evo1.swa",
+                    "fileType": "SWA"
+                },
+                {
+                    "file": "audiocurmp3/1104evo1.mp3",
+                    "fileType": "MP3"
+                }
+            ],
+            "obs": "Partitura,   versï¿½o curta ",
+            "fileType": "MP3",
+            "local": "Malpica do Tejo",
+            "duracao": "2:00",
+            "musico": "Joï¿½o dos Reis pastor (flauta);Lucrï¿½cia Marques (pandeiro);Conceiï¿½ï¿½o Marques (canto)",
+            "file": "d1/evo103.mp3",
+            "tit": "Vitï¿½ria",
+            "prov": "Beira Baixa",
+            "id": 101
+        },
+        {
+            "tit": "Cantar das noivas malpiqueiras",
+            "file": "d1/evo104.mp3",
+            "inst": "Ms",
+            "fileType": "MP3",
+            "local": "Malpica do Tejo",
+            "prov": "Beira Baixa",
+            "duracao": "0:59",
+            "id": 102
+        },
+        {
+            "local": "Capinha, Fundï¿½o",
+            "tit": "Folia do Espï¿½rito Santo; Cantares ï¿½ entrada da Igreja",
+            "duracao": "2:46",
+            "fileType": "MP3",
+            "prov": "Beira Baixa",
+            "file": "d1/evo105.mp3",
+            "id": 103
+        },
+        {
+            "local": "Capinha, Fundï¿½o",
+            "duracao": "1:21",
+            "file": "d1/evo106.mp3",
+            "fileType": "MP3",
+            "tit": "Informaï¿½ï¿½o sobre a Folia do Espï¿½rito Santo",
+            "prov": "Beira Baixa",
+            "id": 104
+        },
+        {
+            "local": "Capinha, Fundï¿½o",
+            "fileType": "MP3",
+            "file": "d1/evo107.mp3",
+            "tit": "Folia do Espï¿½rito Santo",
+            "duracao": "0:56",
+            "prov": "Beira Baixa",
+            "id": 105
+        },
+        {
+            "local": "Capinha, Fundï¿½o",
+            "fileType": "MP3",
+            "prov": "Beira Baixa",
+            "duracao": "3:02",
+            "tit": "Folia do Espï¿½rito Santo; versos que se cantavam ao jantar",
+            "file": "d1/evo108.mp3",
+            "id": 106
+        },
+        {
+            "local": "Capinha, Fundï¿½o",
+            "duracao": "1:04",
+            "file": "d1/evo109.mp3",
+            "fileType": "MP3",
+            "tit": "Folia do Espï¿½rito Santol; nas entregas",
+            "prov": "Beira Baixa",
+            "id": 107
+        },
+        {
+            "local": "Capinha, Fundï¿½o",
+            "duracao": "1:01",
+            "tit": "Folia do Espï¿½rito Santo; quando o Rei novo recebe a bandeirinha",
+            "fileType": "MP3",
+            "file": "d1/evo110.mp3",
+            "prov": "Beira Baixa",
+            "id": 108
+        },
+        {
+            "musico": "Maria de Jesus Xavier Abelho",
+            "file": "d1/evo111.mp3",
+            "duracao": "1:04",
+            "fileType": "MP3",
+            "tit": "Versos ao menino Jesus; na Igreja",
+            "prov": "Beira Baixa",
+            "local": "Pï¿½voa da Atalaia",
+            "id": 109
+        },
+        {
+            "duracao": "0:52",
+            "tit": "Moda Popular; As armas do meu adufe",
+            "file": "d1/evo112.mp3",
+            "fileType": "MP3",
+            "prov": "Beira Baixa",
+            "musico": "Maria de Gertrudes Nabais (adufe)",
+            "local": "Pï¿½voa da Atalaia",
+            "id": 110
+        },
+        {
+            "obsFiles": [
+                {
+                    "file": "audiocurswa/1105evo1.swa",
+                    "fileType": "SWA"
+                },
+                {
+                    "file": "audiocurmp3/1105evo1.mp3",
+                    "fileType": "MP3"
+                }
+            ],
+            "musico": "Maria de Gertrudes Nabais (adufe); Francisco Lourenï¿½o Carronco (flauta); Maria de Jesus Xavier Abelho (canto)",
+            "obs": "Partitura,   versï¿½o curta ",
+            "fileType": "MP3",
+            "duracao": "1:11",
+            "file": "d1/evo113e1.mp3",
+            "tit": "O Virgem das necessidades",
+            "prov": "Beira Baixa",
+            "local": "Pï¿½voa da Atalaia",
+            "id": 111
+        },
+        {
+            "file": "d1/evo115.mp3",
+            "duracao": "2:02",
+            "musico": "Maria de Gertrudes Nabais (adufe); Francisco Lourenï¿½o Carronco (flauta); Maria de Jesus Xavier Abelho (canto)",
+            "fileType": "MP3",
+            "tit": "O Virgem das necessidades",
+            "prov": "Beira Baixa",
+            "local": "Pï¿½voa da Atalaia",
+            "id": 112
+        },
+        {
+            "inst": "flauta em fundo?",
+            "file": "d1/evo116.mp3",
+            "fileType": "MP3",
+            "duracao": "2:09",
+            "prov": "Beira Baixa",
+            "local": "Pï¿½voa da Atalaia",
+            "tit": "Senhora Santa Luzia",
+            "id": 113
+        },
+        {
+            "duracao": "2:16",
+            "musico": "Maria de Gertrudes Nabais (adufe); Francisco Lourenï¿½o Carronco (flauta); Maria de Jesus Xavier Abelho (canto)",
+            "file": "d1/evo117.mp3",
+            "fileType": "MP3",
+            "tit": "Alvï¿½ssaras ï¿½ Senhora do Rosï¿½rio",
+            "prov": "Beira Baixa",
+            "local": "Pï¿½voa da Atalaia",
+            "id": 114
+        },
+        {
+            "file": "d1/evo118.mp3",
+            "duracao": "1:54",
+            "tit": "Senhora da Pï¿½voa",
+            "fileType": "MP3",
+            "prov": "Beira Baixa",
+            "musico": "Maria de Gertrudes Nabais (adufe)",
+            "local": "Pï¿½voa da Atalaia",
+            "id": 115
+        },
+        {
+            "file": "d1/evo119.mp3",
+            "tit": "Senhora da Pï¿½voa",
+            "fileType": "MP3",
+            "duracao": "0:59",
+            "prov": "Beira Baixa",
+            "musico": "Francisco Lourenï¿½o Carronco (pï¿½faro)",
+            "local": "Pï¿½voa da Atalaia",
+            "id": 116
+        },
+        {
+            "musico": "Maria de Jesus Xavier Abelho",
+            "duracao": "1:54",
+            "tit": "Anjo da guarda",
+            "file": "d1/evo120.mp3",
+            "fileType": "MP3",
+            "prov": "Beira Baixa",
+            "local": "Pï¿½voa da Atalaia",
+            "id": 117
+        },
+        {
+            "fileType": "MP3",
+            "tit": "Menino Jesus",
+            "duracao": "1:02",
+            "file": "d1/evo121.mp3",
+            "prov": "Beira Baixa",
+            "musico": "Francisco Lourenï¿½o Carronco (pï¿½faro)",
+            "local": "Pï¿½voa da Atalaia",
+            "id": 118
+        },
+        {
+            "tit": "Regadio do Fundï¿½o",
+            "fileType": "MP3",
+            "file": "d1/evo122.mp3",
+            "prov": "Beira Baixa",
+            "local": "Pï¿½voa da Atalaia",
+            "duracao": "2:31",
+            "musico": "Francisco Lourenï¿½o Carronco",
+            "id": 119
+        },
+        {
+            "inst": "adufe",
+            "fileType": "MP3",
+            "duracao": "1:38",
+            "file": "d1/evo123.mp3",
+            "tit": "Moda",
+            "prov": "Beira Baixa",
+            "local": "Pï¿½voa da Atalaia",
+            "id": 120
+        },
+        {
+            "file": "d1/evo124.mp3",
+            "duracao": "0:39",
+            "fileType": "MP3",
+            "tit": "Moda",
+            "prov": "Beira Baixa",
+            "local": "Pï¿½voa da Atalaia",
+            "musico": "Maria Gertrudes Nabais (pandeiro); Francisco Lourenï¿½o Carronco",
+            "id": 121
+        },
+        {
+            "musico": "Maria de Jesus Xavier Abelho",
+            "tit": "S.Joï¿½o",
+            "duracao": "1:57",
+            "fileType": "MP3",
+            "file": "d1/evo125.mp3",
+            "prov": "Beira Baixa",
+            "local": "Pï¿½voa da Atalaia",
+            "id": 122
+        },
+        {
+            "duracao": "2:30",
+            "obs": "saturaï¿½ï¿½o",
+            "local": "Lousa, Castelo Branco",
+            "file": "d1/evo126.mp3",
+            "fileType": "MP3",
+            "tit": "Danï¿½a dos Homens; dedicada a Nï¿½ Senhora dos Altos Cï¿½us",
+            "prov": "Beira Baixa",
+            "inst": "Genebres; viola; pandeireta",
+            "id": 123
+        },
+        {
+            "obsFiles": [
+                {
+                    "file": "audiocurswa/0301evo1.swa",
+                    "fileType": "SWA"
+                },
+                {
+                    "file": "audiocurmp3/0301evo1.mp3",
+                    "fileType": "MP3"
+                }
+            ],
+            "duracao": "2:16",
+            "local": "Lousa, Castelo Branco",
+            "file": "d1/evo127.mp3",
+            "fileType": "MP3",
+            "tit": "Danï¿½a dos Homens; dedicada a Nï¿½ Senhora dos Altos Cï¿½us",
+            "obs": "Partitura,   versï¿½o curta ",
+            "prov": "Beira Baixa",
+            "inst": "Genebres; viola; pandeireta",
+            "id": 124
+        },
+        {
+            "file": "d1/evo128.mp3",
+            "inst": "viola beiroa",
+            "tit": "Afinaï¿½ï¿½o da viola beiroa",
+            "local": "Lousa, Castelo Branco",
+            "fileType": "MP3",
+            "prov": "Beira Baixa",
+            "duracao": "0:22",
+            "id": 125
+        },
+        {
+            "obsFiles": [
+                {
+                    "file": "audiocurswa/0302evo1.swa",
+                    "fileType": "SWA"
+                },
+                {
+                    "file": "audiocurmp3/0302evo1.mp3",
+                    "fileType": "MP3"
+                }
+            ],
+            "inst": "guitarra",
+            "local": "Lousa, Castelo Branco",
+            "fileType": "MP3",
+            "file": "d1/evo129.mp3",
+            "obs": "Partitura,   versï¿½o curta ",
+            "prov": "Beira Baixa",
+            "tit": "Danï¿½a das oito virgens; em honra da Senhora dos Altos Cï¿½us",
+            "duracao": "3:11",
+            "id": 126
+        },
+        {
+            "duracao": "1:23",
+            "tit": "Hino ï¿½ Senhora dos Altos Cï¿½us",
+            "local": "Lousa, Castelo Branco",
+            "inst": "Ms",
+            "fileType": "MP3",
+            "file": "d1/evo130.mp3",
+            "prov": "Beira Baixa",
+            "id": 127
+        },
+        {
+            "tit": "Senhora dos Altos Cï¿½us",
+            "file": "d1/evo131.mp3",
+            "local": "Lousa, Castelo Branco",
+            "inst": "Ms",
+            "fileType": "MP3",
+            "duracao": "1:38",
+            "prov": "Beira Baixa",
+            "id": 128
+        },
+        {
+            "obsFiles": [
+                {
+                    "file": "audiocurswa/1403evo1.swa",
+                    "fileType": "SWA"
+                },
+                {
+                    "file": "audiocurmp3/1403evo1.mp3",
+                    "fileType": "MP3"
+                }
+            ],
+            "tit": "Alvï¿½ssaras ï¿½ Ressureiï¿½ï¿½o; Domingo de Pï¿½scoa",
+            "obs": "saturaï¿½ï¿½o",
+            "local": "Lousa, Castelo Branco",
+            "inst": "Ms",
+            "file": "d1/evo132.mp3",
+            "fileType": "MP3",
+            "prov": "Beira Baixa",
+            "duracao": "1:37",
+            "id": 129
+        },
+        {
+            "tit": "Malhï¿½o",
+            "duracao": "3:40",
+            "fileType": "MP3",
+            "file": "d1/evo133.mp3",
+            "prov": "Minho",
+            "local": "Tebosa, Braga",
+            "inst": "RUSGA; viola; cavaquinho; violï¿½o; ferrinhos; bombo; reque-reque",
+            "id": 130
+        },
+        {
+            "tit": "Chula",
+            "duracao": "2:41",
+            "file": "d1/evo134.mp3",
+            "fileType": "MP3",
+            "prov": "Minho",
+            "local": "Tebosa, Braga",
+            "inst": "RUSGA; viola; cavaquinho; violï¿½o; ferrinhos; bombo; reque-reque",
+            "id": 131
+        },
+        {
+            "fileType": "MP3",
+            "duracao": "2:19",
+            "tit": "Vira",
+            "prov": "Minho",
+            "local": "Tebosa, Braga",
+            "file": "d1/evo135.mp3",
+            "inst": "RUSGA; viola; cavaquinho; violï¿½o; ferrinhos; bombo; reque-reque",
+            "id": 132
+        },
+        {
+            "duracao": "1:21",
+            "fileType": "MP3",
+            "musico": "Domingos Manuel Machado (viola braguesa)",
+            "prov": "Minho",
+            "file": "d1/evo136.mp3",
+            "local": "Tebosa, Braga",
+            "tit": "Vira da Maia",
+            "id": 133
+        },
+        {
+            "duracao": "2:50",
+            "file": "d1/evo137.mp3",
+            "fileType": "MP3",
+            "tit": "Malhï¿½o da moda nova",
+            "musico": "Domingos Manuel Machado (viola braguesa)",
+            "prov": "Minho",
+            "local": "Tebosa, Braga",
+            "id": 134
+        },
+        {
+            "inst": "Festada de Arnï¿½ia Rabeca; violï¿½o assurdinado; violï¿½o solto; viola braguesa, bombo, ferrinhos",
+            "tit": "Vareira",
+            "fileType": "MP3",
+            "duracao": "3:48",
+            "prov": "Minho",
+            "file": "d1/evo138.mp3",
+            "local": "Arnï¿½ia, Celorico de Basto",
+            "id": 135
+        },
+        {
+            "obsFiles": [
+                {
+                    "file": "audiocurswa/0701evo1.swa",
+                    "fileType": "SWA"
+                },
+                {
+                    "file": "audiocurmp3/0701evo1.mp3",
+                    "fileType": "MP3"
+                }
+            ],
+            "inst": "Festada de Arnï¿½ia Rabeca; violï¿½o assurdinado; violï¿½o solto; viola braguesa, bombo, ferrinhos",
+            "tit": "Vareira",
+            "fileType": "MP3",
+            "file": "d1/evo139.mp3",
+            "prov": "Minho",
+            "duracao": "7:01",
+            "obs": "Partitura,   versï¿½o curta ",
+            "local": "Arnï¿½ia, Celorico de Basto",
+            "id": 136
+        },
+        {
+            "inst": "Festada de Arnï¿½ia Rabeca; violï¿½o assurdinado; violï¿½o solto; viola braguesa, bombo, ferrinhos",
+            "duracao": "5:14",
+            "obs": "distorï¿½ï¿½o na voz",
+            "fileType": "MP3",
+            "prov": "Minho",
+            "tit": "Cana verde",
+            "file": "d1/evo140.mp3",
+            "local": "Arnï¿½ia, Celorico de Basto",
+            "id": 137
+        },
+        {
+            "inst": "Festada de Arnï¿½ia Rabeca; violï¿½o assurdinado; violï¿½o solto; viola braguesa, bombo, ferrinhos",
+            "tit": "Chula Vareira",
+            "fileType": "MP3",
+            "prov": "Minho",
+            "duracao": "3:06",
+            "file": "d1/evo141.mp3",
+            "local": "Arnï¿½ia, Celorico de Basto",
+            "id": 138
+        },
+        {
+            "inst": "Festada de Arnï¿½ia Rabeca; violï¿½o assurdinado; violï¿½o solto; viola braguesa, bombo, ferrinhos",
+            "obs": "distorï¿½ï¿½o na voz do homem",
+            "fileType": "MP3",
+            "duracao": "3:10",
+            "prov": "Minho",
+            "file": "d1/evo142.mp3",
+            "tit": "Malhï¿½o preso",
+            "local": "Arnï¿½ia, Celorico de Basto",
+            "id": 139
+        },
+        {
+            "inst": "Festada de Arnï¿½ia Rabeca; violï¿½o assurdinado; violï¿½o solto; viola braguesa, bombo, ferrinhos",
+            "tit": "Vareira",
+            "file": "d1/evo143.mp3",
+            "duracao": "4:07",
+            "fileType": "MP3",
+            "prov": "Minho",
+            "obs": "DESTAQUE DOS INSTRUMENTOS",
+            "local": "Arnï¿½ia, Celorico de Basto",
+            "id": 140
+        },
+        {
+            "inst": "Festada de Arnï¿½ia Rabeca; violï¿½o assurdinado; violï¿½o solto; viola braguesa, bombo, ferrinhos",
+            "tit": "Vareira",
+            "duracao": "4:53",
+            "fileType": "MP3",
+            "prov": "Minho",
+            "file": "d1/evo144.mp3",
+            "local": "Arnï¿½ia, Celorico de Basto",
+            "id": 141
+        },
+        {
+            "obsFiles": [
+                {
+                    "file": "audiocurswa/0702evo1.swa",
+                    "fileType": "SWA"
+                },
+                {
+                    "file": "audiocurmp3/0702evo1.mp3",
+                    "fileType": "MP3"
+                }
+            ],
+            "local": "Tabuado, M. de",
+            "file": "d1/evo145.mp3",
+            "duracao": "6:53",
+            "fileType": "MP3",
+            "inst": "Rabeca; viola; violï¿½o assurdinado; bombo; ferrinhos; cantadeira",
+            "tit": "Chula de Tabuado",
+            "obs": "Partitura,   versï¿½o curta ",
+            "prov": "Douro Litoral",
+            "id": 142
+        },
+        {
+            "local": "Tabuado, M. de",
+            "file": "d1/evo146.mp3",
+            "duracao": "5:35",
+            "fileType": "MP3",
+            "inst": "Rabeca; viola; violï¿½o assurdinado; bombo; ferrinhos; cantadeira",
+            "tit": "Chula de Tabuado",
+            "prov": "Douro Litoral",
+            "id": 143
+        },
+        {
+            "local": "Tabuado, M. de",
+            "fileType": "MP3",
+            "inst": "Rabeca; viola; violï¿½o assurdinado; bombo; ferrinhos; cantadeira",
+            "duracao": "8:09",
+            "tit": "Chula de Tabuado",
+            "file": "d1/evo147.mp3",
+            "prov": "Douro Litoral",
+            "id": 144
+        },
+        {
+            "local": "Ferreiros, Braga",
+            "tit": "Malhï¿½o",
+            "fileType": "MP3",
+            "duracao": "3:02",
+            "prov": "Minho",
+            "file": "d1/evo148.mp3",
+            "musico": "Bernardino da Silva (cavaquinho); Manuel da Silva (violï¿½o)",
+            "id": 145
+        },
+        {
+            "obsFiles": [
+                {
+                    "file": "audiocurswa/0502evo1.swa",
+                    "fileType": "SWA"
+                },
+                {
+                    "file": "audiocurmp3/0502evo1.mp3",
+                    "fileType": "MP3"
+                }
+            ],
+            "local": "Ferreiros, Braga",
+            "file": "d1/evo149.mp3",
+            "fileType": "MP3",
+            "prov": "Minho",
+            "tit": "Meu cavaquinho",
+            "duracao": "1:59",
+            "obs": "Partitura,   versï¿½o curta ",
+            "musico": "Bernardino da Silva (cavaquinho); Manuel da Silva (violï¿½o)",
+            "id": 146
+        },
+        {
+            "local": "Ferreiros, Braga",
+            "duracao": "2:16",
+            "fileType": "MP3",
+            "tit": "Agora ï¿½ que pinta o bago",
+            "file": "d1/evo150.mp3",
+            "prov": "Minho",
+            "musico": "Bernardino da Silva (cavaquinho); Manuel da Silva (violï¿½o)",
+            "id": 147
+        },
+        {
+            "local": "Ferreiros, Braga",
+            "duracao": "1:44",
+            "tit": "O Laurindinha",
+            "fileType": "MP3",
+            "file": "d1/evo151.mp3",
+            "prov": "Minho",
+            "musico": "Bernardino da Silva (cavaquinho); Manuel da Silva (violï¿½o)",
+            "id": 148
+        },
+        {
+            "tit": "S.Joï¿½o de Braga",
+            "local": "Ferreiros, Braga",
+            "file": "d1/evo152.mp3",
+            "duracao": "2:02",
+            "fileType": "MP3",
+            "prov": "Minho",
+            "musico": "Bernardino da Silva (cavaquinho); Manuel da Silva (violï¿½o)",
+            "id": 149
+        },
+        {
+            "file": "d1/evo153.mp3",
+            "local": "Ferreiros, Braga",
+            "tit": "Vira Fandango",
+            "musico": "Bernardino da Silva (cavaquinho)",
+            "fileType": "MP3",
+            "prov": "Minho",
+            "duracao": "1:12",
+            "id": 150
+        },
+        {
+            "prov": "Galiza",
+            "musico": "Josï¿½ Joï¿½o da Igreja Ifanes",
+            "file": "d1/evo154e1.mp3",
+            "fileType": "MP3",
+            "tit": "Afinaï¿½ï¿½o da Gaita galega",
+            "duracao": "0:27",
+            "id": 151
+        },
+        {
+            "musico": "Josï¿½ Joï¿½o da Igreja Ifanes",
+            "prov": "Trï¿½s os Montes",
+            "local": "Ifanes, Miranda do Douro",
+            "fileType": "MP3",
+            "duracao": "0:32",
+            "tit": "Afinaï¿½ï¿½o da Gaita de Ifanes",
+            "file": "d1/evo156e1.mp3",
+            "id": 152
+        },
+        {
+            "musico": "Josï¿½ Joï¿½o da Igreja Ifanes",
+            "local": "Travanca",
+            "prov": "Trï¿½s os Montes",
+            "fileType": "MP3",
+            "file": "d1/evo158.mp3",
+            "duracao": "0:14",
+            "tit": "Afinaï¿½ï¿½o da Gaita de Travanca",
+            "id": 153
+        },
+        {
+            "musico": "Josï¿½ Joï¿½o da Igreja Ifanes",
+            "file": "d1/evo159.mp3",
+            "prov": "Trï¿½s os Montes",
+            "local": "Ifanes, Miranda do Douro",
+            "fileType": "MP3",
+            "duracao": "0:15",
+            "tit": "Afinaï¿½ï¿½o da Gaita de Ifanes",
+            "id": 154
+        },
+        {
+            "musico": "Josï¿½ Joï¿½o da Igreja Ifanes",
+            "file": "d1/evo160.mp3",
+            "prov": "Beira Litoral",
+            "fileType": "MP3",
+            "duracao": "0:14",
+            "local": "Coimbra",
+            "tit": "Afinaï¿½ï¿½o da Gaita de Coimbra",
+            "id": 155
+        },
+        {
+            "musico": "Josï¿½ Joï¿½o da Igreja Ifanes",
+            "tit": "Afinaï¿½ï¿½o da Gaita de Bravï¿½es",
+            "file": "d1/evo161.mp3",
+            "prov": "Trï¿½s os Montes",
+            "local": "Ifanes, Miranda do Douro",
+            "fileType": "MP3",
+            "duracao": "0:14",
+            "id": 156
+        },
+        {
+            "musico": "Josï¿½ Joï¿½o da Igreja Ifanes",
+            "tit": "Afinaï¿½ï¿½o da Gaita de Rio de Onor",
+            "local": "Rio de Onor",
+            "prov": "Trï¿½s os Montes",
+            "fileType": "MP3",
+            "file": "d1/evo162.mp3",
+            "duracao": "0:14",
+            "id": 157
+        },
+        {
+            "prov": "Galiza",
+            "musico": "Josï¿½ Joï¿½o da Igreja Ifanes",
+            "file": "d1/evo163.mp3",
+            "fileType": "MP3",
+            "duracao": "0:13",
+            "tit": "Afinaï¿½ï¿½o da Gaita Galega",
+            "id": 158
+        },
+        {
+            "obsFiles": [
+                {
+                    "file": "audiocurswa/1004evo1.swa",
+                    "fileType": "SWA"
+                },
+                {
+                    "file": "audiocurmp3/1004evo1.mp3",
+                    "fileType": "MP3"
+                }
+            ],
+            "duracao": "1:15",
+            "tit": "Mira-me Miguel",
+            "prov": "Trï¿½s os Montes",
+            "obs": "Partitura,   versï¿½o curta ",
+            "local": "Ifanes, Miranda do Douro",
+            "fileType": "MP3",
+            "musico": "Josï¿½ Joï¿½o da Igreja (gaita de foles)",
+            "file": "d1/evo164.mp3",
+            "id": 159
+        },
+        {
+            "file": "d1/evo165.mp3",
+            "duracao": "1:04",
+            "prov": "Trï¿½s os Montes",
+            "local": "Ifanes, Miranda do Douro",
+            "fileType": "MP3",
+            "musico": "Josï¿½ Joï¿½o da Igreja (gaita de foles)",
+            "tit": "Galandum",
+            "id": 160
+        },
+        {
+            "duracao": "1:30",
+            "file": "d1/evo166.mp3",
+            "prov": "Trï¿½s os Montes",
+            "local": "Ifanes, Miranda do Douro",
+            "fileType": "MP3",
+            "musico": "Josï¿½ Joï¿½o da Igreja (gaita de foles)",
+            "tit": "Trigueirinha",
+            "id": 161
+        },
+        {
+            "duracao": "1:07",
+            "prov": "Trï¿½s os Montes",
+            "local": "Ifanes, Miranda do Douro",
+            "fileType": "MP3",
+            "tit": "Queridinha",
+            "file": "d1/evo167.mp3",
+            "musico": "Josï¿½ Joï¿½o da Igreja (gaita de foles)",
+            "id": 162
+        },
+        {
+            "duracao": "1:16",
+            "tit": "Pingacho",
+            "prov": "Trï¿½s os Montes",
+            "local": "Ifanes, Miranda do Douro",
+            "fileType": "MP3",
+            "file": "d1/evo168.mp3",
+            "musico": "Josï¿½ Joï¿½o da Igreja (gaita de foles)",
+            "id": 163
+        },
+        {
+            "tit": "Fandango",
+            "prov": "Trï¿½s os Montes",
+            "local": "Ifanes, Miranda do Douro",
+            "fileType": "MP3",
+            "duracao": "1:29",
+            "musico": "Josï¿½ Joï¿½o da Igreja (gaita de foles)",
+            "file": "d1/evo169.mp3",
+            "id": 164
+        },
+        {
+            "file": "d1/evo170.mp3",
+            "fileType": "MP3",
+            "duracao": "3:53",
+            "prov": "Beira Baixa",
+            "tit": "Senhora do Almurtï¿½o",
+            "local": "Idanha a Nova",
+            "musico": "Antï¿½nia da Conceiï¿½ï¿½o Silveira (adufe)",
+            "id": 165
+        },
+        {
+            "duracao": "2:30",
+            "tit": "Senhora da Graï¿½a",
+            "fileType": "MP3",
+            "prov": "Beira Baixa",
+            "local": "Idanha a Nova",
+            "file": "d1/evo171.mp3",
+            "musico": "Antï¿½nia da Conceiï¿½ï¿½o Silveira (adufe)",
+            "id": 166
+        },
+        {
+            "tit": "Tocar a bailar",
+            "duracao": "2:44",
+            "fileType": "MP3",
+            "prov": "Beira Baixa",
+            "file": "d1/evo172.mp3",
+            "local": "Idanha a Nova",
+            "musico": "Antï¿½nia da Conceiï¿½ï¿½o Silveira (adufe)",
+            "id": 167
+        },
+        {
+            "tit": "S.Joï¿½o",
+            "file": "d1/evo173.mp3",
+            "duracao": "3:25",
+            "fileType": "MP3",
+            "prov": "Beira Baixa",
+            "local": "Idanha a Nova",
+            "musico": "Antï¿½nia da Conceiï¿½ï¿½o Silveira (adufe)",
+            "id": 168
+        },
+        {
+            "local": "Monsanto",
+            "duracao": "1:28",
+            "file": "d1/evo174.mp3",
+            "fileType": "MP3",
+            "tit": "Senhora do Almurtï¿½o",
+            "prov": "Beira Baixa",
+            "musico": "Josï¿½ dos Reis (palheta)",
+            "id": 169
+        },
+        {
+            "local": "Monsanto",
+            "duracao": "0:48",
+            "file": "d1/evo175.mp3",
+            "fileType": "MP3",
+            "tit": "Carnaval",
+            "prov": "Beira Baixa",
+            "musico": "Josï¿½ dos Reis (palheta)",
+            "id": 170
+        },
+        {
+            "local": "Monsanto",
+            "file": "d1/evo176.mp3",
+            "musico": "Grupo folclï¿½rico de Monsanto (adufes)",
+            "duracao": "2:13",
+            "tit": "O ï¿½s tï¿½o linda",
+            "fileType": "MP3",
+            "prov": "Beira Baixa",
+            "id": 171
+        },
+        {
+            "local": "Monsanto",
+            "duracao": "3:27",
+            "musico": "Grupo folclï¿½rico de Monsanto (adufes)",
+            "fileType": "MP3",
+            "tit": "Senhora do Almurtï¿½o",
+            "prov": "Beira Baixa",
+            "file": "d1/evo177.mp3",
+            "id": 172
+        },
+        {
+            "local": "Monsanto",
+            "obs": "distorï¿½ï¿½o nas vozes",
+            "musico": "Grupo folclï¿½rico de Monsanto (adufes)",
+            "file": "d1/evo178.mp3",
+            "fileType": "MP3",
+            "duracao": "1:49",
+            "tit": "Lï¿½ acima ao Castelo",
+            "prov": "Beira Baixa",
+            "id": 173
+        },
+        {
+            "local": "Monsanto",
+            "obs": "distorï¿½ï¿½o nas vozes",
+            "tit": "Maria da Conceiï¿½ï¿½o",
+            "musico": "Grupo folclï¿½rico de Monsanto (adufes)",
+            "fileType": "MP3",
+            "file": "d1/evo179.mp3",
+            "duracao": "2:42",
+            "prov": "Beira Baixa",
+            "id": 174
+        },
+        {
+            "local": "Monsanto",
+            "obs": "distorï¿½ï¿½o nas vozes",
+            "musico": "Grupo folclï¿½rico de Monsanto",
+            "duracao": "2:01",
+            "fileType": "MP3",
+            "tit": "Moda da azeitona",
+            "file": "d1/evo180.mp3",
+            "prov": "Beira Baixa",
+            "id": 175
+        },
+        {
+            "local": "Monsanto",
+            "musico": "Grupo folclï¿½rico de Monsanto (adufes)",
+            "tit": "Se os teus olhos se vendessem",
+            "fileType": "MP3",
+            "file": "d1/evo181.mp3",
+            "duracao": "2:00",
+            "prov": "Beira Baixa",
+            "id": 176
+        },
+        {
+            "local": "Monsanto",
+            "obs": "distorï¿½ï¿½o nas vozes",
+            "file": "d1/evo182.mp3",
+            "musico": "Grupo folclï¿½rico de Monsanto (adufes)",
+            "duracao": "2:28",
+            "tit": "A Margaï¿½a",
+            "fileType": "MP3",
+            "prov": "Beira Baixa",
+            "id": 177
+        },
+        {
+            "local": "Monsanto",
+            "file": "d1/evo183.mp3",
+            "tit": "Aleluia da Festa das Rosas da Pï¿½scoa",
+            "fileType": "MP3",
+            "duracao": "1:02",
+            "prov": "Beira Baixa",
+            "musico": "Josï¿½ dos Reis (palheta)",
+            "id": 178
+        },
+        {
+            "local": "Monsanto",
+            "duracao": "1:20",
+            "tit": "Senhora da Pï¿½voa",
+            "fileType": "MP3",
+            "file": "d1/evo184.mp3",
+            "prov": "Beira Baixa",
+            "musico": "Josï¿½ dos Reis (palheta)",
+            "id": 179
+        },
+        {
+            "obsFiles": [
+                {
+                    "file": "audiocurswa/1201evo1.swa",
+                    "fileType": "SWA"
+                },
+                {
+                    "file": "audiocurmp3/1201evo1.mp3",
+                    "fileType": "MP3"
+                }
+            ],
+            "local": "Monsanto",
+            "duracao": "1:01",
+            "file": "d1/evo185.mp3",
+            "fileType": "MP3",
+            "prov": "Beira Baixa",
+            "obs": "Partitura,   versï¿½o curta ",
+            "tit": "Lavrador da Arada",
+            "musico": "Josï¿½ dos Reis (palheta)",
+            "id": 180
+        },
+        {
+            "file": "d1/evo186.mp3",
+            "duracao": "2:11",
+            "inst": "flauta; adufe",
+            "fileType": "MP3",
+            "obs": "distorï¿½ï¿½o e interrupï¿½ï¿½o",
+            "tit": "Alvï¿½ssaras ï¿½ Senhora do Rosï¿½rio",
+            "prov": "Beira Baixa",
+            "local": "Pï¿½voa da Atalaia",
+            "id": 181
+        },
+        {
+            "duracao": "1:28",
+            "file": "d1/evo187.mp3",
+            "fileType": "MP3",
+            "tit": "Versos ao menino Jesus",
+            "prov": "Beira Baixa",
+            "local": "Pï¿½voa da Atalaia",
+            "inst": "flauta; Ms",
+            "id": 182
+        },
+        {
+            "inst": "Ms",
+            "fileType": "MP3",
+            "file": "d1/evo188.mp3",
+            "duracao": "5:00",
+            "tit": "Martï¿½rios da Quaresma; Cï¿½ntico Nocturno",
+            "prov": "Beira Baixa",
+            "local": "Pï¿½voa da Atalaia",
+            "id": 183
+        },
+        {
+            "file": "d1/evo189.mp3",
+            "inst": "Ms; flauta; adufe",
+            "fileType": "MP3",
+            "tit": "Cï¿½nticos ao S.Joï¿½o",
+            "duracao": "1:29",
+            "prov": "Beira Baixa",
+            "local": "Pï¿½voa da Atalaia",
+            "id": 184
+        },
+        {
+            "file": "d1/evo190.mp3",
+            "fileType": "MP3",
+            "tit": "Cï¿½nticos da Azeitona",
+            "duracao": "2:32",
+            "prov": "Beira Baixa",
+            "local": "Pï¿½voa da Atalaia",
+            "inst": "flauta; Ms",
+            "id": 185
+        },
+        {
+            "file": "d1/evo191.mp3",
+            "inst": "Ms; Hs",
+            "duracao": "1:01",
+            "fileType": "MP3",
+            "tit": "Cantiga das ceifas",
+            "prov": "Beira Baixa",
+            "local": "Pï¿½voa da Atalaia",
+            "id": 186
+        },
+        {
+            "file": "d1/evo192.mp3",
+            "inst": "M",
+            "duracao": "1:14",
+            "fileType": "MP3",
+            "tit": "Cantiga das ceifas",
+            "prov": "Beira Baixa",
+            "local": "Pï¿½voa da Atalaia",
+            "id": 187
+        },
+        {
+            "tit": "Milho verde",
+            "inst": "Ms; Hs",
+            "duracao": "1:40",
+            "file": "d1/evo193.mp3",
+            "fileType": "MP3",
+            "prov": "Beira Baixa",
+            "local": "Pï¿½voa da Atalaia",
+            "id": 188
+        },
+        {
+            "tit": "Cantiga de embalar",
+            "duracao": "1:01",
+            "inst": "M",
+            "fileType": "MP3",
+            "file": "d1/evo194.mp3",
+            "prov": "Beira Baixa",
+            "local": "Pï¿½voa da Atalaia",
+            "id": 189
+        },
+        {
+            "tit": "Encomendaï¿½ï¿½o das almas",
+            "inst": "Ms; Hs",
+            "fileType": "MP3",
+            "duracao": "3:20",
+            "file": "d1/evo195.mp3",
+            "prov": "Beira Baixa",
+            "local": "Pï¿½voa da Atalaia",
+            "id": 190
+        },
+        {
+            "file": "d1/evo196.mp3",
+            "inst": "M",
+            "duracao": "2:23",
+            "fileType": "MP3",
+            "tit": "Moda da rega",
+            "prov": "Beira Baixa",
+            "local": "Pï¿½voa da Atalaia",
+            "id": 191
+        },
+        {
+            "tit": "Chula de Gouve",
+            "fileType": "MP3",
+            "local": "Gouve, Baiï¿½o",
+            "duracao": "0:42",
+            "file": "d1/evo197.mp3",
+            "musico": "Joaquim Cardoso da Silva (flauta de cana)",
+            "prov": "Douro Litoral",
+            "id": 192
+        },
+        {
+            "file": "d1/evo198.mp3",
+            "tit": "S.Joï¿½o",
+            "fileType": "MP3",
+            "local": "Gouve, Baiï¿½o",
+            "duracao": "1:06",
+            "musico": "Joaquim Cardoso da Silva (flauta de cana)",
+            "prov": "Douro Litoral",
+            "id": 193
+        },
+        {
+            "fileType": "MP3",
+            "local": "Gouve, Baiï¿½o",
+            "duracao": "1:24",
+            "musico": "Joaquim Cardoso da Silva (flauta de cana)",
+            "tit": "Chula de Barqueiros",
+            "file": "d1/evo199.mp3",
+            "prov": "Douro Litoral",
+            "id": 194
+        },
+        {
+            "obsFiles": [
+                {
+                    "file": "audiocurswa/1106evo2.swa",
+                    "fileType": "SWA"
+                },
+                {
+                    "file": "audiocurmp3/1106evo2.mp3",
+                    "fileType": "MP3"
+                }
+            ],
+            "tit": "Chula de Gouve",
+            "file": "d1/evo200a.mp3",
+            "fileType": "MP3",
+            "local": "Gouve, Baiï¿½o",
+            "musico": "Joaquim Cardoso da Silva (flauta de cana)",
+            "obs": "Partitura,   versï¿½o curta ",
+            "duracao": "1:37",
+            "prov": "Douro Litoral",
+            "id": 195
+        },
+        {
+            "tit": "Chula de Gouve",
+            "file": "d1/evo200b.mp3",
+            "fileType": "MP3",
+            "local": "Gouve, Baiï¿½o",
+            "musico": "Joaquim Cardoso da Silva (flauta de cana)",
+            "duracao": "1:31",
+            "prov": "Douro Litoral",
+            "id": 196
+        },
+        {
+            "duracao": "1:13",
+            "prov": "Trï¿½s os Montes",
+            "fileType": "MP3",
+            "file": "d1/evo201.mp3",
+            "local": "Genï¿½sio, Miranda do Douro",
+            "tit": "Alvorada",
+            "musico": "Antï¿½nio Inï¿½cio Joï¿½o (flauta)",
+            "id": 197
+        },
+        {
+            "tit": "Toque da Procissï¿½o",
+            "prov": "Trï¿½s os Montes",
+            "file": "d1/evo202.mp3",
+            "fileType": "MP3",
+            "local": "Genï¿½sio, Miranda do Douro",
+            "duracao": "1:02",
+            "musico": "Antï¿½nio Inï¿½cio Joï¿½o (flauta)",
+            "id": 198
+        },
+        {
+            "file": "d1/evo203.mp3",
+            "prov": "Trï¿½s os Montes",
+            "duracao": "1:26",
+            "fileType": "MP3",
+            "local": "Genï¿½sio, Miranda do Douro",
+            "tit": "O 25 de roda",
+            "musico": "Antï¿½nio Inï¿½cio Joï¿½o (flauta)",
+            "id": 199
+        },
+        {
+            "tit": "Laï¿½o da verde da danï¿½a dos paulitos",
+            "obs": "baixa de nï¿½vel",
+            "prov": "Trï¿½s os Montes",
+            "duracao": "1:11",
+            "fileType": "MP3",
+            "local": "Genï¿½sio, Miranda do Douro",
+            "file": "d1/evo204.mp3",
+            "musico": "Antï¿½nio Inï¿½cio Joï¿½o (flauta)",
+            "id": 200
+        },
+        {
+            "duracao": "0:19",
+            "tit": "Laï¿½o da verde",
+            "prov": "Trï¿½s os Montes",
+            "fileType": "MP3",
+            "musico": "Antï¿½nio Inï¿½cio Joï¿½o",
+            "local": "Genï¿½sio, Miranda do Douro",
+            "obs": "CANTADO",
+            "file": "d1/evo204.mp3",
+            "id": 201
+        },
+        {
+            "tit": "Laï¿½o da yerba",
+            "prov": "Trï¿½s os Montes",
+            "duracao": "1:26",
+            "fileType": "MP3",
+            "obs": "cantado e depois tocado",
+            "local": "Genï¿½sio, Miranda do Douro",
+            "file": "d1/evo206.mp3",
+            "musico": "Antï¿½nio Inï¿½cio Joï¿½o (flauta)",
+            "id": 202
+        },
+        {
+            "obsFiles": [
+                {
+                    "file": "audiocurswa/1101evo2.swa",
+                    "fileType": "SWA"
+                },
+                {
+                    "file": "audiocurmp3/1101evo2.mp3",
+                    "fileType": "MP3"
+                }
+            ],
+            "tit": "Laï¿½o das campanitas; cantado e tocado",
+            "prov": "Trï¿½s os Montes",
+            "file": "d1/evo207.mp3",
+            "fileType": "MP3",
+            "local": "Genï¿½sio, Miranda do Douro",
+            "duracao": "1:19",
+            "obs": "Partitura,   versï¿½o curta ",
+            "musico": "Antï¿½nio Inï¿½cio Joï¿½o (flauta)",
+            "id": 203
+        },
+        {
+            "local": "Constantim, Miranda do Douro",
+            "duracao": "1:05",
+            "prov": "Trï¿½s os Montes",
+            "musico": "Josï¿½ Francisco Pires (flauta)",
+            "fileType": "MP3",
+            "obs": "cantado e depois tocado",
+            "tit": "Beijai o menino; Cï¿½ntico de Natal na Igreja",
+            "file": "d1/evo208.mp3",
+            "id": 204
+        },
+        {
+            "duracao": "1:08",
+            "local": "Constantim, Miranda do Douro",
+            "prov": "Trï¿½s os Montes",
+            "musico": "Josï¿½ Francisco Pires (flauta)",
+            "fileType": "MP3",
+            "obs": "cantado e depois tocado",
+            "file": "d1/evo209.mp3",
+            "tit": "Elevaï¿½ï¿½o de Nosso Senhor; Cï¿½ntico na Igreja",
+            "id": 205
+        },
+        {
+            "duracao": "0:52",
+            "local": "Constantim, Miranda do Douro",
+            "prov": "Trï¿½s os Montes",
+            "musico": "Josï¿½ Francisco Pires (flauta)",
+            "tit": "Consagraï¿½ï¿½o; Cï¿½ntico na Igreja",
+            "obs": "cantado e depois tocado",
+            "fileType": "MP3",
+            "file": "d1/evo210.mp3",
+            "id": 206
+        },
+        {
+            "obsFiles": [
+                {
+                    "file": "audiocurswa/1102evo2.swa",
+                    "fileType": "SWA"
+                },
+                {
+                    "file": "audiocurmp3/1102evo2.mp3",
+                    "fileType": "MP3"
+                }
+            ],
+            "tit": "Toque do peditï¿½rio; da esmola pelo povo, a acompanhar a danï¿½a dos pauliteiros pelas portas",
+            "local": "Constantim, Miranda do Douro",
+            "prov": "Trï¿½s os Montes",
+            "fileType": "MP3",
+            "duracao": "1:18",
+            "obs": "Partitura,   versï¿½o curta ",
+            "file": "d1/evo211.mp3",
+            "musico": "Josï¿½ Francisco Pires (tamboril e flauta)",
+            "id": 207
+        },
+        {
+            "file": "d1/evo212.mp3",
+            "local": "Constantim, Miranda do Douro",
+            "prov": "Trï¿½s os Montes",
+            "musico": "Josï¿½ Francisco Pires (flauta)",
+            "fileType": "MP3",
+            "tit": "Laï¿½os da danï¿½a dos paulitos; pelo povo, ï¿½s portas",
+            "duracao": "1:18",
+            "id": 208
+        },
+        {
+            "local": "Constantim, Miranda do Douro",
+            "tit": "Passacalle; Toque de procissï¿½o",
+            "prov": "Trï¿½s os Montes",
+            "fileType": "MP3",
+            "duracao": "1:15",
+            "file": "d1/evo213.mp3",
+            "musico": "Josï¿½ Francisco Pires (tamboril e flauta)",
+            "id": 209
+        },
+        {
+            "local": "Constantim, Miranda do Douro",
+            "file": "d1/evo214.mp3",
+            "prov": "Trï¿½s os Montes",
+            "musico": "Josï¿½ Francisco Pires (flauta)",
+            "fileType": "MP3",
+            "duracao": "1:29",
+            "tit": "Marcha de gregos; Toque de procissï¿½o",
+            "id": 210
+        },
+        {
+            "tit": "Senhor mio; Laï¿½o tocado ï¿½ saï¿½da da Igreja, depois da missa",
+            "local": "Constantim, Miranda do Douro",
+            "duracao": "1:03",
+            "prov": "Trï¿½s os Montes",
+            "musico": "Josï¿½ Francisco Pires (flauta)",
+            "fileType": "MP3",
+            "file": "d1/evo215.mp3",
+            "id": 211
+        },
+        {
+            "duracao": "1:25",
+            "local": "Constantim, Miranda do Douro",
+            "file": "d1/evo216.mp3",
+            "prov": "Trï¿½s os Montes",
+            "musico": "Josï¿½ Francisco Pires (flauta)",
+            "fileType": "MP3",
+            "tit": "O 25 de roda; Laï¿½o tocado ï¿½ saï¿½da da missa",
+            "id": 212
+        },
+        {
+            "duracao": "0:52",
+            "tit": "Laï¿½o da Yerba",
+            "file": "d1/evo217.mp3",
+            "local": "Constantim, Miranda do Douro",
+            "prov": "Trï¿½s os Montes",
+            "musico": "Josï¿½ Francisco Pires (flauta)",
+            "fileType": "MP3",
+            "id": 213
+        },
+        {
+            "tit": "O 25 aberto; Laï¿½o",
+            "file": "d1/evo218.mp3",
+            "local": "Constantim, Miranda do Douro",
+            "prov": "Trï¿½s os Montes",
+            "musico": "Josï¿½ Francisco Pires (flauta)",
+            "fileType": "MP3",
+            "duracao": "1:06",
+            "id": 214
+        },
+        {
+            "duracao": "2:30",
+            "file": "d1/evo219.mp3",
+            "local": "Constantim, Miranda do Douro",
+            "prov": "Trï¿½s os Montes",
+            "musico": "Josï¿½ Francisco Pires (flauta)",
+            "fileType": "MP3",
+            "tit": "As rosas; danï¿½a de pï¿½ ï¿½ saï¿½da da Igreja",
+            "id": 215
+        },
+        {
+            "duracao": "1:17",
+            "local": "Constantim, Miranda do Douro",
+            "prov": "Trï¿½s os Montes",
+            "musico": "Josï¿½ Francisco Pires (flauta)",
+            "fileType": "MP3",
+            "tit": "As pombinhas da Catrina",
+            "file": "d1/evo220.mp3",
+            "id": 216
+        },
+        {
+            "local": "Constantim, Miranda do Douro",
+            "prov": "Trï¿½s os Montes",
+            "musico": "Josï¿½ Francisco Pires (flauta)",
+            "fileType": "MP3",
+            "tit": "Alvorada",
+            "duracao": "2:18",
+            "file": "d1/evo221.mp3",
+            "id": 217
+        },
+        {
+            "musico": "Virgï¿½lio Cristal (tamboril e flauta)",
+            "local": "Constantim, Miranda do Douro",
+            "file": "d1/evo222.mp3",
+            "prov": "Trï¿½s os Montes",
+            "fileType": "MP3",
+            "tit": "Alvorada",
+            "duracao": "1:42",
+            "id": 218
+        },
+        {
+            "prov": "Trï¿½s os Montes",
+            "local": "Ifanes, Miranda do Douro",
+            "fileType": "MP3",
+            "duracao": "2:19",
+            "tit": "Alvorada",
+            "file": "d1/evo223.mp3",
+            "musico": "Josï¿½ Joï¿½o da Igreja (gaita de foles)",
+            "id": 219
+        },
+        {
+            "tit": "Passacalle; toque do peditï¿½rio dos pauliteiros",
+            "duracao": "1:21",
+            "prov": "Trï¿½s os Montes",
+            "local": "Ifanes, Miranda do Douro",
+            "fileType": "MP3",
+            "musico": "Josï¿½ Joï¿½o da Igreja (gaita de foles); Virgï¿½lio Cristal (tamboril e flauta)",
+            "file": "d1/evo224.mp3",
+            "id": 220
+        },
+        {
+            "file": "d1/evo225.mp3",
+            "musico": "Virgï¿½lio Cristal (tamboril e flauta)",
+            "local": "Constantim, Miranda do Douro",
+            "prov": "Trï¿½s os Montes",
+            "duracao": "0:55",
+            "fileType": "MP3",
+            "tit": "Passacalle",
+            "id": 221
+        },
+        {
+            "musico": "Josï¿½ Joï¿½o da Igreja (gaita de foles); Virgï¿½lio Cristal (tamboril)",
+            "tit": "Passacalle; toque do peditï¿½rio dos pauliteiros",
+            "prov": "Trï¿½s os Montes",
+            "local": "Ifanes, Miranda do Douro",
+            "fileType": "MP3",
+            "file": "d1/evo226.mp3",
+            "duracao": "1:15",
+            "id": 222
+        },
+        {
+            "file": "d1/evo227.mp3",
+            "tit": "Moda do pastor",
+            "musico": "Virgï¿½lio Cristal (tamboril e flauta)",
+            "local": "Constantim, Miranda do Douro",
+            "duracao": "1:05",
+            "prov": "Trï¿½s os Montes",
+            "fileType": "MP3",
+            "id": 223
+        },
+        {
+            "tit": "Moda do pastor",
+            "musico": "Josï¿½ Joï¿½o da Igreja (gaita de foles); Virgï¿½lio Cristal (tamboril)",
+            "duracao": "1:20",
+            "file": "d1/evo228.mp3",
+            "prov": "Trï¿½s os Montes",
+            "local": "Ifanes, Miranda do Douro",
+            "fileType": "MP3",
+            "id": 224
+        },
+        {
+            "file": "d1/evo229.mp3",
+            "musico": "Josï¿½ Joï¿½o da Igreja (gaita de foles); Virgï¿½lio Cristal (tamboril)",
+            "duracao": "0:46",
+            "tit": "Pingacho",
+            "prov": "Trï¿½s os Montes",
+            "local": "Ifanes, Miranda do Douro",
+            "fileType": "MP3",
+            "id": 225
+        },
+        {
+            "file": "d1/evo230.mp3",
+            "duracao": "1:04",
+            "local": "Constantim, Miranda do Douro",
+            "tit": "Pingacho",
+            "prov": "Trï¿½s os Montes",
+            "fileType": "MP3",
+            "musico": "Josï¿½ Joï¿½o da Igreja (tamboril e flauta)",
+            "id": 226
+        },
+        {
+            "obsFiles": [
+                {
+                    "file": "audiocurswa/1003evo2.swa",
+                    "fileType": "SWA"
+                },
+                {
+                    "file": "audiocurmp3/1003evo2.mp3",
+                    "fileType": "MP3"
+                }
+            ],
+            "duracao": "1:33",
+            "file": "d1/evo231.mp3",
+            "prov": "Trï¿½s os Montes",
+            "obs": "Partitura,   versï¿½o curta ",
+            "local": "Ifanes, Miranda do Douro",
+            "fileType": "MP3",
+            "musico": "Josï¿½ Joï¿½o da Igreja (gaita de foles)",
+            "tit": "Elevaï¿½ï¿½o da hï¿½stia",
+            "id": 227
+        },
+        {
+            "file": "d1/evo232.mp3",
+            "tit": "Redondo; baile",
+            "musico": "Virgï¿½lio Cristal (tamboril e flauta)",
+            "local": "Constantim, Miranda do Douro",
+            "prov": "Trï¿½s os Montes",
+            "fileType": "MP3",
+            "duracao": "1:19",
+            "id": 228
+        },
+        {
+            "duracao": "1:23",
+            "file": "d1/evo233.mp3",
+            "musico": "Virgï¿½lio Cristal (tamboril e flauta)",
+            "local": "Constantim, Miranda do Douro",
+            "prov": "Trï¿½s os Montes",
+            "fileType": "MP3",
+            "tit": "As rosas; danï¿½a de pauliteiros",
+            "id": 229
+        },
+        {
+            "tit": "Redondo; baile",
+            "prov": "Trï¿½s os Montes",
+            "duracao": "1:22",
+            "local": "Ifanes, Miranda do Douro",
+            "fileType": "MP3",
+            "musico": "Josï¿½ Joï¿½o da Igreja (gaita de foles)",
+            "file": "d1/evo234.mp3",
+            "id": 230
+        },
+        {
+            "tit": "Mineta; romance",
+            "prov": "Trï¿½s os Montes",
+            "local": "Ifanes, Miranda do Douro",
+            "fileType": "MP3",
+            "file": "d1/evo235.mp3",
+            "musico": "Josï¿½ Joï¿½o da Igreja (gaita de foles)",
+            "duracao": "1:42",
+            "id": 231
+        },
+        {
+            "prov": "Trï¿½s os Montes",
+            "local": "Ifanes, Miranda do Douro",
+            "musico": "Josï¿½ Joï¿½o da Igreja (tamboril e flauta)",
+            "fileType": "MP3",
+            "duracao": "1:24",
+            "tit": "O 25 de roda",
+            "file": "d1/evo236.mp3",
+            "id": 232
+        },
+        {
+            "duracao": "1:21",
+            "file": "d1/evo237.mp3",
+            "local": "Vila Verde de Ficalho",
+            "fileType": "MP3",
+            "tit": "Alvorada",
+            "musico": "Manuel Josï¿½ Celeiro (tamboril e pï¿½faro)",
+            "prov": "Alentejo",
+            "id": 233
+        },
+        {
+            "file": "d1/evo238.mp3",
+            "local": "Vila Verde de Ficalho",
+            "fileType": "MP3",
+            "tit": "Toque da rua",
+            "duracao": "0:59",
+            "musico": "Manuel Josï¿½ Celeiro (tamboril e pï¿½faro)",
+            "prov": "Alentejo",
+            "id": 234
+        },
+        {
+            "tit": "Corridinho",
+            "local": "Vila Verde de Ficalho",
+            "fileType": "MP3",
+            "musico": "Manuel Josï¿½ Celeiro (tamboril e pï¿½faro)",
+            "file": "d1/evo239.mp3",
+            "prov": "Alentejo",
+            "duracao": "0:44",
+            "id": 235
+        },
+        {
+            "local": "Stï¿½ Aleixo da Restauraï¿½ï¿½o",
+            "tit": "Toque do tamborileiro",
+            "musico": "Antï¿½nio Maria Cuco (tamboril e pï¿½faro)",
+            "duracao": "1:03",
+            "fileType": "MP3",
+            "prov": "Alentejo",
+            "file": "d1/evo240.mp3",
+            "id": 236
+        },
+        {
+            "local": "Stï¿½ Aleixo da Restauraï¿½ï¿½o",
+            "tit": "Toque do tamborileiro",
+            "musico": "Antï¿½nio Maria Cuco (tamboril e pï¿½faro)",
+            "fileType": "MP3",
+            "file": "d1/evo241.mp3",
+            "duracao": "0:53",
+            "prov": "Alentejo",
+            "id": 237
+        },
+        {
+            "musico": "Antï¿½nio Lourenï¿½o Louro",
+            "tit": "Cantar do pedreiro",
+            "fileType": "MP3",
+            "file": "d1/evo242.mp3",
+            "prov": "Minho",
+            "local": "Carreï¿½o",
+            "duracao": "4:52",
+            "id": 238
+        },
+        {
+            "file": "d1/evo243.mp3",
+            "fileType": "MP3",
+            "prov": "Minho",
+            "local": "Carreï¿½o",
+            "duracao": "0:29",
+            "tit": "Toque de zaquelitraques",
+            "inst": "zaquelitraques",
+            "id": 239
+        },
+        {
+            "duracao": "0:36",
+            "file": "d1/evo244.mp3",
+            "fileType": "MP3",
+            "prov": "Minho",
+            "local": "Carreï¿½o",
+            "tit": "Toque de zaquelitraques",
+            "inst": "zaquelitraques",
+            "id": 240
+        },
+        {
+            "inst": "cavaquinho;violï¿½o",
+            "file": "d1/evo245.mp3",
+            "duracao": "0:45",
+            "fileType": "MP3",
+            "tit": "-",
+            "prov": "Minho",
+            "id": 241
+        },
+        {
+            "inst": "cavaquinho; violï¿½o; bombo",
+            "fileType": "MP3",
+            "tit": "-",
+            "prov": "Minho",
+            "file": "d1/evo246.mp3",
+            "duracao": "0:30",
+            "id": 242
+        },
+        {
+            "file": "d1/evo247.mp3",
+            "duracao": "1:40",
+            "local": "Moimenta de Vinhais",
+            "prov": "Trï¿½s os Montes",
+            "tit": "Murinheira",
+            "fileType": "MP3",
+            "musico": "Carlos Gonï¿½alves (gaita de foles); Augusto Diegues(caixa); Isaï¿½as Azevedo(bombo)",
+            "id": 243
+        },
+        {
+            "file": "d1/evo248.mp3",
+            "local": "Moimenta de Vinhais",
+            "prov": "Trï¿½s os Montes",
+            "duracao": "1:22",
+            "fileType": "MP3",
+            "musico": "Carlos Gonï¿½alves (gaita de foles); Augusto Diegues(caixa); Isaï¿½as Azevedo(bombo)",
+            "tit": "Passeado",
+            "id": 244
+        },
+        {
+            "obsFiles": [
+                {
+                    "file": "audiocurswa/1001evo2.swa",
+                    "fileType": "SWA"
+                },
+                {
+                    "file": "audiocurmp3/1001evo2.mp3",
+                    "fileType": "MP3"
+                }
+            ],
+            "local": "Moimenta de Vinhais",
+            "prov": "Trï¿½s os Montes",
+            "fileType": "MP3",
+            "duracao": "1:58",
+            "tit": "Alvorada",
+            "file": "d1/evo249.mp3",
+            "obs": "Partitura,   versï¿½o curta ",
+            "musico": "Carlos Gonï¿½alves (gaita de foles); Augusto Diegues(caixa); Isaï¿½as Azevedo(bombo)",
+            "id": 245
+        },
+        {
+            "obsFiles": [
+                {
+                    "file": "audiocurswa/1002evo2.swa",
+                    "fileType": "SWA"
+                },
+                {
+                    "file": "audiocurmp3/1002evo2.mp3",
+                    "fileType": "MP3"
+                }
+            ],
+            "duracao": "2:05",
+            "musico": "Carlos Gonï¿½alves (gaita de foles); Maria do Carmo Garcia(pandeiro); Irï¿½a dos Anjos(ferranholas)",
+            "local": "Moimenta de Vinhais",
+            "prov": "Trï¿½s os Montes",
+            "fileType": "MP3",
+            "file": "d1/evo250.mp3",
+            "obs": "Partitura,   versï¿½o curta ",
+            "tit": "Carvalhesa",
+            "id": 246
+        },
+        {
+            "obsFiles": [
+                {
+                    "file": "audiocurswa/1401evo2.swa",
+                    "fileType": "SWA"
+                },
+                {
+                    "file": "audiocurmp3/1401evo2.mp3",
+                    "fileType": "MP3"
+                }
+            ],
+            "local": "Moimenta de Vinhais",
+            "prov": "Trï¿½s os Montes",
+            "file": "d1/evo251.mp3",
+            "fileType": "MP3",
+            "duracao": "0:23",
+            "musico": "Felismina de Jesus Sampaio",
+            "obs": "Partitura,   versï¿½o curta ",
+            "tit": "Toque de pandeiro e ferranholas",
+            "id": 247
+        },
+        {
+            "musico": "Justa Branca de Azevedo (pandeiro)",
+            "file": "d1/evo252.mp3",
+            "local": "Moimenta de Vinhais",
+            "prov": "Trï¿½s os Montes",
+            "fileType": "MP3",
+            "tit": "Mulher que toca o pandeiro",
+            "duracao": "0:44",
+            "id": 248
+        },
+        {
+            "tit": "Foliï¿½o",
+            "duracao": "1:01",
+            "local": "Moimenta de Vinhais",
+            "prov": "Trï¿½s os Montes",
+            "file": "d1/evo253.mp3",
+            "fileType": "MP3",
+            "id": 249
+        },
+        {
+            "file": "d1/evo254.mp3",
+            "local": "Moimenta de Vinhais",
+            "prov": "Trï¿½s os Montes",
+            "musico": "Maria do Carmo Pires (pandeiro)",
+            "fileType": "MP3",
+            "tit": "Li la rï¿½",
+            "duracao": "1:22",
+            "id": 250
+        },
+        {
+            "file": "d1/evo255.mp3",
+            "local": "Moimenta de Vinhais",
+            "prov": "Trï¿½s os Montes",
+            "duracao": "1:09",
+            "fileType": "MP3",
+            "tit": "Alvorada",
+            "musico": "Carlos Gonï¿½alves (gaita de foles)",
+            "id": 251
+        },
+        {
+            "local": "Moimenta de Vinhais",
+            "prov": "Trï¿½s os Montes",
+            "fileType": "MP3",
+            "file": "d1/evo256.mp3",
+            "musico": "Carlos Gonï¿½alves (gaita de foles); pandeiro; ferranholas",
+            "duracao": "1:58",
+            "tit": "Murinheira; Passeado",
+            "id": 252
+        },
+        {
+            "obsFiles": [
+                {
+                    "file": "audiocurswa/1402evo2.swa",
+                    "fileType": "SWA"
+                },
+                {
+                    "file": "audiocurmp3/1402evo2.mp3",
+                    "fileType": "MP3"
+                }
+            ],
+            "local": "Moimenta de Vinhais",
+            "prov": "Trï¿½s os Montes",
+            "fileType": "MP3",
+            "duracao": "3:36",
+            "musico": "Maria Gordilha (pandeiro)",
+            "obs": "Partitura,   versï¿½o curta ",
+            "file": "d1/evo257.mp3",
+            "tit": "Li la rï¿½ com os 5 sentidos",
+            "id": 253
+        },
+        {
+            "musico": "Carlos Gonï¿½alves (gaita de foles); Armï¿½nio Josï¿½ Alves (ferrinhos); ferranholas; pandeiro",
+            "local": "Moimenta de Vinhais",
+            "prov": "Trï¿½s os Montes",
+            "fileType": "MP3",
+            "tit": "Carvalhesa",
+            "file": "d1/evo258.mp3",
+            "duracao": "1:37",
+            "id": 254
+        },
+        {
+            "duracao": "0:36",
+            "file": "d1/evo259.mp3",
+            "musico": "Armï¿½nio Josï¿½ Alves (ferrinhos); ferranholas; pandeiro",
+            "local": "Moimenta de Vinhais",
+            "prov": "Trï¿½s os Montes",
+            "fileType": "MP3",
+            "obs": "sï¿½ o acompanhamento, sem gaita de foles",
+            "tit": "Carvalhesa",
+            "id": 255
+        },
+        {
+            "local": "Moimenta de Vinhais",
+            "prov": "Trï¿½s os Montes",
+            "tit": "Elevaï¿½ï¿½o",
+            "fileType": "MP3",
+            "duracao": "1:39",
+            "musico": "Carlos Gonï¿½alves (gaita de foles)",
+            "file": "d1/evo260.mp3",
+            "id": 256
+        },
+        {
+            "musico": "Carlos Gonï¿½alves; Maria Gordilha",
+            "tit": "Manhaninha de S.Joï¿½o, cantiga da segada",
+            "duracao": "2:57",
+            "local": "Moimenta de Vinhais",
+            "prov": "Trï¿½s os Montes",
+            "file": "d1/evo261.mp3",
+            "fileType": "MP3",
+            "id": 257
+        },
+        {
+            "tit": "O Lavrador; cantiga da segada",
+            "local": "Moimenta de Vinhais",
+            "prov": "Trï¿½s os Montes",
+            "fileType": "MP3",
+            "duracao": "3:58",
+            "file": "d1/evo262.mp3",
+            "musico": "Carlos Gonï¿½alves; Maria Adelaide Rodrigues",
+            "id": 258
+        },
+        {
+            "local": "Moimenta de Vinhais",
+            "prov": "Trï¿½s os Montes",
+            "fileType": "MP3",
+            "duracao": "1:31",
+            "file": "d1/evo263.mp3",
+            "musico": "Carlos Gonï¿½alves (gaita de foles); Augusto Diegues(caixa); Isaï¿½as Azevedo(bombo)",
+            "tit": "Murinheira portuguesa",
+            "id": 259
+        },
+        {
+            "musico": "Maria Adelaide Rodrigues",
+            "local": "Moimenta de Vinhais",
+            "prov": "Trï¿½s os Montes",
+            "duracao": "1:00",
+            "fileType": "MP3",
+            "file": "d1/evo264.mp3",
+            "tit": "A rosa; canï¿½ï¿½o pastoril",
+            "id": 260
+        },
+        {
+            "local": "Moimenta de Vinhais",
+            "prov": "Trï¿½s os Montes",
+            "fileType": "MP3",
+            "musico": "Carlos Gonï¿½alves; Maria do Carmo Garcia",
+            "file": "d1/evo265.mp3",
+            "duracao": "1:59",
+            "tit": "A rosa; canï¿½ï¿½o pastoril",
+            "id": 261
+        },
+        {
+            "musico": "Maria Adelaide Rodrigues",
+            "file": "d1/evo266.mp3",
+            "duracao": "1:08",
+            "local": "Moimenta de Vinhais",
+            "prov": "Trï¿½s os Montes",
+            "tit": "O dai la dou; canï¿½ï¿½o pastoril",
+            "fileType": "MP3",
+            "id": 262
+        },
+        {
+            "local": "Moimenta de Vinhais",
+            "prov": "Trï¿½s os Montes",
+            "file": "d1/evo267.mp3",
+            "tit": "O dai la dou; canï¿½ï¿½o pastoril",
+            "fileType": "MP3",
+            "duracao": "1:24",
+            "musico": "Carlos Gonï¿½alves; Maria Adelaide Rodrigues",
+            "id": 263
+        },
+        {
+            "musico": "Maria Adelaide Rodrigues",
+            "local": "Moimenta de Vinhais",
+            "file": "d1/evo268.mp3",
+            "prov": "Trï¿½s os Montes",
+            "fileType": "MP3",
+            "duracao": "1:22",
+            "tit": "Canï¿½ï¿½o do berï¿½o",
+            "id": 264
+        },
+        {
+            "tit": "Cantiga do linho",
+            "file": "d1/evo269.mp3",
+            "local": "Moimenta de Vinhais",
+            "prov": "Trï¿½s os Montes",
+            "duracao": "1:56",
+            "fileType": "MP3",
+            "musico": "Benigna Rodrigues",
+            "id": 265
+        },
+        {
+            "duracao": "2:50",
+            "tit": "Encomendaï¿½ï¿½o das almas",
+            "inst": "Ms; Hs",
+            "local": "Moimenta de Vinhais",
+            "prov": "Trï¿½s os Montes",
+            "fileType": "MP3",
+            "file": "d1/evo270.mp3",
+            "id": 266
+        },
+        {
+            "tit": "Encomendaï¿½ï¿½o das almas",
+            "file": "d1/evo271.mp3",
+            "duracao": "2:45",
+            "inst": "Ms; Hs",
+            "local": "Moimenta de Vinhais",
+            "prov": "Trï¿½s os Montes",
+            "fileType": "MP3",
+            "id": 267
+        },
+        {
+            "duracao": "0:39",
+            "local": "Moimenta de Vinhais",
+            "file": "d1/evo272.mp3",
+            "prov": "Trï¿½s os Montes",
+            "inst": "Ms",
+            "fileType": "MP3",
+            "tit": "A Belandrona",
+            "id": 268
+        },
+        {
+            "file": "d1/evo273.mp3",
+            "prov": "Trï¿½s os Montes",
+            "tit": "Alvorada; da Festa dos Rapazes",
+            "fileType": "MP3",
+            "duracao": "3:10",
+            "local": "Aveleda, Braganï¿½a",
+            "musico": "Antï¿½nio Carriï¿½o (gaita de foles)",
+            "id": 269
+        },
+        {
+            "file": "d1/evo274.mp3",
+            "prov": "Trï¿½s os Montes",
+            "fileType": "MP3",
+            "tit": "Ronda; da Festa dos Rapazes",
+            "duracao": "2:31",
+            "local": "Aveleda, Braganï¿½a",
+            "musico": "Antï¿½nio Carriï¿½o (gaita de foles)",
+            "id": 270
+        },
+        {
+            "duracao": "2:30",
+            "file": "d1/evo275.mp3",
+            "prov": "Trï¿½s os Montes",
+            "tit": "Danï¿½a; da Festa dos Rapazes",
+            "fileType": "MP3",
+            "local": "Aveleda, Braganï¿½a",
+            "musico": "Antï¿½nio Carriï¿½o (gaita de foles)",
+            "id": 271
+        },
+        {
+            "local": "Rio de Onor, Braganï¿½a",
+            "musico": "Juan Prieto Ximeno (gaita de foles); Joï¿½o Manuel Fernandes (tambor)",
+            "tit": "Alvorada Sanabreza",
+            "duracao": "1:53",
+            "prov": "Trï¿½s os Montes",
+            "fileType": "MP3",
+            "file": "d1/evo276.mp3",
+            "id": 272
+        },
+        {
+            "local": "Rio de Onor, Braganï¿½a",
+            "musico": "Juan Prieto Ximeno (gaita de foles); Joï¿½o Manuel Fernandes (tambor)",
+            "duracao": "2:45",
+            "prov": "Trï¿½s os Montes",
+            "fileType": "MP3",
+            "file": "d1/evo277.mp3",
+            "tit": "Alvorada de Rio de Onor",
+            "id": 273
+        },
+        {
+            "local": "Rio de Onor, Braganï¿½a",
+            "musico": "Juan Prieto Ximeno (gaita de foles); Joï¿½o Manuel Fernandes (tambor)",
+            "duracao": "1:47",
+            "file": "d1/evo278.mp3",
+            "prov": "Trï¿½s os Montes",
+            "fileType": "MP3",
+            "tit": "Baile agarrado (antigo)",
+            "id": 274
+        },
+        {
+            "local": "Rio de Onor, Braganï¿½a",
+            "musico": "Juan Prieto Ximeno (gaita de foles); Joï¿½o Manuel Fernandes (tambor)",
+            "file": "d1/evo279.mp3",
+            "prov": "Trï¿½s os Montes",
+            "fileType": "MP3",
+            "duracao": "3:12",
+            "tit": "Jota antiga",
+            "id": 275
+        },
+        {
+            "local": "Rio de Onor, Braganï¿½a",
+            "musico": "Juan Prieto Ximeno (gaita de foles); Joï¿½o Manuel Fernandes (tambor)",
+            "file": "d1/evo280.mp3",
+            "prov": "Trï¿½s os Montes",
+            "tit": "Murinheira Senabreza",
+            "fileType": "MP3",
+            "duracao": "2:22",
+            "id": 276
+        },
+        {
+            "local": "Rio de Onor, Braganï¿½a",
+            "musico": "Juan Prieto Ximeno (gaita de foles); Joï¿½o Manuel Fernandes (tambor)",
+            "tit": "Murinheira Galega",
+            "file": "d1/evo281.mp3",
+            "prov": "Trï¿½s os Montes",
+            "fileType": "MP3",
+            "duracao": "2:21",
+            "id": 277
+        },
+        {
+            "local": "Rio de Onor, Braganï¿½a",
+            "musico": "Juan Prieto Ximeno (gaita de foles); Joï¿½o Manuel Fernandes (tambor)",
+            "prov": "Trï¿½s os Montes",
+            "fileType": "MP3",
+            "duracao": "2:34",
+            "file": "d1/evo282.mp3",
+            "tit": "Passeado",
+            "id": 278
+        },
+        {
+            "obsFiles": [
+                {
+                    "file": "audiocurswa/1005evo2.swa",
+                    "fileType": "SWA"
+                },
+                {
+                    "file": "audiocurmp3/1005evo2.mp3",
+                    "fileType": "MP3"
+                }
+            ],
+            "local": "Rio de Onor, Braganï¿½a",
+            "musico": "Juan Prieto Ximeno (gaita de foles); Joï¿½o Manuel Fernandes (tambor)",
+            "file": "d1/evo283.mp3",
+            "prov": "Trï¿½s os Montes",
+            "fileType": "MP3",
+            "duracao": "3:33",
+            "obs": "Partitura,   versï¿½o curta ",
+            "tit": "Carvalhesa",
+            "id": 279
+        },
+        {
+            "tit": "Jota ponteada",
+            "local": "Rio de Onor, Braganï¿½a",
+            "musico": "Juan Prieto Ximeno (gaita de foles); Joï¿½o Manuel Fernandes (tambor)",
+            "duracao": "3:43",
+            "prov": "Trï¿½s os Montes",
+            "fileType": "MP3",
+            "file": "d1/evo284.mp3",
+            "id": 280
+        },
+        {
+            "local": "Rio de Onor, Braganï¿½a",
+            "duracao": "3:21",
+            "prov": "Trï¿½s os Montes",
+            "tit": "Elevaï¿½ï¿½o",
+            "fileType": "MP3",
+            "musico": "Juan Prieto Ximeno (gaita de foles)",
+            "file": "d1/evo285.mp3",
+            "id": 281
+        },
+        {
+            "local": "Rio de Onor, Braganï¿½a",
+            "musico": "Juan Prieto Ximeno (gaita de foles); Joï¿½o Manuel Fernandes (tambor)",
+            "file": "d1/evo286.mp3",
+            "prov": "Trï¿½s os Montes",
+            "fileType": "MP3",
+            "duracao": "2:21",
+            "tit": "Baile picado",
+            "id": 282
+        },
+        {
+            "local": "Rio de Onor, Braganï¿½a",
+            "tit": "Cantiga de ronda",
+            "prov": "Trï¿½s os Montes",
+            "fileType": "MP3",
+            "duracao": "2:14",
+            "file": "d1/evo287.mp3",
+            "musico": "Juan Prieto Ximeno (gaita de foles)",
+            "id": 283
+        },
+        {
+            "local": "Rio de Onor, Braganï¿½a",
+            "tit": "Cantiga de ronda",
+            "file": "d1/evo288.mp3",
+            "prov": "Trï¿½s os Montes",
+            "fileType": "MP3",
+            "duracao": "1:59",
+            "musico": "Juan Prieto Ximeno (gaita de foles)",
+            "id": 284
+        },
+        {
+            "local": "Rio de Onor, Braganï¿½a",
+            "file": "d1/evo289.mp3",
+            "prov": "Trï¿½s os Montes",
+            "fileType": "MP3",
+            "duracao": "3:00",
+            "musico": "Juan Prieto Ximeno (gaita de foles)",
+            "tit": "Levanta-te morenita",
+            "id": 285
+        },
+        {
+            "local": "Duas Igrejas, Miranda do Douro",
+            "file": "d1/evo290.mp3",
+            "prov": "Trï¿½s os Montes",
+            "duracao": "1:35",
+            "fileType": "MP3",
+            "tit": "Alvorada",
+            "musico": "Jacob Fernandes (flauta)",
+            "id": 286
+        },
+        {
+            "local": "Duas Igrejas, Miranda do Douro",
+            "file": "d1/evo291.mp3",
+            "prov": "Trï¿½s os Montes",
+            "fileType": "MP3",
+            "musico": "Jacob Fernandes (flauta)",
+            "tit": "Passacalha",
+            "duracao": "0:50",
+            "id": 287
+        },
+        {
+            "local": "Duas Igrejas, Miranda do Douro",
+            "prov": "Trï¿½s os Montes",
+            "fileType": "MP3",
+            "file": "d1/evo292.mp3",
+            "duracao": "0:57",
+            "tit": "Bailado passado",
+            "musico": "Jacob Fernandes (flauta)",
+            "id": 288
+        },
+        {
+            "local": "Duas Igrejas, Miranda do Douro",
+            "tit": "A Bicha",
+            "file": "d1/evo293.mp3",
+            "prov": "Trï¿½s os Montes",
+            "fileType": "MP3",
+            "musico": "Jacob Fernandes (flauta)",
+            "duracao": "1:27",
+            "id": 289
+        },
+        {
+            "local": "Duas Igrejas, Miranda do Douro",
+            "duracao": "1:16",
+            "prov": "Trï¿½s os Montes",
+            "fileType": "MP3",
+            "tit": "Alvorada",
+            "musico": "Jacob Fernandes (flauta)",
+            "file": "d1/evo294.mp3",
+            "id": 290
+        },
+        {
+            "musico": "Josï¿½ Alves de Mesquita (harmï¿½nica)",
+            "duracao": "1:35",
+            "local": "Celorico de Basto",
+            "fileType": "MP3",
+            "prov": "Minho",
+            "tit": "Cana verde",
+            "file": "d1/evo295.mp3",
+            "id": 291
+        },
+        {
+            "musico": "Josï¿½ Alves de Mesquita (harmï¿½nica)",
+            "tit": "Chula vareira",
+            "duracao": "2:23",
+            "file": "d1/evo296.mp3",
+            "local": "Celorico de Basto",
+            "fileType": "MP3",
+            "prov": "Minho",
+            "id": 292
+        },
+        {
+            "tit": "Margarida moleira",
+            "musico": "Josï¿½ Alves de Mesquita (harmï¿½nica)",
+            "duracao": "1:44",
+            "local": "Celorico de Basto",
+            "fileType": "MP3",
+            "prov": "Minho",
+            "file": "d1/evo297.mp3",
+            "id": 293
+        },
+        {
+            "obsFiles": [
+                {
+                    "file": "audiocurswa/0103evo2.swa",
+                    "fileType": "SWA"
+                },
+                {
+                    "file": "audiocurmp3/0103evo2.mp3",
+                    "fileType": "MP3"
+                }
+            ],
+            "duracao": "0:36",
+            "file": "d1/evo298.mp3",
+            "obs": "Partitura,   versï¿½o curta ",
+            "local": "Celorico de Basto",
+            "fileType": "MP3",
+            "musico": "Josï¿½ Alves de Mesquita (viola amarantina)",
+            "prov": "Minho",
+            "tit": "Cana verde em som de guitarra",
+            "id": 294
+        },
+        {
+            "file": "d1/evo299.mp3",
+            "duracao": "0:45",
+            "local": "Celorico de Basto",
+            "fileType": "MP3",
+            "musico": "Josï¿½ Alves de Mesquita (viola amarantina)",
+            "prov": "Minho",
+            "tit": "Malhï¿½o preso",
+            "id": 295
+        },
+        {
+            "obsFiles": [
+                {
+                    "file": "audiocurswa/0102evo3.swa",
+                    "fileType": "SWA"
+                },
+                {
+                    "file": "audiocurmp3/0102evo3.mp3",
+                    "fileType": "MP3"
+                }
+            ],
+            "file": "d2/evo300.mp3",
+            "tit": "Vareira",
+            "local": "Celorico de Basto",
+            "fileType": "MP3",
+            "musico": "Josï¿½ Alves de Mesquita (viola amarantina)",
+            "prov": "Minho",
+            "obs": "Partitura,   versï¿½o curta ",
+            "duracao": "0:40",
+            "id": 296
+        },
+        {
+            "local": "Monsanto",
+            "inst": "adufe; Ms",
+            "file": "d2/evo301.mp3",
+            "fileType": "MP3",
+            "duracao": "4:19",
+            "tit": "Senhora do Almurtï¿½o na Romaria",
+            "prov": "Beira Baixa",
+            "id": 297
+        },
+        {
+            "local": "Monsanto",
+            "inst": "adufe; Ms",
+            "fileType": "MP3",
+            "duracao": "2:19",
+            "file": "d2/evo302.mp3",
+            "tit": "Senhora do Almurtï¿½o na Romaria",
+            "prov": "Beira Baixa",
+            "id": 298
+        },
+        {
+            "local": "Monsanto",
+            "inst": "adufe; Ms",
+            "file": "d2/evo303.mp3",
+            "fileType": "MP3",
+            "duracao": "4:03",
+            "tit": "Senhora do Almurtï¿½o na Romaria",
+            "prov": "Beira Baixa",
+            "id": 299
+        },
+        {
+            "inst": "flauta de amolador",
+            "tit": "Toque de amolador",
+            "fileType": "MP3",
+            "prov": "Beira Baixa",
+            "file": "d2/evo304.mp3",
+            "local": "Idanha a Nova",
+            "duracao": "0:41",
+            "id": 300
+        },
+        {
+            "tit": "S.Joï¿½o",
+            "fileType": "MP3",
+            "local": "Penha Garcia",
+            "duracao": "1:49",
+            "file": "d2/evo305.mp3",
+            "musico": "Catarina Chitas (adufe)",
+            "prov": "Beira Baixa",
+            "id": 301
+        },
+        {
+            "fileType": "MP3",
+            "file": "d2/evo306.mp3",
+            "local": "Penha Garcia",
+            "musico": "Catarina Chitas (adufe)",
+            "duracao": "1:27",
+            "prov": "Beira Baixa",
+            "tit": "Senhora da Azenha",
+            "id": 302
+        },
+        {
+            "file": "d2/evo307.mp3",
+            "fileType": "MP3",
+            "local": "Penha Garcia",
+            "duracao": "1:29",
+            "tit": "Alvï¿½ssaras da Pï¿½scoa",
+            "musico": "Catarina Chitas (adufe)",
+            "prov": "Beira Baixa",
+            "id": 303
+        },
+        {
+            "file": "d2/evo308.mp3",
+            "tit": "Senhora da Consolaï¿½ï¿½o",
+            "duracao": "1:17",
+            "fileType": "MP3",
+            "local": "Penha Garcia",
+            "musico": "Catarina Chitas (adufe)",
+            "prov": "Beira Baixa",
+            "id": 304
+        },
+        {
+            "duracao": "2:05",
+            "file": "d2/evo309.mp3",
+            "tit": "Senhora do Almurtï¿½o",
+            "fileType": "MP3",
+            "local": "Penha Garcia",
+            "musico": "Catarina Chitas (adufe)",
+            "prov": "Beira Baixa",
+            "id": 305
+        },
+        {
+            "duracao": "1:25",
+            "fileType": "MP3",
+            "local": "Penha Garcia",
+            "tit": "Carnaval",
+            "musico": "Catarina Chitas (adufe)",
+            "prov": "Beira Baixa",
+            "file": "d2/evo310.mp3",
+            "id": 306
+        },
+        {
+            "file": "d2/evo311.mp3",
+            "tit": "Senhora da Pï¿½voa",
+            "fileType": "MP3",
+            "local": "Penha Garcia",
+            "duracao": "1:38",
+            "musico": "Catarina Chitas (adufe)",
+            "prov": "Beira Baixa",
+            "id": 307
+        },
+        {
+            "file": "d2/evo312.mp3",
+            "tit": "Moda da Ceifa",
+            "duracao": "1:16",
+            "fileType": "MP3",
+            "local": "Penha Garcia",
+            "musico": "Catarina Chitas",
+            "prov": "Beira Baixa",
+            "id": 308
+        },
+        {
+            "tit": "Moda da Ceifa",
+            "fileType": "MP3",
+            "local": "Penha Garcia",
+            "duracao": "1:39",
+            "musico": "Catarina Chitas (adufe)",
+            "prov": "Beira Baixa",
+            "file": "d2/evo313.mp3",
+            "id": 309
+        },
+        {
+            "file": "d2/evo314.mp3",
+            "fileType": "MP3",
+            "local": "Penha Garcia",
+            "duracao": "1:41",
+            "musico": "Catarina Chitas (adufe)",
+            "prov": "Beira Baixa",
+            "tit": "Moda do Campo",
+            "id": 310
+        },
+        {
+            "duracao": "1:09",
+            "file": "d2/evo315.mp3",
+            "tit": "O filho nï¿½o vï¿½s ï¿½s minas",
+            "local": "Penha Garcia",
+            "fileType": "MP3",
+            "musico": "Catarina Chitas (adufe)",
+            "prov": "Beira Baixa",
+            "id": 311
+        },
+        {
+            "duracao": "0:48",
+            "file": "d2/evo316.mp3",
+            "fileType": "MP3",
+            "local": "Penha Garcia",
+            "musico": "Catarina Chitas",
+            "prov": "Beira Baixa",
+            "tit": "Josï¿½ embala o menino",
+            "id": 312
+        },
+        {
+            "fileType": "MP3",
+            "local": "Penha Garcia",
+            "file": "d2/evo317.mp3",
+            "musico": "Catarina Chitas",
+            "tit": "Versos ao menino Jesus",
+            "duracao": "0:53",
+            "prov": "Beira Baixa",
+            "id": 313
+        },
+        {
+            "duracao": "1:00",
+            "fileType": "MP3",
+            "local": "Penha Garcia",
+            "file": "d2/evo318.mp3",
+            "tit": "Versos ao menino Jesus",
+            "musico": "Catarina Chitas (adufe)",
+            "prov": "Beira Baixa",
+            "id": 314
+        },
+        {
+            "duracao": "0:45",
+            "tit": "Louvado no Sisso; que se canta na Quinta Feira Santa ï¿½ noite",
+            "file": "d2/evo319.mp3",
+            "fileType": "MP3",
+            "local": "Penha Garcia",
+            "musico": "Catarina Chitas",
+            "prov": "Beira Baixa",
+            "id": 315
+        },
+        {
+            "file": "d2/evo320.mp3",
+            "tit": "Encomenda das Almas",
+            "fileType": "MP3",
+            "local": "Penha Garcia",
+            "duracao": "1:49",
+            "musico": "Catarina Chitas",
+            "prov": "Beira Baixa",
+            "id": 316
+        },
+        {
+            "file": "d2/evo321.mp3",
+            "duracao": "1:35",
+            "fileType": "MP3",
+            "local": "Penha Garcia",
+            "musico": "Catarina Chitas",
+            "tit": "Moda da azeitona",
+            "prov": "Beira Baixa",
+            "id": 317
+        },
+        {
+            "fileType": "MP3",
+            "file": "d2/evo322.mp3",
+            "local": "Penha Garcia",
+            "musico": "Catarina Chitas",
+            "tit": "Bendito e louvado dos trovï¿½es",
+            "prov": "Beira Baixa",
+            "duracao": "0:35",
+            "id": 318
+        },
+        {
+            "local": "Penha Garcia ?",
+            "inst": "Ms; adufe",
+            "file": "d2/evo323.mp3",
+            "fileType": "MP3",
+            "duracao": "3:38",
+            "tit": "Senhora do Almurtï¿½o",
+            "prov": "Beira Baixa",
+            "id": 319
+        },
+        {
+            "local": "Penha Garcia ?",
+            "obs": "incompleta",
+            "duracao": "3:25",
+            "fileType": "MP3",
+            "inst": "M; adufe",
+            "tit": "Senhora do Almurtï¿½o",
+            "prov": "Beira Baixa",
+            "file": "d2/evo324.mp3",
+            "id": 320
+        },
+        {
+            "file": "d2/evo325.mp3",
+            "duracao": "1:28",
+            "obs": "vento no microfone e interrupï¿½ï¿½es",
+            "inst": "genebres; viola beiroa",
+            "tit": "Danï¿½a dos Homens",
+            "fileType": "MP3",
+            "prov": "Beira Baixa",
+            "local": "Lousa",
+            "id": 321
+        },
+        {
+            "musico": "Josï¿½ dos Reis (palheta)",
+            "fileType": "MP3",
+            "tit": "Alvï¿½ssaras ï¿½ Senhora da Pï¿½voa",
+            "prov": "Beira Baixa",
+            "duracao": "2:33",
+            "file": "d2/evo326.mp3",
+            "id": 322
+        },
+        {
+            "file": "d2/evo327.mp3",
+            "duracao": "1:08",
+            "fileType": "MP3",
+            "tit": "Santa Cruz",
+            "prov": "Beira Baixa",
+            "musico": "Josï¿½ dos Reis (palheta)",
+            "id": 323
+        },
+        {
+            "tit": "S.Joï¿½o",
+            "duracao": "1:20",
+            "fileType": "MP3",
+            "prov": "Beira Baixa",
+            "file": "d2/evo328.mp3",
+            "musico": "Josï¿½ dos Reis (palheta)",
+            "id": 324
+        },
+        {
+            "duracao": "1:20",
+            "file": "d2/evo329.mp3",
+            "fileType": "MP3",
+            "prov": "Beira Baixa",
+            "tit": "Cantiga da Ceifa",
+            "musico": "Josï¿½ dos Reis (palheta)",
+            "id": 325
+        },
+        {
+            "duracao": "1:46",
+            "fileType": "MP3",
+            "tit": "Cï¿½ntico ao menino Jesus",
+            "file": "d2/evo330.mp3",
+            "prov": "Beira Baixa",
+            "musico": "Josï¿½ dos Reis (palheta)",
+            "id": 326
+        },
+        {
+            "tit": "Malha do Centeio; Malha e descoberta do anho",
+            "file": "d2/evo331a.mp3",
+            "fileType": "MP3",
+            "prov": "Minho",
+            "duracao": "2:42",
+            "local": "Tecla, Celorico de Basto",
+            "id": 327
+        },
+        {
+            "tit": "Malha do Centeio; Malha e descoberta do anho",
+            "file": "d2/evo331b.mp3",
+            "fileType": "MP3",
+            "prov": "Minho",
+            "duracao": "4:35",
+            "local": "Tecla, Celorico de Basto",
+            "id": 328
+        },
+        {
+            "file": "d2/evo332.mp3",
+            "fileType": "MP3",
+            "duracao": "1:10",
+            "prov": "Minho",
+            "tit": "Sermï¿½o; Malha do Centeio",
+            "local": "Tecla, Celorico de Basto",
+            "id": 329
+        },
+        {
+            "fileType": "MP3",
+            "file": "d2/evo333.mp3",
+            "prov": "Minho",
+            "tit": "Oraï¿½ï¿½o do anho; Malha do Centeio",
+            "duracao": "6:23",
+            "local": "Tecla, Celorico de Basto",
+            "id": 330
+        },
+        {
+            "duracao": "3:21",
+            "tit": "Malha do centeio",
+            "fileType": "MP3",
+            "file": "d2/evo334.mp3",
+            "prov": "Minho",
+            "local": "Tecla, Celorico de Basto",
+            "id": 331
+        },
+        {
+            "file": "d2/evo335.mp3",
+            "duracao": "5:06",
+            "inst": "Hs",
+            "fileType": "MP3",
+            "prov": "Minho",
+            "tit": "Malha do centeio; confraternizaï¿½ï¿½o com o patrï¿½o",
+            "local": "Tecla, Celorico de Basto",
+            "id": 332
+        },
+        {
+            "tit": "Malha do centeio; Rusga (festa ï¿½ noite)",
+            "file": "d2/evo336.mp3",
+            "fileType": "MP3",
+            "duracao": "1:18",
+            "prov": "Minho",
+            "inst": "concertina; violï¿½o; braguesa; voz H",
+            "local": "Tecla, Celorico de Basto",
+            "id": 333
+        },
+        {
+            "tit": "Malha do centeio; Rusga (festa ï¿½ noite)",
+            "file": "d2/evo337.mp3",
+            "fileType": "MP3",
+            "duracao": "3:09",
+            "prov": "Minho",
+            "inst": "concertina; violï¿½o; braguesa; voz H",
+            "local": "Tecla, Celorico de Basto",
+            "id": 334
+        },
+        {
+            "file": "d2/evo338.mp3",
+            "fileType": "MP3",
+            "prov": "Minho",
+            "tit": "Malha do centeio; canï¿½ï¿½o da eira",
+            "local": "Tecla, Celorico de Basto",
+            "duracao": "4:24",
+            "id": 335
+        },
+        {
+            "file": "d2/evo339.mp3",
+            "duracao": "10:04",
+            "tit": "Malha do centeio; Sermï¿½o 1ï¿½ e 2ï¿½ pregador",
+            "fileType": "MP3",
+            "prov": "Minho",
+            "local": "Tecla, Celorico de Basto",
+            "id": 336
+        },
+        {
+            "tit": "Malha do centeio; Sï¿½ por ti (canï¿½ï¿½o de bebedores)",
+            "file": "d2/evo340.mp3",
+            "inst": "Hs",
+            "fileType": "MP3",
+            "prov": "Minho",
+            "duracao": "1:41",
+            "local": "Tecla, Celorico de Basto",
+            "id": 337
+        },
+        {
+            "local": "Monsanto",
+            "tit": "Bendito e louvado seja; procissï¿½o?",
+            "duracao": "8:41",
+            "file": "d2/evo341.mp3",
+            "fileType": "MP3",
+            "prov": "Beira Baixa",
+            "inst": "Hs; Ms",
+            "obs": "nï¿½o identificado no original",
+            "id": 338
+        },
+        {
+            "local": "Monsanto",
+            "inst": "adufe; acordeon; Ms",
+            "fileType": "MP3",
+            "file": "d2/evo342.mp3",
+            "duracao": "1:41",
+            "tit": "Divina Santa Cruz",
+            "prov": "Beira Baixa",
+            "id": 339
+        },
+        {
+            "local": "Monsanto",
+            "file": "d2/evo343.mp3",
+            "duracao": "1:04",
+            "inst": "adufe; acordeon; Ms",
+            "fileType": "MP3",
+            "tit": "Divina Santa Cruz",
+            "prov": "Beira Baixa",
+            "id": 340
+        },
+        {
+            "local": "Monsanto",
+            "duracao": "2:12",
+            "inst": "adufe; acordeon; Ms",
+            "fileType": "MP3",
+            "file": "d2/evo344.mp3",
+            "prov": "Beira Baixa",
+            "tit": "Venho da Macelada",
+            "id": 341
+        },
+        {
+            "local": "Monsanto",
+            "tit": "Maria da Conceiï¿½ï¿½o",
+            "duracao": "1:01",
+            "inst": "flauta travessa",
+            "fileType": "MP3",
+            "file": "d2/evo345.mp3",
+            "prov": "Beira Baixa",
+            "id": 342
+        },
+        {
+            "local": "Monsanto",
+            "tit": "Moda de flauta",
+            "duracao": "0:48",
+            "inst": "flauta travessa",
+            "fileType": "MP3",
+            "prov": "Beira Baixa",
+            "file": "d2/evo346.mp3",
+            "id": 343
+        },
+        {
+            "tit": "Danï¿½a dos Homens; dedicada ï¿½ Senhora dos Altos Cï¿½us",
+            "local": "Lousa, Castelo Branco",
+            "fileType": "MP3",
+            "duracao": "0:57",
+            "obs": "algumas interrupï¿½ï¿½es",
+            "inst": "viola beiroa; genebres",
+            "prov": "Beira Baixa",
+            "file": "d2/evo347.mp3",
+            "id": 344
+        },
+        {
+            "inst": "guitarra; genebres",
+            "local": "Lousa, Castelo Branco",
+            "fileType": "MP3",
+            "file": "d2/evo348.mp3",
+            "obs": "algumas interrupï¿½ï¿½es",
+            "prov": "Beira Baixa",
+            "tit": "Danï¿½a das oito virgens; em honra da Senhora dos Altos Cï¿½us",
+            "duracao": "4:24",
+            "id": 345
+        },
+        {
+            "tit": "Informaï¿½ï¿½o sobre a viola toeira; afinaï¿½ï¿½o e toque de rasgado",
+            "duracao": "2:35",
+            "musico": "Raul Simï¿½es (viola toeira)",
+            "prov": "Beira Litoral",
+            "fileType": "MP3",
+            "file": "d2/evo349.mp3",
+            "local": "Coimbra",
+            "id": 346
+        },
+        {
+            "musico": "Raul Simï¿½es (viola toeira)",
+            "prov": "Beira Litoral",
+            "fileType": "MP3",
+            "tit": "Informaï¿½ï¿½o sobre a viola toeira; modas e forma de tocar",
+            "local": "Coimbra",
+            "duracao": "1:12",
+            "file": "d2/evo350.mp3",
+            "id": 347
+        },
+        {
+            "local": "Travanca, Vinhais",
+            "duracao": "0:20",
+            "musico": "Hilï¿½rio Augusto Rodrigues",
+            "prov": "Trï¿½s os Montes",
+            "fileType": "MP3",
+            "file": "d2/evo351.mp3",
+            "tit": "Agugar; grito de escatilhar",
+            "id": 348
+        },
+        {
+            "local": "Travanca, Vinhais",
+            "duracao": "2:53",
+            "file": "d2/evo352e3.mp3",
+            "musico": "Hilï¿½rio Augusto Rodrigues",
+            "prov": "Trï¿½s os Montes",
+            "fileType": "MP3",
+            "tit": "Conversa com informadores; Quando em Belï¿½m se formou; versos",
+            "id": 349
+        },
+        {
+            "local": "Travanca, Vinhais",
+            "musico": "Hilï¿½rio Augusto Rodrigues (gaita de foles)",
+            "duracao": "1:08",
+            "file": "d2/evo354.mp3",
+            "prov": "Trï¿½s os Montes",
+            "fileType": "MP3",
+            "tit": "Alvorada",
+            "id": 350
+        },
+        {
+            "local": "Travanca, Vinhais",
+            "musico": "Hilï¿½rio Augusto Rodrigues (gaita de foles)",
+            "file": "d2/evo355.mp3",
+            "prov": "Trï¿½s os Montes",
+            "duracao": "0:55",
+            "tit": "sem tï¿½tulo",
+            "fileType": "MP3",
+            "id": 351
+        },
+        {
+            "local": "Travanca, Vinhais",
+            "file": "d2/evo356.mp3",
+            "duracao": "1:30",
+            "musico": "Hilï¿½rio Augusto Rodrigues (gaita de foles)",
+            "tit": "Mirindum",
+            "prov": "Trï¿½s os Montes",
+            "fileType": "MP3",
+            "id": 352
+        },
+        {
+            "local": "Travanca, Vinhais",
+            "musico": "Hilï¿½rio Augusto Rodrigues (gaita de foles)",
+            "file": "d2/evo357.mp3",
+            "prov": "Trï¿½s os Montes",
+            "fileType": "MP3",
+            "tit": "Escala da gaita",
+            "duracao": "0:27",
+            "id": 353
+        },
+        {
+            "file": "d2/evo358.mp3",
+            "musico": "Aureliano Cristal Ribeiro (flauta)",
+            "local": "Constantim, Miranda do Douro",
+            "prov": "Trï¿½s os Montes",
+            "tit": "Flauta de tamborileiro",
+            "fileType": "MP3",
+            "duracao": "0:57",
+            "id": 354
+        },
+        {
+            "musico": "Aureliano Cristal Ribeiro (flauta)",
+            "file": "d2/evo359.mp3",
+            "duracao": "1:01",
+            "local": "Constantim, Miranda do Douro",
+            "prov": "Trï¿½s os Montes",
+            "tit": "Flauta de tamborileiro",
+            "fileType": "MP3",
+            "id": 355
+        },
+        {
+            "obs": "gravada na rua",
+            "local": "Santa Maria",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "tit": "Folia do Espï¿½rito Santo",
+            "file": "d2/evo360.mp3",
+            "duracao": "4:39",
+            "id": 356
+        },
+        {
+            "file": "d2/evo361.mp3",
+            "local": "Santa Maria",
+            "prov": "Aï¿½ores",
+            "tit": "Chamarita",
+            "fileType": "MP3",
+            "inst": "viola da terra",
+            "duracao": "0:44",
+            "id": 357
+        },
+        {
+            "tit": "S.Gonï¿½alo",
+            "local": "Santa Maria",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "file": "d2/evo362.mp3",
+            "duracao": "0:35",
+            "inst": "viola da terra",
+            "id": 358
+        },
+        {
+            "tit": "Tirana",
+            "duracao": "0:39",
+            "local": "Santa Maria",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "inst": "viola da terra",
+            "file": "d2/evo363.mp3",
+            "id": 359
+        },
+        {
+            "musico": "Antï¿½nio Sousa Chaves (tambor); Josï¿½ de Moura (testos); Josï¿½ de Sousa",
+            "local": "Stï¿½ Espï¿½rito, Santa Maria",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "duracao": "1:34",
+            "tit": "Quando vï¿½o levantar a coroa da Igreja para casa do Imperador (Folia)",
+            "file": "d2/evo364a.mp3",
+            "id": 360
+        },
+        {
+            "musico": "Antï¿½nio Sousa Chaves (tambor); Josï¿½ de Moura (testos); Josï¿½ de Sousa",
+            "local": "Stï¿½ Espï¿½rito, Santa Maria",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "duracao": "4:44",
+            "file": "d2/evo364b.mp3",
+            "tit": "Quando vï¿½o levantar a coroa da Igreja para casa do Imperador (Folia)",
+            "id": 361
+        },
+        {
+            "musico": "Antï¿½nio Sousa Chaves (tambor); Josï¿½ de Moura (testos); Josï¿½ de Sousa",
+            "local": "Stï¿½ Espï¿½rito, Santa Maria",
+            "duracao": "3:28",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "file": "d2/evo365.mp3",
+            "tit": "Entrega da coroa na casa do Imperador (Folia)",
+            "id": 362
+        },
+        {
+            "musico": "Antï¿½nio Sousa Chaves (tambor); Josï¿½ de Moura (testos); Josï¿½ de Sousa",
+            "duracao": "3:59",
+            "local": "Stï¿½ Espï¿½rito, Santa Maria",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "tit": "Entrada da missa no dia da coroaï¿½ï¿½o (Folia)",
+            "file": "d2/evo366.mp3",
+            "id": 363
+        },
+        {
+            "musico": "Antï¿½nio Sousa Chaves (tambor); Josï¿½ de Moura (testos); Josï¿½ de Sousa",
+            "duracao": "1:57",
+            "local": "Stï¿½ Espï¿½rito, Santa Maria",
+            "tit": "saï¿½da da missa (Folia)",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "file": "d2/evo367.mp3",
+            "id": 364
+        },
+        {
+            "musico": "Antï¿½nio Sousa Chaves (tambor); Josï¿½ de Moura (testos); Josï¿½ de Sousa",
+            "tit": "Provimento da mesa (Folia)",
+            "local": "Stï¿½ Espï¿½rito, Santa Maria",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "file": "d2/evo368.mp3",
+            "duracao": "1:24",
+            "id": 365
+        },
+        {
+            "file": "d2/evo369a.mp3",
+            "musico": "Antï¿½nio Sousa Chaves (tambor); Josï¿½ de Moura (testos); Josï¿½ de Sousa",
+            "local": "Stï¿½ Espï¿½rito, Santa Maria",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "duracao": "1:32",
+            "tit": "Benï¿½ï¿½o do pï¿½o (Folia)",
+            "id": 366
+        },
+        {
+            "musico": "Antï¿½nio Sousa Chaves (tambor); Josï¿½ de Moura (testos); Josï¿½ de Sousa",
+            "local": "Stï¿½ Espï¿½rito, Santa Maria",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "duracao": "2:09",
+            "file": "d2/evo369b.mp3",
+            "tit": "Benï¿½ï¿½o do pï¿½o (Folia)",
+            "id": 367
+        },
+        {
+            "musico": "Antï¿½nio Sousa Chaves (tambor); Josï¿½ de Moura (testos); Josï¿½ de Sousa",
+            "tit": "Os Mouros (Falsete)",
+            "local": "Stï¿½ Espï¿½rito, Santa Maria",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "file": "d2/evo370.mp3",
+            "duracao": "3:11",
+            "id": 368
+        },
+        {
+            "duracao": "2:38",
+            "musico": "Antï¿½nio Sousa Chaves (tambor); Josï¿½ de Moura (testos); Josï¿½ de Sousa",
+            "local": "Stï¿½ Espï¿½rito, Santa Maria",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "tit": "O, levai vï¿½s as cangas (Falsete)",
+            "file": "d2/evo371.mp3",
+            "id": 369
+        },
+        {
+            "musico": "Antï¿½nio Sousa Chaves (tambor); Josï¿½ de Moura (testos); Josï¿½ de Sousa",
+            "local": "Stï¿½ Espï¿½rito, Santa Maria",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "duracao": "1:34",
+            "file": "d2/evo372.mp3",
+            "tit": "O Barco (Falsete)",
+            "id": 370
+        },
+        {
+            "inst": "viola da terra; violï¿½o",
+            "local": "Furnas, S.Miguel",
+            "tit": "Baile da Povoaï¿½ï¿½o",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "file": "d2/evo373.mp3",
+            "duracao": "4:14",
+            "id": 371
+        },
+        {
+            "inst": "viola da terra; violï¿½o",
+            "local": "Furnas, S.Miguel",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "duracao": "2:40",
+            "file": "d2/evo374.mp3",
+            "tit": "Tanchï¿½o",
+            "id": 372
+        },
+        {
+            "inst": "viola da terra; violï¿½o",
+            "tit": "Aurora",
+            "local": "Furnas, S.Miguel",
+            "duracao": "3:28",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "file": "d2/evo375.mp3",
+            "id": 373
+        },
+        {
+            "inst": "viola da terra; violï¿½o",
+            "local": "Furnas, S.Miguel",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "duracao": "4:37",
+            "file": "d2/evo376.mp3",
+            "tit": "Saudade",
+            "id": 374
+        },
+        {
+            "inst": "viola da terra; violï¿½o",
+            "local": "Furnas, S.Miguel",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "duracao": "4:06",
+            "tit": "Fado corrido",
+            "file": "d2/evo377.mp3",
+            "id": 375
+        },
+        {
+            "inst": "viola da terra; violï¿½o",
+            "local": "Furnas, S.Miguel",
+            "prov": "Aï¿½ores",
+            "tit": "Chamarita",
+            "fileType": "MP3",
+            "duracao": "4:11",
+            "file": "d2/evo378.mp3",
+            "id": 376
+        },
+        {
+            "inst": "viola da terra; violï¿½o",
+            "tit": "A Fofa",
+            "duracao": "3:08",
+            "local": "Furnas, S.Miguel",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "file": "d2/evo379.mp3",
+            "id": 377
+        },
+        {
+            "inst": "viola da terra; violï¿½o",
+            "file": "d2/evo380.mp3",
+            "duracao": "5:51",
+            "local": "Furnas, S.Miguel",
+            "tit": "Pezinho",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "id": 378
+        },
+        {
+            "inst": "viola da terra; violï¿½o",
+            "tit": "Sapateia",
+            "local": "Furnas, S.Miguel",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "duracao": "3:38",
+            "file": "d2/evo381.mp3",
+            "id": 379
+        },
+        {
+            "inst": "viola da terra; violï¿½o",
+            "duracao": "4:16",
+            "file": "d2/evo382.mp3",
+            "local": "Furnas, S.Miguel",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "tit": "Balho da povoaï¿½ï¿½o",
+            "id": 380
+        },
+        {
+            "inst": "tambor",
+            "local": "Faial da Terra, S.Miguel",
+            "file": "d2/evo383.mp3",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "tit": "Versos ao Espï¿½rito Santo",
+            "duracao": "8:21",
+            "id": 381
+        },
+        {
+            "local": "Faial da Terra, S.Miguel",
+            "inst": "campaï¿½nha",
+            "file": "d2/evo384.mp3",
+            "prov": "Aï¿½ores",
+            "tit": "Lembranï¿½a das almas",
+            "fileType": "MP3",
+            "duracao": "9:12",
+            "id": 382
+        },
+        {
+            "duracao": "9:39",
+            "file": "d2/evo385.mp3",
+            "local": "Faial da Terra, S.Miguel",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "tit": "Pranto",
+            "id": 383
+        },
+        {
+            "inst": "tambor; testos",
+            "tit": "Cantar ï¿½ folia",
+            "duracao": "5:51",
+            "local": "ï¿½gua d'Alto, S.Miguel",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "file": "d2/evo386.mp3",
+            "id": 384
+        },
+        {
+            "duracao": "5:53",
+            "inst": "tambor; testos",
+            "tit": "Cantar ï¿½ folia",
+            "file": "d2/evo387.mp3",
+            "local": "ï¿½gua d'Alto, S.Miguel",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "id": 385
+        },
+        {
+            "local": "ï¿½gua d'Alto, S.Miguel",
+            "prov": "Aï¿½ores",
+            "file": "d2/evo388.mp3",
+            "fileType": "MP3",
+            "tit": "Cantar ao desafio entre Alfredo e Marcolino",
+            "duracao": "7:06",
+            "inst": "viola da terra",
+            "id": 386
+        },
+        {
+            "tit": "Informaï¿½ï¿½o sobre a Festa do Espï¿½rito Santo",
+            "file": "d2/evo389.mp3",
+            "local": "ï¿½gua d'Alto, S.Miguel",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "duracao": "7:27",
+            "id": 387
+        },
+        {
+            "file": "d2/evo390.mp3",
+            "duracao": "2:08",
+            "tit": "Folia de Sï¿½o Miguel",
+            "local": "ï¿½gua d'Alto, S.Miguel",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "id": 388
+        },
+        {
+            "local": "ï¿½gua d'Alto, S.Miguel",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "duracao": "0:43",
+            "tit": "Folia de Sï¿½o Miguel; A pombinha vem trazer",
+            "file": "d2/evo391.mp3",
+            "id": 389
+        },
+        {
+            "inst": "viola; violï¿½o",
+            "duracao": "1:50",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "tit": "Zï¿½zinho",
+            "file": "d2/evo392.mp3",
+            "local": "Santa Cruz da Graciosa",
+            "id": 390
+        },
+        {
+            "duracao": "2:05",
+            "inst": "viola; violï¿½o",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "file": "d2/evo393.mp3",
+            "tit": "O Rema",
+            "local": "Santa Cruz da Graciosa",
+            "id": 391
+        },
+        {
+            "tit": "A Lira",
+            "inst": "viola; violï¿½o",
+            "duracao": "2:2O",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "file": "d2/evo394.mp3",
+            "local": "Santa Cruz da Graciosa",
+            "id": 392
+        },
+        {
+            "duracao": "3:08",
+            "inst": "viola; violï¿½o",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "tit": "Olhos pretos",
+            "file": "d2/evo395.mp3",
+            "local": "Santa Cruz da Graciosa",
+            "id": 393
+        },
+        {
+            "file": "d2/evo396.mp3",
+            "inst": "viola; violï¿½o",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "duracao": "1:34",
+            "tit": "Chamarita da Terceira",
+            "local": "Santa Cruz da Graciosa",
+            "id": 394
+        },
+        {
+            "tit": "Tirana",
+            "inst": "viola; violï¿½o",
+            "duracao": "1:56",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "file": "d2/evo397.mp3",
+            "local": "Santa Cruz da Graciosa",
+            "id": 395
+        },
+        {
+            "file": "d2/evo398.mp3",
+            "tit": "Choradinha",
+            "inst": "viola; violï¿½o",
+            "duracao": "0:58",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "local": "Santa Cruz da Graciosa",
+            "id": 396
+        },
+        {
+            "file": "d2/evo399.mp3",
+            "inst": "viola; violï¿½o",
+            "tit": "Branca Flor",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "duracao": "1:32",
+            "local": "Santa Cruz da Graciosa",
+            "id": 397
+        },
+        {
+            "file": "d2/evo400.mp3",
+            "inst": "viola; violï¿½o",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "duracao": "1:27",
+            "tit": "Bela Aurora",
+            "local": "Santa Cruz da Graciosa",
+            "id": 398
+        },
+        {
+            "tit": "S.Gonï¿½alo",
+            "file": "d2/evo401.mp3",
+            "inst": "viola; banjolim",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "duracao": "4:08",
+            "local": "Rosais, S, Jorge",
+            "id": 399
+        },
+        {
+            "tit": "Sapateia",
+            "inst": "viola; banjolim",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "duracao": "4:30",
+            "file": "d2/evo402.mp3",
+            "local": "Rosais, S, Jorge",
+            "id": 400
+        },
+        {
+            "file": "d2/evo403.mp3",
+            "duracao": "6:32",
+            "inst": "viola; banjolim",
+            "tit": "Pezinho",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "local": "Rosais, S, Jorge",
+            "id": 401
+        },
+        {
+            "inst": "viola; banjolim",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "duracao": "7:20",
+            "tit": "A Tirana",
+            "file": "d2/evo404.mp3",
+            "local": "Rosais, S, Jorge",
+            "id": 402
+        },
+        {
+            "tit": "A Praia",
+            "inst": "viola; banjolim",
+            "file": "d2/evo405.mp3",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "local": "Rosais, S, Jorge",
+            "duracao": "5:38",
+            "id": 403
+        },
+        {
+            "file": "d2/evo406a.mp3",
+            "inst": "viola; banjolim",
+            "duracao": "6:05",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "tit": "O Bravo",
+            "local": "Rosais, S, Jorge",
+            "id": 404
+        },
+        {
+            "inst": "viola; banjolim",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "tit": "O Bravo",
+            "duracao": "6:02",
+            "file": "d2/evo406b.mp3",
+            "local": "Rosais, S, Jorge",
+            "id": 405
+        },
+        {
+            "duracao": "4:47",
+            "inst": "viola; banjolim",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "file": "d2/evo407.mp3",
+            "local": "Rosais, S, Jorge",
+            "tit": "Fado corrido",
+            "id": 406
+        },
+        {
+            "inst": "viola; banjolim",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "file": "d2/evo408.mp3",
+            "tit": "Solteirinha",
+            "local": "Rosais, S, Jorge",
+            "duracao": "5:21",
+            "id": 407
+        },
+        {
+            "duracao": "5:34",
+            "inst": "viola; banjolim",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "tit": "Meu bem",
+            "local": "Rosais, S, Jorge",
+            "file": "d2/evo409.mp3",
+            "id": 408
+        },
+        {
+            "tit": "Olhos castanhos",
+            "inst": "viola; banjolim",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "file": "d2/evo410.mp3",
+            "duracao": "3:04",
+            "local": "Rosais, S, Jorge",
+            "id": 409
+        },
+        {
+            "duracao": "3:59",
+            "inst": "viola; banjolim",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "file": "d2/evo411.mp3",
+            "local": "Rosais, S, Jorge",
+            "tit": "As casacas",
+            "id": 410
+        },
+        {
+            "tit": "A saudade",
+            "inst": "viola; banjolim",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "file": "d2/evo412.mp3",
+            "duracao": "9:35",
+            "local": "Rosais, S, Jorge",
+            "id": 411
+        },
+        {
+            "file": "d2/evo413.mp3",
+            "inst": "viola; banjolim",
+            "prov": "Aï¿½ores",
+            "tit": "Chamarita",
+            "fileType": "MP3",
+            "duracao": "4:45",
+            "local": "Rosais, S, Jorge",
+            "id": 412
+        },
+        {
+            "musico": "Rancho Folclï¿½rico da Casa do Povo da Candelï¿½ria do Pico",
+            "duracao": "2:07",
+            "prov": "Aï¿½ores",
+            "tit": "Chamarita",
+            "fileType": "MP3",
+            "file": "d2/evo414a.mp3",
+            "local": "Candelï¿½ria, Pico",
+            "id": 413
+        },
+        {
+            "musico": "Rancho Folclï¿½rico da Casa do Povo da Candelï¿½ria do Pico",
+            "file": "d2/evo414b.mp3",
+            "prov": "Aï¿½ores",
+            "tit": "Chamarita",
+            "fileType": "MP3",
+            "duracao": "1:51",
+            "local": "Candelï¿½ria, Pico",
+            "id": 414
+        },
+        {
+            "musico": "Rancho Folclï¿½rico da Casa do Povo da Candelï¿½ria do Pico",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "duracao": "1:00",
+            "file": "d2/evo415.mp3",
+            "local": "Candelï¿½ria, Pico",
+            "tit": "Chamarita Nova",
+            "id": 415
+        },
+        {
+            "file": "d2/evo416.mp3",
+            "musico": "Rancho Folclï¿½rico da Casa do Povo da Candelï¿½ria do Pico",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "duracao": "1:51",
+            "tit": "Chamarita do meio",
+            "local": "Candelï¿½ria, Pico",
+            "id": 416
+        },
+        {
+            "musico": "Rancho Folclï¿½rico da Casa do Povo da Candelï¿½ria do Pico",
+            "duracao": "1:53",
+            "tit": "Chamarita de cima",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "file": "d2/evo417.mp3",
+            "local": "Candelï¿½ria, Pico",
+            "id": 417
+        },
+        {
+            "musico": "Rancho Folclï¿½rico da Casa do Povo da Candelï¿½ria do Pico",
+            "file": "d2/evo418.mp3",
+            "tit": "Pezinho",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "duracao": "1:59",
+            "local": "Candelï¿½ria, Pico",
+            "id": 418
+        },
+        {
+            "file": "d2/evo419.mp3",
+            "tit": "Sapateia de cadeia",
+            "musico": "Rancho Folclï¿½rico da Casa do Povo da Candelï¿½ria do Pico",
+            "duracao": "3:55",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "local": "Candelï¿½ria, Pico",
+            "id": 419
+        },
+        {
+            "musico": "Rancho Folclï¿½rico da Casa do Povo da Candelï¿½ria do Pico",
+            "prov": "Aï¿½ores",
+            "tit": "Abana casaca abana",
+            "fileType": "MP3",
+            "file": "d2/evo420.mp3",
+            "duracao": "2:17",
+            "local": "Candelï¿½ria, Pico",
+            "id": 420
+        },
+        {
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "tit": "Folia do Espï¿½rito Santo",
+            "local": "Pico",
+            "duracao": "0:54",
+            "file": "d2/evo421.mp3",
+            "id": 421
+        },
+        {
+            "musico": "Rancho Folclï¿½rico da Casa do Povo da Candelï¿½ria do Pico",
+            "file": "d2/evo422.mp3",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "duracao": "2:56",
+            "tit": "Olhos negros",
+            "local": "Candelï¿½ria, Pico",
+            "id": 422
+        },
+        {
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "file": "d2/evo423.mp3",
+            "duracao": "5:18",
+            "tit": "Tanchï¿½o",
+            "id": 423
+        },
+        {
+            "tit": "Aurora",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "file": "d2/evo424.mp3",
+            "duracao": "3:38",
+            "id": 424
+        },
+        {
+            "tit": "A saudade",
+            "file": "d2/evo425.mp3",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "duracao": "3:38",
+            "id": 425
+        },
+        {
+            "duracao": "3:28",
+            "tit": "Pezinho",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "file": "d2/evo426.mp3",
+            "id": 426
+        },
+        {
+            "duracao": "4:26",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "tit": "Chamarita",
+            "file": "d2/evo427.mp3",
+            "id": 427
+        },
+        {
+            "tit": "A Fofa",
+            "file": "d2/evo428.mp3",
+            "prov": "Aï¿½ores",
+            "fileType": "MP3",
+            "duracao": "4:15",
+            "id": 428
+        },
+        {
+            "duracao": "0:48",
+            "inst": "braguinha; machete",
+            "tit": "Nï¿½o identificado; Baile",
+            "fileType": "MP3",
+            "file": "d2/evo429.mp3",
+            "prov": "Madeira",
+            "id": 429
+        },
+        {
+            "file": "d2/evo430a.mp3",
+            "tit": "Nï¿½o identificado; Baile",
+            "fileType": "MP3",
+            "inst": "violino; acordeon; braguinha; machete",
+            "duracao": "2:09",
+            "prov": "Madeira",
+            "id": 430
+        },
+        {
+            "duracao": "2:35",
+            "file": "d2/evo430a.mp3",
+            "tit": "Nï¿½o identificado; Baile",
+            "fileType": "MP3",
+            "inst": "violino; acordeon; braguinha; machete",
+            "prov": "Madeira",
+            "id": 431
+        },
+        {
+            "duracao": "3:21",
+            "file": "d2/evo431.mp3",
+            "tit": "Nï¿½o identificado; Baile",
+            "fileType": "MP3",
+            "inst": "violino; acordeon; braguinha; machete",
+            "prov": "Madeira",
+            "id": 432
+        },
+        {
+            "file": "d2/evo432.mp3",
+            "tit": "Nï¿½o identificado; Baile",
+            "fileType": "MP3",
+            "inst": "violino; acordeon; braguinha; machete",
+            "duracao": "0:41",
+            "prov": "Madeira",
+            "id": 433
+        },
+        {
+            "file": "d2/evo433.mp3",
+            "tit": "Nï¿½o identificado; Baile",
+            "fileType": "MP3",
+            "inst": "violino; acordeon; braguinha; machete",
+            "duracao": "2:37",
+            "prov": "Madeira",
+            "id": 434
+        },
+        {
+            "file": "d2/evo434.mp3",
+            "fileType": "MP3",
+            "inst": "violino; acordeon; braguinha; machete",
+            "duracao": "3:23",
+            "prov": "Madeira",
+            "tit": "Chamarita; Baile",
+            "id": 435
+        },
+        {
+            "prov": "Madeira",
+            "fileType": "MP3",
+            "duracao": "3:06",
+            "file": "d2/evo435.mp3",
+            "local": "Caniï¿½o",
+            "inst": "violino; harmï¿½nica; braguinha; viola de arame; rajï¿½o ou machete; brinquinho; bombo",
+            "tit": "Despique (tï¿½pico madeirense)",
+            "id": 436
+        },
+        {
+            "file": "d2/evo436.mp3",
+            "fileType": "MP3",
+            "tit": "Moda do grupo de Caniï¿½o (especialmente escrita para o grupo)",
+            "inst": "violino; harmï¿½nica; braguinha; viola de arame; rajï¿½o ou machete; brinquinho; bombo; ferrinhos",
+            "local": "Caniï¿½o",
+            "duracao": "1:41",
+            "prov": "Madeira",
+            "id": 437
+        },
+        {
+            "tit": "Nï¿½o identificado",
+            "fileType": "MP3",
+            "duracao": "2:32",
+            "local": "Caniï¿½o",
+            "file": "d2/evo437.mp3",
+            "prov": "Madeira",
+            "inst": "braguinha; viola de arame; rajï¿½o ou machete; brinquinho; bombo; ferrinhos",
+            "id": 438
+        },
+        {
+            "file": "d2/evo438.mp3",
+            "duracao": "1:14",
+            "fileType": "MP3",
+            "tit": "Charamba",
+            "local": "Caniï¿½o",
+            "prov": "Madeira",
+            "inst": "braguinha; viola de arame; rajï¿½o ou machete; brinquinho; bombo; ferrinhos",
+            "id": 439
+        },
+        {
+            "tit": "Nï¿½o identificado",
+            "fileType": "MP3",
+            "file": "d2/evo439.mp3",
+            "inst": "violino; harmï¿½nica; braguinha; viola de arame; rajï¿½o ou machete; brinquinho; bombo; ferrinhos",
+            "duracao": "1:48",
+            "local": "Caniï¿½o",
+            "prov": "Madeira",
+            "id": 440
+        },
+        {
+            "duracao": "3:44",
+            "inst": "rajï¿½o; viola; rabeca",
+            "tit": "Nï¿½o identificado",
+            "file": "d2/evo440.mp3",
+            "fileType": "MP3",
+            "local": "Retirada de P.Santo",
+            "prov": "Madeira",
+            "id": 441
+        },
+        {
+            "file": "d2/evo441.mp3",
+            "inst": "rajï¿½o; viola; rabeca",
+            "tit": "Nï¿½o identificado",
+            "duracao": "1:50",
+            "fileType": "MP3",
+            "obs": "Anï¿½lise dos instrumentos",
+            "local": "Retirada de P.Santo",
+            "prov": "Madeira",
+            "id": 442
+        },
+        {
+            "duracao": "2:38",
+            "inst": "rajï¿½o; viola; rabeca",
+            "tit": "Nï¿½o identificado",
+            "file": "d2/evo442.mp3",
+            "fileType": "MP3",
+            "local": "Retirada de P.Santo",
+            "prov": "Madeira",
+            "id": 443
+        },
+        {
+            "file": "d2/evo443.mp3",
+            "inst": "rajï¿½o; viola; rabeca",
+            "tit": "Nï¿½o identificado",
+            "duracao": "4:36",
+            "fileType": "MP3",
+            "local": "Retirada de P.Santo",
+            "prov": "Madeira",
+            "id": 444
+        },
+        {
+            "inst": "rajï¿½o; viola; rabeca",
+            "tit": "Nï¿½o identificado",
+            "duracao": "10:35",
+            "fileType": "MP3",
+            "local": "Retirada de P.Santo",
+            "file": "d2/evo444.mp3",
+            "prov": "Madeira",
+            "id": 445
+        },
+        {
+            "tit": "Baile da Cirandinha",
+            "inst": "rajï¿½o; viola; rabeca",
+            "fileType": "MP3",
+            "duracao": "7:35",
+            "local": "Retirada de P.Santo",
+            "prov": "Madeira",
+            "file": "d2/evo445.mp3",
+            "id": 446
+        },
+        {
+            "duracao": "4:42",
+            "inst": "rajï¿½o; viola; rabeca",
+            "file": "d2/evo446.mp3",
+            "fileType": "MP3",
+            "tit": "Padeirinha",
+            "local": "Retirada de P.Santo",
+            "prov": "Madeira",
+            "id": 447
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+extends layout
+
+block content
+    h1 Lista de musicas do musico: #{adicionais.musico}
+    h2 Gerado a: #{adicionais.data}
+    hr
+    address 
+        a(class="botao" href="/musicos") Volta à pagina dos músicos
+    hr
+
+    table(class="w3-table w3-bordered")
+        tr 
+            th Identificador 
+            th Titulo 
+            th Duração
+
+        each m in musicas
+            tr(class="li-item")
+                td 
+                    a(href="/musicas/"+m.id)= m.id
+                td= m.tit
+                td= m.duracao
+
+

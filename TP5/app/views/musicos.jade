@@ -1,0 +1,14 @@
+extends layout
+
+block content
+    h1 Lista de músicos
+    h2 Gerado a: #{adicionais.data}
+    hr
+    address 
+        a(class="botao" href="/") Volta à pagina inicial
+    hr
+
+    each val, index in musicos
+        a(class="botao" href="/musicos/"+index)= index
+       
+                

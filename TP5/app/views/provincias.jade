@@ -1,0 +1,14 @@
+extends layout
+
+block content
+    h1 Lista de províncias
+    h2 Gerado a: #{dados.data}
+    hr
+    address 
+        a(class="botao" href="/") Volta à pagina inicial
+    hr
+           
+    each val, index in dados.dicionario
+        a(class="botao" href="/provincias/"+index)= index
+                
+

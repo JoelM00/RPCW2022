@@ -1,0 +1,34 @@
+extends layout
+
+block content
+    h1 Registo da musica: #{musica.id}
+    h2 Gerado a: #{data.data}
+    p 
+        b Identificador: 
+        span= musica.id
+    p
+        b Titulo: 
+        span= musica.tit
+    p
+        b Local: 
+        span= musica.local
+    p
+        b Provincia: 
+        span= musica.prov
+    p
+        b Ficheiro: 
+        span= musica.file
+    p
+        b Tipo de ficheiro: 
+        span= musica.fileType
+    p
+        b Musico: 
+        span= musica.musico
+    p
+        b Duracao: 
+        span= musica.duracao
+
+    hr
+    address 
+        a(class="botao" href="/musicas") Volta à lista
+       

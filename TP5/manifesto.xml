@@ -1,21 +1,86 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xml>
-    <Titulo>
-        Criação página web sobre Japão
-    </Titulo>
-    <Data>
-        17 de Fevereiro de 2022
-    </Data>
-    <Autor>
-        Joel Salgueiro Martins PG47347
-    </Autor>
-    <UC>
-        Representação e Processamento de Conhecimento na Web (RPCW)
-    </UC>
-    <Resumo>
-
-    </Resumo>
-    <ListaDeResultados>
-
-    </ListaDeResultados>
-</xml>
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+    <meta>
+        <titulo>TPC5: Uma pequeno servidor de informações de músicas</titulo>
+        <data>28-03-2022</data>
+        <autor>
+            <id>PG47347</id>
+            <nome>Joel Salgueiro Martins</nome>
+        </autor>
+        <uc>
+            <sigla>RPCW2022</sigla>
+            <nome>Representação e Processamento de Conhecimento na Web</nome>
+        </uc>
+    </meta>
+    <resumo>
+        <p>Um servidor de paginas com conteúdo relativo a músicas</p>
+        <p>Páginas web geradas em tempo realr</p>
+        <p>O cliente tem a possibilidade de adicionar uma música</p>
+    </resumo>
+    <resultados>
+        <resultado>
+            <url>corretor.py</url>
+            <texto>Programa em python capaz de reparar o dataset fornecido para um formato JSON correto</texto>
+        </resultado>
+        <resultado>
+            <url>arq-son.json</url>
+            <texto>Dataset fornecido</texto>
+        </resultado>
+        <resultado>
+            <url>data/db.json</url>
+            <texto>Ficheiro com o dataset num formato JSON correto, para geracao do servidor json (base de dados da aplicação)</texto>
+        </resultado>
+        <resultado>
+            <url>public/stylesheets/style.css</url>
+            <texto>Alguns efeitos de css para as paginas</texto>
+        </resultado>
+        <resultado>
+            <url>public/images/favicon.png</url>
+            <texto>Favicon para o browser</texto>
+        </resultado>
+        <resultado>
+            <url>routes/index.js</url>
+            <texto>Codigo JS para tratar os pedidos (no caso da pagina inicial)</texto>
+        </resultado>
+        <resultado>
+            <url>routes/musicas.js</url>
+            <texto>Codigo JS para tratar os pedidos relativos a musicas</texto>
+        </resultado>
+        <resultado>
+            <url>routes/musicos.js</url>
+            <texto>Codigo JS para tratar os pedidos relativos aos musicos</texto>
+        </resultado>
+        <resultado>
+            <url>routes/provincias.js</url>
+            <texto>Codigo JS para tratar os pedidos relativos as provincias</texto>
+        </resultado>
+        <resultado>
+            <url>views/musica.jade</url>
+            <texto>Codigo no formato jade para geracao da pagina relativa a musica</texto>
+        </resultado>
+        <resultado>
+            <url>views/musicas.jade</url>
+            <texto>Codigo no formato jade para geracao da pagina relativa as musicas</texto>
+        </resultado>
+        <resultado>
+            <url>views/musicos.jade</url>
+            <texto>Codigo no formato jade para geracao da pagina relativa aos musicos</texto>
+        </resultado>
+        <resultado>
+            <url>views/musico.jade</url>
+            <texto>Codigo no formato jade para geracao da pagina relativa ao musico</texto>
+        </resultado>
+        <resultado>
+            <url>routes/provincia.jade</url>
+            <texto>Codigo no formato jade para geracao da pagina relativa a provincia</texto>
+        </resultado>
+        <resultado>
+            <url>routes/provincias.jade</url>
+            <texto>Codigo no formato jade para geracao da pagina relativa as provincias</texto>
+        </resultado>
+        <resultado>
+            <url>routes/inserir.jade</url>
+            <texto>Codigo no formato jade para geracao da pagina relativa ao formulario de insercao</texto>
+        </resultado>
+    <resultados>
+</doc>

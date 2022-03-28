@@ -1,0 +1,25 @@
+extends layout
+
+block content
+    h1 Lista de Musicas
+    h2 Gerado a: #{data.data}
+    hr
+    address 
+        a(class="botao" href="/") Volta à pagina inicial
+        a(class="botao" href="/musicas/inserir") Inserir nova música
+    hr
+
+    table(class="w3-table w3-bordered")
+        tr 
+            th Identificador 
+            th Titulo 
+            th Provincia
+
+        each m in musicas
+            tr(class="li-item")
+                td 
+                    a(href="/musicas/"+m.id)= m.id
+                td= m.tit
+                td
+                    a(href="/provincias/"+m.prov)= m.prov
+
