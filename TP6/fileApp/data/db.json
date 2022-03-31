@@ -1,0 +1,36 @@
+{
+  "ficheiros": [
+    {
+      "date": "2022-03-30T13:56",
+      "name": "bugs-bunny.jpg",
+      "mimetype": "image/jpeg",
+      "size": 67755,
+      "descricao": "ola",
+      "id": 1
+    },
+    {
+      "date": "2022-03-30T14:08",
+      "name": "bugs-bunny.jpg",
+      "mimetype": "image/jpeg",
+      "size": 67755,
+      "descricao": "sdfgdfg",
+      "id": 2
+    },
+    {
+      "date": "2022-03-30T14:09",
+      "name": "tasmanian-devil.jpg",
+      "mimetype": "image/jpeg",
+      "size": 248401,
+      "descricao": "sdfsdfsd",
+      "id": 3
+    },
+    {
+      "date": "2022-03-30T14:12",
+      "name": "sylvester.png",
+      "mimetype": "image/png",
+      "size": 240557,
+      "descricao": "df",
+      "id": 4
+    }
+  ]
+}

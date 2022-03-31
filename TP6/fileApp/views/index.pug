@@ -1,0 +1,57 @@
+extends layout
+
+
+block content
+  h1 Gestor Web de ficheiros 
+  hr
+  
+  form(action="/upload" method="POST" enctype="multipart/form-data")
+    div.row
+      div.column
+        label(for="ficheiro") Selecione o ficheiro: 
+        input(class="w3-input" type="file" name="ficheiro" placeholder="Selecione aqui o ficheiro...")
+      div.column
+        label(for="ficheiro") Descreva o ficheiro: 
+        input(class="w3-input" type="text" name="descricao" placeholder="Escreva aqui a descricao...")
+    div(class="w3-container w3-center")
+      input(class="w3-center w3-btn botao" type="submit" value="Enviar")
+
+  hr
+  h1 Lista de ficheiros  
+
+  table(class="w3-table w3-striped w3-centered w3-bordered tabela")
+        tr 
+            th Id 
+            th Nome 
+            th Descricao
+            th Tipo 
+            th Tamanho (bytes)
+            th Data 
+
+        each f in ficheiros
+            tr(class="li-item")
+                td(class="td-id")= f.id
+                td= f.name
+                td= f.descricao
+                td= f.mimetype
+                td= f.size
+                td= f.data
+                td 
+                  a(href="/apagar/"+f.id) Apagar
+                td 
+                  a(id="ver" href="#" onclick=`visualizador('${f.id}','${f.mimetype}');`) Ver
+                td 
+                  a(href="/descarregar/"+f.id) Descarregar
+  
+
+  div(id="start-modal" class="w3-modal")
+    div(class="w3-modal-content modal")
+
+      div(class="w3-container")
+        button(class="w3-closebtn w3-right" onclick="document.getElementById('start-modal').style.display='none'") Fechar
+      div(class="w3-container")
+        h2 Modal de Visualização
+        div(class="w3-container")
+          div(class="w3-center mostrador" id="mostrador")
+
+  script(src="/javascripts/indexScripts.js")
