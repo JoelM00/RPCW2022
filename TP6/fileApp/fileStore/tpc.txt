@@ -1,0 +1,12 @@
+TPC Web app gerada com express, com view em pug
+    -> Modelo: ficheiro JSON ou DB Mongo (para meta informacao)
+        -> ficheiros, sempre guardados no file system
+    
+    GET / -> pagina principal: com formulario com input do ficheiro e descricao do ficheiro na parte de cima e lista de ficheiros na parte de baixo
+
+        cada atributo do elemento da lista tem de ter um botao para remoção 
+
+
+
+* Conseguir ver imagens no lado do cliente 
+
