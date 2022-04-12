@@ -1,21 +1,45 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xml>
-    <Titulo>
-        Criação página web sobre Japão
-    </Titulo>
-    <Data>
-        17 de Fevereiro de 2022
-    </Data>
-    <Autor>
-        Joel Salgueiro Martins PG47347
-    </Autor>
-    <UC>
-        Representação e Processamento de Conhecimento na Web (RPCW)
-    </UC>
-    <Resumo>
-
-    </Resumo>
-    <ListaDeResultados>
-
-    </ListaDeResultados>
-</xml>
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+    <meta>
+        <titulo>TPC6: Aplicação para gestão de ficheiros na WEB</titulo>
+        <data>05-04-2022</data>
+        <autor>
+            <id>PG47347</id>
+            <nome>Joel Salgueiro Martins</nome>
+        </autor>
+        <uc>
+            <sigla>RPCW2022</sigla>
+            <nome>Representação e Processamento de Conhecimento na Web</nome>
+        </uc>
+    </meta>
+    <resumo>
+        <p>Aplicação capaz de guardar todo o tipo de ficheiros com respetiva descricao</p>
+        <p>É capaz de apagar, vizualizar e descarregar os ficheiros guardados</p>
+    </resumo>
+    <resultados>
+        <resultado>
+            <url>app.js</url>
+            <texto>Código base para a aplicação</texto>
+        </resultado>
+        <resultado>
+            <url>public/stylesheets/style.css</url>
+            <texto>Alguns efeitos de css para as paginas</texto>
+        </resultado>
+        <resultado>
+            <url>public/images/favicon.png</url>
+            <texto>Favicon para o browser</texto>
+        </resultado>
+        <resultado>
+            <url>public/javascripts/indexScripts.js</url>
+            <texto>Codigo JS para tratar de toda a interção entre o cliente e a aplicação</texto>
+        </resultado>
+        <resultado>
+            <url>routes/index.js</url>
+            <texto>Codigo JS para tratar de toda a lógica de receção e resolução do pedido</texto>
+        </resultado>
+        <resultado>
+            <url>views/index.pug</url>
+            <texto>Codigo no formato pug para geracao da pagina principal</texto>
+        </resultado>
+    <resultados>
+</doc>

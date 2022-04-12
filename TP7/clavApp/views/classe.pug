@@ -1,0 +1,51 @@
+extends layout
+
+block content
+    h1= titulo
+    p= descricao
+    p Codigo: #{codigo}
+
+
+    if filhos.length > 0
+        h2 Filhos
+        table.w3-table
+            tr 
+                th Codigo 
+                th Titulo
+            each f in filhos
+                tr   
+                    td
+                        a(href='/'+f.codigo)= f.codigo 
+                    td= f.titulo  
+    else 
+        p Nao tem filhos
+
+    if nivel == 3 && processosRelacionados.length > 0
+        - var existem = 0
+        h2 Processos relacionados
+        table.w3-table
+            tr 
+                th Codigo 
+                th Titulo
+                th Relacao
+            each p in processosRelacionados 
+                if p.idRel == 'eCruzadoCom' || p.idRel == 'eComplementarDe' || p.idRel == 'eSuplementoDe' || p.idRel == 'eSuplementoPara'
+                    - existem = 1
+                    tr   
+                        td
+                            a(href='/'+p.codigo)= p.codigo 
+                        td= p.titulo  
+                        td= p.idRel
+            if existem == 0
+                p Nenhum dos processos cumpre os requisitos
+    else 
+        p Nao tem relacionamentos
+
+    footer 
+        address.w3-bottom.w3-padding Gerado por Joel Martins
+            a.w3-margin-left(href='/') Home
+            a.w3-margin-left(href='#' onclick='window.history.go(-1)') Back
+
+
+
+
