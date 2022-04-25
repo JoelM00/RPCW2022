@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+    <meta>
+        <titulo>TPC8: Aplicação de página única para manipulação de parágrafos</titulo>
+        <data>26-04-2022</data>
+        <autor>
+            <id>PG47347</id>
+            <nome>Joel Salgueiro Martins</nome>
+        </autor>
+        <uc>
+            <sigla>RPCW2022</sigla>
+            <nome>Representação e Processamento de Conhecimento na Web</nome>
+        </uc>
+    </meta>
+    <resumo>
+        <p>Aplicação capaz de registar editar e apagar parágrafos, numa única página.</p>
+    </resumo>
+    <resultados>
+        <resultado>
+            <url>app.js</url>
+            <texto>Código base para a aplicação</texto>
+        </resultado>
+        <resultado>
+            <url>controllers/para.js</url>
+            <texto>Código JS capaz de fazer a interação com o mongo</texto>
+        </resultado>
+        <resultado>
+            <url>models/para.js</url>
+            <texto>Modelo para armazenamento do paragrafo no mongo</texto>
+        </resultado>
+        <resultado>
+            <url>public/stylesheets/style.css</url>
+            <texto>Alguns efeitos de css para as paginas</texto>
+        </resultado>
+        <resultado>
+            <url>routes/index.js</url>
+            <texto>Codigo JS para tratar de toda a lógica de receção e resolução do pedido</texto>
+        </resultado>
+        <resultado>
+            <url>views/index.pug</url>
+            <texto>Codigo no formato pug para geracao da pagina principal</texto>
+        </resultado>
+        <resultado>
+            <url>public/javascripts/scripts.js</url>
+            <texto>Codigo JS para correr no lado do cliente. Capaz de tratar dos pedidos de get e post, assim como apresentar os resultados na página principal</texto>
+        </resultado>
+    <resultados>
+</doc>
