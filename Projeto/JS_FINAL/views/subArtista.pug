@@ -1,0 +1,11 @@
+extends layout
+
+block content
+  h1 Submeta à SpotCloudSound
+
+  form(action="/submeter/artista" method="POST" enctype="multipart/form-data")
+    label(for="artista") Selecione o artist.nfo: 
+    input(type="file" name="artista" placeholder="Selecione aqui o ficheiro..." required)
+    label(for="foto") Selecione a foto: 
+    input(type="file" name="foto" placeholder="Selecione aqui o ficheiro..." required)
+    input(id="enviar" type="submit" value="Enviar")

@@ -1,0 +1,22 @@
+extends layout
+
+block content
+  h1 Artistas disponiveis
+  p lista de artistas
+  
+  table#tabela.w3-table
+    tr 
+      th(class="botao" onclick="sortTable(0)") Nome
+      th(class="botao" onclick="sortTable(1)") Albuns 
+      th(class="botao" onclick="sortTable(2)") Musicas
+      each a in artistas
+        tr(id=""+a._id)
+          td
+            a(href="/artistas/"+a._id)= a.nome
+          td= a.totalAlbuns
+          td= a.totalMusicas
+          if  user.tipo == "admin" || (user.artista != undefined && user.artista == a._id) || (a.user == user.nome)
+            td 
+              button(class="remover" id=""+a._id) ✖
+  
+  script(src="/javascripts/artistas.js")

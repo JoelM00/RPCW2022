@@ -1,0 +1,19 @@
+extends layout
+
+block content
+  h1 Submeta ao SoundSpot
+
+  if user.artista == undefined
+    p
+      a(href="artistas/criarArtista") Cria o seu perfil de artista
+
+  label(for="opcoes") Escolha o tipo de submissao:
+  ul(name="opcoes")
+    li 
+      a(href="/submeter/musica") Musica
+    if user.tipo == "admin" || user.tipo == "produtor"
+      p Antes de submeter um <strong> album</strong>, garanta que ja submeteu o <strong>artista</strong> correspondente.
+      li 
+        a(href="/submeter/artista") Artista
+      li 
+        a(href="/submeter/album") Album

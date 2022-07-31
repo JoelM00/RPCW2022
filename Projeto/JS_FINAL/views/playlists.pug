@@ -1,0 +1,27 @@
+extends layout
+
+block content
+  h1 Playlists disponiveis
+
+  a(href="/") Home 🏠
+  a(href="/musicas/") Musicas 🎵
+  
+  table#tabela.w3-table
+    tr 
+      th(class="botao" onclick="sortTable(0)") Nome
+      th(class="botao" onclick="sortTable(1)") Autor
+      th(class="botao" onclick="sortTable(2)") Musicas
+      th(class="botao" onclick="sortTable(3)") Data
+      each p in playlists
+        tr(id=""+p._id)
+          td
+            a(href="/playlists/"+p._id)= p.nome
+          td 
+            a(href="/users/"+p.autor)= p.autor
+          td= p.musicas
+          td= p.data
+          if  user.tipo == "admin" || p.autor == user.nome 
+            td 
+              button(class="remover" id=""+p._id) ✖
+  
+  script(src="/javascripts/playlists.js")

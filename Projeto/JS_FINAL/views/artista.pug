@@ -1,0 +1,47 @@
+extends layout
+
+block content
+  link(rel='stylesheet', href='/stylesheets/artista.css')
+  
+  h1= artista.nome
+  p= artista.biografia
+
+  if artista.moods.length > 0
+    h2 Moods
+    ul
+    each m in artista.moods
+      li= m
+
+  if artista.redes.length > 0
+    h2 Redes Sociais
+    ul
+    each r in artista.redes 
+      li
+        a(href="https://"+r.link)= r.tipo
+        if r.tipo == "instagram"
+          i(class="fa-brands fa-2x fa-instagram")
+        else if r.tipo == "facebook"
+          i(class="fa-brands fa-2x fa-facebook")
+        else if r.tipo == "twitter"
+          i(class="fa-brands fa-2x fa-twitter")
+
+  h2 Foto do artista
+  img(src="/foto/"+artista._id)
+
+  if albuns.length > 0
+    h2 Albuns 
+    table#tabela.w3-table
+      tr 
+        th(class="botao" onclick="sortTable(0)") Nome 
+        th(class="botao" onclick="sortTable(1)") Musicas 
+      each a in albuns
+        tr 
+          td
+            a(href='/albuns/'+a._id)= a.nome
+          td= a.totalMusicas
+          if user.tipo == "admin" || a.artista == user.nome 
+            td 
+              button(class="remover" id=""+a._id) ✖
+
+  script(src="/javascripts/artista.js")
+

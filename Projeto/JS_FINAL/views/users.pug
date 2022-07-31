@@ -1,0 +1,13 @@
+extends layout
+
+block content
+  h1 Utilizadores registados
+  
+  ul
+    each u in users
+      li(id=""+u.nome)
+        a(href="/users/"+u.nome)= u.nome 
+        if  user.tipo == "admin" && user.nome != u.nome
+          button(class="remover" id=""+u.nome) ✖
+  
+  script(src="/javascripts/users.js")

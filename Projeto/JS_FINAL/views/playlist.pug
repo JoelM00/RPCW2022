@@ -1,0 +1,35 @@
+extends layout
+
+block content
+    h1 Playlist: #{playlist.nome}
+    p Criada por: #{playlist.autor}
+    p#id-playlist.hide= playlist._id
+
+    p Descricao: #{playlist.descricao}
+
+    p Data: #{playlist.data}
+
+
+    h2 Musicas 
+    table 
+        tr 
+            th Nome 
+        each m in musicas
+            tr 
+                if m.nome == undefined
+                    td 
+                        p música apagada...
+                else 
+                    td
+                        a(href='/musicas/'+m.id)= m.nome
+
+    form(id="comentario-form")
+        label(for="comentario") Escreva um comentario: 
+        input(type="text" name="comentario" id="comentario" placeholder="Comenta aqui..." required)
+        button(id="comentar") Comentar
+        
+    div(id="comentarios")
+
+    script(src="/javascripts/playlist.js")
+    
+    

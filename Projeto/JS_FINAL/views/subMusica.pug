@@ -1,0 +1,11 @@
+extends layout
+
+block content
+  h1 Submeta à SpotCloudSound
+
+  form(action="/submeter/musica" method="POST" enctype="multipart/form-data")
+    label(for="musicas") Selecione as musicas: 
+    input(type="file" name="musicas" placeholder="Selecione aqui o ficheiro..." multiple)
+    label(for="capa") Selecione a capa: 
+    input(type="file" name="capa" placeholder="Selecione aqui o ficheiro..." multiple)
+    input(id="enviar" type="submit" value="Enviar")

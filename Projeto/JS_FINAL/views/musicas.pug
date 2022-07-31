@@ -1,0 +1,46 @@
+extends layout
+
+block content
+  h1 Musicas disponiveis
+  p(class="hide" id="tipo-user")= user.tipo
+  p(class="hide" id="nome-user")= user.nome
+
+  a(href="/playlists") Home 🏠
+  a(href="/playlists") Playlists ▶
+
+  div(id="criar-div")
+
+  h2 lista de musicas 
+  input(id="procurar" placeholder="Procure uma musica...")
+
+  table(id="tabela").w3-table
+    tr
+      th(class="botao" onclick="sortTable(0)") Nome
+      th(class="botao" onclick="sortTable(1)") Album
+      th(class="botao" onclick="sortTable(2)") Artista
+      th(class="botao" onclick="sortTable(3)") Duracao
+      th(class="botao" onclick="sortTable(4)") Plays
+    each m in musicas
+      tr(id="row-"+m.musica._id class="row")
+        td
+          a(href="musicas/"+m.musica._id)= m.musica.nome
+        if m.album == undefined 
+          td Nao especificado  
+        else
+          td
+            a(href="/albuns/"+m.album._id)= m.album.nome 
+        if m.artista == undefined
+          td
+            a(href="/users/"+m.musica.artista)= m.musica.artista
+        else
+          td
+            a(href="/artistas/"+m.artista._id)= m.artista.nome
+        td= m.musica.duracao
+        td= m.musica.plays
+        td
+          span(id='botao')
+            button(id= m.musica._id class="favorito botao-favorito") ❤
+            button(id= m.musica._id class="add botao-playlist") ✔
+            button(id= m.musica._id class="rem botao-apagar "+m.musica.user) ✖
+        
+  script(src='/javascripts/musicas.js')

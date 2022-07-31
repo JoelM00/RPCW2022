@@ -1,0 +1,22 @@
+extends layout
+
+block content
+  if notificacoes.length > 0
+    h1 Notificacoes para 
+      span(id="nome")= user
+
+    ul
+      each n in notificacoes
+        li(id=""+n._id)
+          p #{n.data} - User: 
+            a(href="/users/"+n.autor)= n.autor
+          p Fez um comentario na sua: 
+            if n.fonte == "musica"
+              a(href="/musicas/"+n.idFonte)= n.fonte  
+            else if n.fonte == "playlist"
+              a(href="/playlists/"+n.idFonte)= n.fonte
+          button(class="remover" id=""+n._id) ✖
+  else
+    h1 Nao tem notificacoes 
+  
+  script(src="/javascripts/notificacoes.js")

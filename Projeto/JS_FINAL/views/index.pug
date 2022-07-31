@@ -1,0 +1,34 @@
+extends layout
+
+block content
+  h1 Bem vindo ao SoundSpot
+  h2 Sessão iniciada com: 
+    a(href="/users/"+user.nome)= user.nome
+  
+  if user.notificacoes.length > 0
+    h3 Notificacoes: 
+      a(href="/users/notificacoes")= user.notificacoes.length
+
+  form(action="/search" method="get")
+    input(type='text' name='search' placeholder='Procure algo...')
+    button Procurar
+   
+  ul 
+    li
+      a(href='/musicas') Musicas 
+    li 
+      a(href='/albuns') Albuns 
+    li 
+      a(href='/artistas') Artistas 
+    li 
+      a(href='/playlists') Playlists 
+    li 
+      a(href='/submeter') Submeter 
+    li 
+      a(href='/autenticar/logout') Logout 
+    li 
+      a(href='/users') Utilizadores
+
+  div#atividade
+
+  script(src="/javascripts/index.js")

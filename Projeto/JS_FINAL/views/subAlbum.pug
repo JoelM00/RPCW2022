@@ -1,0 +1,13 @@
+extends layout
+
+block content
+  h1 Submeta à SpotCloudSound
+
+  form(action="/submeter/album" method="POST" enctype="multipart/form-data")
+    label(for="album") Selecione o album.nfo: 
+    input(type="file" name="album" placeholder="Selecione aqui o ficheiro..." required)
+    label(for="capa") Selecione a capa: 
+    input(type="file" name="capa" placeholder="Selecione aqui o ficheiro..." required)
+    label(for="musicas") Selecione as músicas: 
+    input(type="file" name="musicas" placeholder="Selecione aqui o ficheiro..." multiple required)
+    input(id="enviar" type="submit" value="Enviar")

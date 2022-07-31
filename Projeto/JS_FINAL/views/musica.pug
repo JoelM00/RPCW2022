@@ -1,0 +1,46 @@
+doctype html
+html(lang="en")
+  head
+    title= musica.nome
+    link(rel="icon" type="image/png" href="/images/favicon.png")
+
+    link(rel='stylesheet', href='/stylesheets/style.css')
+    link(rel='stylesheet', href='/stylesheets/musica.css')
+    script(src="https://unpkg.com/wavesurfer.js")
+    script(src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.26.1/axios.min.js" integrity="sha512-bPh3uwgU5qEMipS/VOmRqynnMXGGSRv+72H/N260MQeXZIK4PG48401Bsby9Nq5P5fz7hy5UGNmC/W1Z51h2GQ==" crossorigin="anonymous" referrerpolicy="no-referrer")
+    script(src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js")
+  
+  body
+    p#id-musica.hide= musica._id
+    button(id= musica._id class="favorito botao-favorito") ❤
+    div.hero
+      div.music 
+        img(src="/capa/"+musica._id alt="capa da musica")
+        div.info
+          h2= musica.nome
+          if musica.albumNome != undefined 
+            a(href="/albuns/"+musica.albumId)= musica.albumNome
+          else if !musica.oficial
+            a(href="/users/"+musica.artista)= musica.artista
+          else if musica.oficial
+            a(href="/artistas/"+musica.artistaId)= musica.artista
+          
+          div(id="waveform")
+            audio(controls)
+              source(src="/musicas/ouvir/"+musica._id)
+          div.controls
+            img(id="play-btn" src="/images/play.png")
+            img(id="stop-btn" src="/images/stop.png")
+            img(id="volume-btn" src="/images/volume.png")
+
+    form(id="comentario-form")
+      label(for="comentario") Escreva um comentario: 
+      input(type="text" name="comentario" id="comentario" placeholder="Comenta aqui..." required)
+      button(id="comentar") Comentar
+
+    div#comentarios
+      
+    div#snackbar
+
+    script(src='/javascripts/layout.js')
+    script(src='/javascripts/musica.js')

@@ -1,0 +1,32 @@
+extends layout
+
+block content
+  h1= album.nome
+  p= album.artista
+  p= album.dataLancamento 
+  p= album.genero
+  p= album.critica
+
+  h2 Capa
+  img(src="/albuns/capa/"+album._id alt="capa do album")
+
+  if musicas.length > 0
+    h2 Musicas
+    table#tabela.w3-table 
+      tr 
+        th(class="botao" onclick="sortTable(0)") Nome 
+        th(class="botao" onclick="sortTable(1)") Comentarios 
+        th(class="botao" onclick="sortTable(2)") Plays
+        th(class="botao" onclick="sortTable(3)") Favoritos 
+      each m in musicas 
+        tr 
+          td
+            a(href='/musicas/'+m._id)= m.nome
+          td= m.comentarios.length
+          if m.plays == undefined
+            td 0
+          else 
+            td= m.plays
+          td= m.favoritos
+
+

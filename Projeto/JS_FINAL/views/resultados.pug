@@ -1,0 +1,44 @@
+extends layout
+
+block content
+
+    if (musicas.length > 0 || artistas.length > 0 || albuns.length > 0 || users.length > 0)
+
+        input(type="text" id="myInput" onkeyup="myFunction()" placeholder="Procure nos resultados...")
+
+        if musicas.length > 0
+            h1 Musicas encontradas
+            
+            ul#musicas
+                each m in musicas
+                    li
+                        a(href="musicas/"+m._id)= m.nome
+
+        if artistas.length > 0
+            h1 Artistas encontrados
+            
+            ul#artistas
+                each a in artistas
+                    li
+                        a(href="artistas/"+a._id)= a.nome
+        
+        if albuns.length > 0
+            h1 Albuns encontrados
+            
+            ul#albuns
+                each a in albuns
+                    li
+                        a(href="albuns/"+a._id)= a.nome
+
+        if users.length > 0
+            h1 Users encontrados
+            
+            ul#users
+                each u in users
+                    li
+                        a(href="users/"+u.nome)= u.nome
+    else 
+        h2 O que procura não existe...
+
+    script(src="/javascripts/resultados.js")
+            

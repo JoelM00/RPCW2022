@@ -1,0 +1,23 @@
+extends layout
+
+block content
+  h1 Albuns disponiveis
+  p lista de albuns
+
+  table#tabela.w3-table
+    tr 
+      th(class="botao" onclick="sortTable(0)") Nome
+      th(class="botao" onclick="sortTable(1)") Artista
+      th(class="botao" onclick="sortTable(2)") Genero
+      each a in albuns
+        tr(id=""+a._id)
+          td
+            a(href="/albuns/"+a._id)= a.nome
+          td
+            a(href="/artistas/"+a.idArtista)= a.artista
+          td= a.genero
+          if  user.tipo == "admin" || a.artista == user.nome ||  (a.user == user.nome)
+            td 
+              button(class="remover" id=""+a._id) ✖
+
+  script(src="/javascripts/albuns.js")
